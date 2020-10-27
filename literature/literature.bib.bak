@@ -1,0 +1,110 @@
+% Encoding: UTF-8
+Key: 
+@article{rosemann2018audio,
+  title={Audio-visual speech processing in age-related hearing loss: Stronger integration and increased frontal lobe recruitment},
+  author={Rosemann, Stephanie and Thiel, Christiane M},
+  journal={NeuroImage},
+  volume={175},
+  pages={425--437},
+  year={2018},
+  publisher={Elsevier}
+}
+Key : classical study on multisensory integration
+@ARTICLE{nakamura2002integration,
+  author={S. {Nakamura}},
+  journal={IEEE Transactions on Neural Networks}, 
+  title={Statistical multimodal integration for audio-visual speech processing}, 
+  year={2002},
+  volume={13},
+  number={4},
+  pages={854-866},
+}
+  
+Key : handedness test  
+@article{oldfield1971handedness,
+title = "The assessment and analysis of handedness: The Edinburgh inventory",
+journal = "Neuropsychologia",
+volume = "9",
+number = "1",
+pages = "97 - 113",
+year = "1971",
+issn = "0028-3932",
+doi = "https://doi.org/10.1016/0028-3932(71)90067-4",
+url = "http://www.sciencedirect.com/science/article/pii/0028393271900674",
+author = "R.C. Oldfield",
+abstract = "The need for a simply applied quantitative assessment of handedness is discussed and some previous forms reviewed. An inventory of 20 items with a set of instructions and response- and computational-conventions is proposed and the results obtained from a young adult population numbering some 1100 individuals are reported. The separate items are examined from the point of view of sex, cultural and socio-economic factors which might appertain to them and also of their inter-relationship to each other and to the measure computed from them all. Criteria derived from these considerations are then applied to eliminate 10 of the original 20 items and the results recomputed to provide frequency-distribution and cumulative frequency functions and a revised item-analysis. The difference of incidence of handedness between the sexes is discussed."
+}
+
+@Article{uslar2013stimuli,
+  author  = {Uslar,Verena N. and Carroll,Rebecca and Hanke,Mirko and Hamann,Cornelia and Ruigendijk,Esther and Brand,Thomas and Kollmeier,Birger},
+  journal = {The Journal of the Acoustical Society of America},
+  title   = {Development and evaluation of a linguistically and audiologically controlled sentence intelligibility test},
+  year    = {2013},
+  number  = {4},
+  pages   = {3039-3056},
+  volume  = {134},
+  doi     = {10.1121/1.4818760},
+  eprint  = {https://doi.org/10.1121/1.4818760},
+  url     = {https://doi.org/10.1121/1.4818760},
+}
+
+@ARTICLE{Macdonald1978mcgurkeffect,
+author={Macdonald, J. and McGurk, H.},
+title={Visual influences on speech perception processes},
+journal={Perception & Psychophysics},
+year={1978},
+volume={24},
+number={3},
+pages={253-257},
+doi={10.3758/BF03206096},
+note={cited By 284},
+url={https://www.scopus.com/inward/record.uri?eid=2-s2.0-0018388657&doi=10.3758%2fBF03206096&partnerID=40&md5=c6d275c9b9a1362aeacf87e25a494621},
+affiliation={Department of Psychology, University of Surrey, Guildford, GU2 5XH, Surrey, United Kingdom},
+abstract={An experiment is reported, the results of which confirm and extend an earlier observation that visual information for the speaker's lip movements profoundly modifies the auditorv perception of natural speech by normally hearing subjects. The effect is most pronounced when there is auditory information for a bilabial utterance combined with visual information for a nonlabial utterance. However, the effect is also obtained with the reverse combination, although to a lesser extent. These findings are considered for their relevance to auditory theories of speech perception. © 1978 Psychonomic Society, Inc.},
+keywords={auditory system;  central nervous system;  human cell;  normal human;  visual system, Adolescent;  Adult;  Female;  Human;  Lipreading;  Male;  Phonetics;  Speech Perception;  Visual Perception},
+correspondence_address1={McGurk, H.; Department of Psychology, University of Surrey, Guildford, GU2 5XH, Surrey, United Kingdom},
+issn={00315117},
+coden={PEPSB},
+pubmed_id={704285},
+language={English},
+abbrev_source_title={Percept. Psychophys.},
+document_type={Article},
+source={Scopus},
+}
+
+@article{LEZZOUM2016372,
+title = "Echo threshold between passive and electro-acoustic transmission paths in digital hearing protection devices",
+journal = "International Journal of Industrial Ergonomics",
+volume = "53",
+pages = "372 - 379",
+year = "2016",
+issn = "0169-8141",
+doi = "https://doi.org/10.1016/j.ergon.2016.04.004",
+url = "http://www.sciencedirect.com/science/article/pii/S0169814116300233",
+author = "Narimene Lezzoum and Ghyslain Gagnon and Jérémie Voix",
+keywords = "Hearing protection device, Echo threshold, Just noticeable difference, Delay",
+abstract = "Electronic hearing protection devices are increasingly used in noisy environments. Theses devices feature a miniaturized external microphone and internal loudspeaker in addition to an analog or digital electronic circuit. They can transmit useful audio signals such as speech and warning signals to the protected ear and can reduce the sound pressure level using dynamic range compression. In the case of a digital electronic circuit, the transmission of audio signals may be noticeably delayed because of the latency introduced by the digital signal processor and by the analog-to-digital and digital-to-analog converters. These delayed audio signals will hence interfere with the audio signals perceived naturally through the passive acoustical path of the device. The proposed study presents an original procedure to evaluate, for two representative passive earplugs, the shortest delay at which human listeners start to perceive two sounds composed of the signal transmitted through the electronic circuit and the passively transmitted signal. This shortest delay is called the echo threshold and represents the delay between the time of perception of one fused sound from two separate sounds. In this study, a transient signal, a clean speech signal, a speech signal corrupted by factory noise, and a speech signal corrupted by babble noise are used to determine the echo thresholds of the two earplugs. Twenty untrained listeners participated in this study, and were asked to determine the echo thresholds using a test software in which attenuated signals are delayed from the original signals in real-time. The findings show that when using hearing devices, the echo threshold depends on four parameters: (a) the attenuation function of the device, (b) the duration of the signal, (c) the level of the background noise and (d) the type of background noise. Defined here as the shortest time delay at which at least 20% of the participants noticed an echo, the echo threshold was found to be 8 ms for a bell signal, 16 ms for clean speech and 22 ms for speech corrupted by babble noise when using a shallow earplug fit. When using a deep fit, the echo threshold was found to be 18 ms for a bell signal and 26 ms for clean speech and 68 ms for speech in factory. No echo threshold could be clearly determined for the speech signal in babble noise with a deep earplug fit."
+}
+
+@article{noel2017atypical,
+  title={Atypical rapid audio-visual temporal recalibration in autism spectrum disorders},
+  author={Noel, Jean-Paul and De Niear, Matthew A and Stevenson, Ryan and Alais, David and Wallace, Mark T},
+  journal={Autism Research},
+  volume={10},
+  number={1},
+  pages={121--129},
+  year={2017},
+  publisher={Wiley Online Library}
+}
+
+@article{stone2002tolerable,
+  title={Tolerable hearing aid delays. II. Estimation of limits imposed during speech production},
+  author={Stone, Michael A and Moore, Brian CJ},
+  journal={Ear and Hearing},
+  volume={23},
+  number={4},
+  pages={325--338},
+  year={2002},
+  publisher={LWW}
+}
+@Comment{jabref-meta: databaseType:bibtex;}
