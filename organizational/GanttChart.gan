@@ -1,10 +1,13 @@
-<?xml version="1.0" encoding="UTF-8"?><project name="BA Thesis" company="" webLink="http://" view-date="2020-12-07" view-index="0" gantt-divider-location="298" resource-divider-location="300" version="2.8.11" locale="en_GB">
+<?xml version="1.0" encoding="UTF-8"?><project name="BA Thesis" company="" webLink="http://" view-date="2020-11-02" view-index="0" gantt-divider-location="457" resource-divider-location="300" version="2.8.11" locale="en_GB">
     <description/>
-    <view zooming-state="default:5" id="gantt-chart">
-        <field id="tpd3" name="Name" width="166" order="0"/>
-        <field id="tpd4" name="Begin date" width="64" order="1"/>
-        <field id="tpd5" name="End date" width="64" order="2"/>
-        <option id="color.recent"><![CDATA[#ffcc00]]></option>
+    <view zooming-state="default:6" id="gantt-chart">
+        <field id="tpd3" name="Name" width="285" order="0"/>
+        <field id="tpd4" name="Begin date" width="76" order="1"/>
+        <field id="tpd5" name="End date" width="77" order="2"/>
+        <option id="taskLabelDown" value=""/>
+        <option id="taskLabelLeft" value="name"/>
+        <option id="taskLabelRight" value="length"/>
+        <option id="color.recent"><![CDATA[#ffff00 #33ff33 #f4f4f4 #ff0066 #ffcc00]]></option>
     </view>
     <view id="resource-table">
         <field id="0" name="Name" width="210" order="0"/>
@@ -134,49 +137,136 @@
             <taskproperty id="tpd8" name="coordinator" type="default" valuetype="text"/>
             <taskproperty id="tpd9" name="predecessorsr" type="default" valuetype="text"/>
         </taskproperties>
-        <task id="44" name="Preparation" color="#000000" meeting="false" project="true" start="2020-10-19" duration="4" complete="65" thirdDate="2020-10-19" thirdDate-constraint="0" expand="true">
-            <task id="45" name="Set Up Document" color="#8cb6ce" meeting="false" start="2020-10-19" duration="2" complete="81" thirdDate="2020-10-19" thirdDate-constraint="0" expand="true"/>
+        <task id="44" name="Preparation" color="#ff0066" meeting="false" project="true" start="2020-10-19" duration="7" complete="87" thirdDate="2020-10-19" thirdDate-constraint="0" expand="true">
+            <task id="45" name="Set Up Document" color="#8cb6ce" meeting="false" start="2020-10-23" duration="2" complete="81" thirdDate="2020-10-19" thirdDate-constraint="0" expand="true"/>
             <task id="46" name="Create Gantt Chart" color="#8cb6ce" meeting="false" start="2020-10-19" duration="4" complete="81" thirdDate="2020-10-19" thirdDate-constraint="0" expand="true">
                 <depend id="75" type="2" difference="0" hardness="Strong"/>
             </task>
             <task id="47" name="Set up Git" color="#8cb6ce" meeting="false" start="2020-10-19" duration="1" complete="100" thirdDate="2020-10-19" thirdDate-constraint="0" expand="true"/>
-            <task id="48" name="Set Up Citation Base" color="#8cb6ce" meeting="false" start="2020-10-19" duration="2" complete="0" thirdDate="2020-10-19" thirdDate-constraint="0" expand="true"/>
+            <task id="48" name="Set Up Citation Base" color="#8cb6ce" meeting="false" start="2020-10-26" duration="2" complete="100" thirdDate="2020-10-19" thirdDate-constraint="0" expand="true"/>
         </task>
-        <task id="74" name="Literature Review" meeting="false" start="2020-10-19" duration="20" complete="6" expand="true">
-            <task id="75" name="Structure of Literature Review" color="#ffcc00" meeting="false" start="2020-10-23" duration="6" complete="0" thirdDate="2020-10-19" thirdDate-constraint="0" expand="true">
+        <task id="74" name="Literature Review" meeting="false" start="2020-10-19" duration="25" complete="4" expand="true">
+            <task id="75" name="Structure of Literature Review" color="#ffcc00" meeting="false" start="2020-10-23" duration="8" complete="0" thirdDate="2020-10-19" thirdDate-constraint="0" expand="true">
                 <depend id="76" type="2" difference="0" hardness="Strong"/>
             </task>
-            <task id="76" name="Lit Review Draft" color="#8cb6ce" meeting="false" start="2020-11-02" duration="7" complete="0" thirdDate="2020-10-19" thirdDate-constraint="0" expand="true"/>
-            <task id="78" name="Source Collection Literature Review" color="#8cb6ce" meeting="false" start="2020-10-19" duration="20" complete="11" thirdDate="2020-10-19" thirdDate-constraint="0" expand="true"/>
+            <task id="76" name="Lit Review Draft" color="#8cb6ce" meeting="false" start="2020-11-12" duration="7" complete="0" thirdDate="2020-10-19" thirdDate-constraint="0" expand="true">
+                <depend id="180" type="2" difference="0" hardness="Strong"/>
+            </task>
+            <task id="78" name="Source Collection Literature Review" color="#8cb6ce" meeting="false" start="2020-10-19" duration="15" complete="11" thirdDate="2020-10-19" thirdDate-constraint="0" expand="true">
+                <depend id="154" type="2" difference="0" hardness="Strong"/>
+            </task>
+            <task id="154" name="Source Selection" color="#8cb6ce" meeting="false" start="2020-11-09" duration="3" complete="0" thirdDate="2020-11-09" thirdDate-constraint="0" expand="true">
+                <depend id="76" type="2" difference="0" hardness="Strong"/>
+            </task>
+            <task id="180" name="Hand In Lit Review" color="#8cb6ce" meeting="true" start="2020-11-24" duration="0" complete="0" thirdDate="2020-09-21" thirdDate-constraint="0" expand="true">
+                <depend id="161" type="2" difference="0" hardness="Strong"/>
+                <depend id="306" type="2" difference="0" hardness="Strong"/>
+            </task>
         </task>
-        <task id="31" name="The Actual Experiment" color="#8cb6ce" meeting="false" start="2020-10-19" duration="76" complete="0" thirdDate="2020-10-19" thirdDate-constraint="0" expand="true">
-            <depend id="62" type="2" difference="0" hardness="Rubber"/>
-            <task id="59" name="Collect Participants" meeting="false" start="2020-10-19" duration="1" complete="0" expand="true"/>
-            <task id="60" name="Conduct Experiment" color="#8cb6ce" meeting="false" start="2020-12-01" duration="30" complete="0" thirdDate="2020-10-19" thirdDate-constraint="0" expand="true"/>
+        <task id="31" name="The Actual Experiment" color="#8cb6ce" meeting="false" start="2020-11-02" duration="73" complete="0" thirdDate="2020-10-19" thirdDate-constraint="0" expand="true">
+            <task id="59" name="Collect Participants" color="#8cb6ce" meeting="false" start="2020-11-16" duration="30" complete="0" thirdDate="2020-10-19" thirdDate-constraint="0" expand="true"/>
+            <task id="349" name="Pilot Experiment" color="#8cb6ce" meeting="false" start="2020-12-15" duration="3" complete="0" thirdDate="2020-09-28" thirdDate-constraint="0" expand="true">
+                <depend id="60" type="2" difference="0" hardness="Strong"/>
+            </task>
+            <task id="60" name="Conduct Experiment" color="#8cb6ce" meeting="false" start="2020-12-18" duration="25" complete="0" thirdDate="2020-10-19" thirdDate-constraint="0" expand="true">
+                <notes><![CDATA[1 Person, 1 Hour. 
+60 People --> 60 Hours
+4 Lab Hours a Day --> 15 Days
+5 days buffer]]></notes>
+                <depend id="73" type="2" difference="0" hardness="Strong"/>
+                <depend id="213" type="2" difference="0" hardness="Strong"/>
+            </task>
             <task id="23" name="Design Experiment" color="#8cb6ce" meeting="false" start="2020-11-02" duration="10" complete="0" thirdDate="2020-10-19" thirdDate-constraint="0" expand="true">
+                <depend id="59" type="2" difference="0" hardness="Strong"/>
+                <depend id="61" type="2" difference="0" hardness="Strong"/>
+                <depend id="168" type="2" difference="0" hardness="Strong"/>
+                <depend id="337" type="2" difference="0" hardness="Strong"/>
+            </task>
+            <task id="344" name="Code Experiment" color="#8cb6ce" meeting="false" start="2020-11-24" duration="10" complete="0" thirdDate="2020-10-01" thirdDate-constraint="0" expand="true">
                 <depend id="61" type="2" difference="0" hardness="Strong"/>
             </task>
-            <task id="61" name="Test Experiment" meeting="false" start="2020-11-16" duration="1" complete="0" expand="true"/>
-            <task id="73" name="Statistical Analysis" color="#8cb6ce" meeting="false" start="2021-02-01" duration="5" complete="0" thirdDate="2020-10-19" thirdDate-constraint="0" expand="true"/>
-        </task>
-        <task id="62" name="Write Up" color="#000000" meeting="false" start="2021-02-08" duration="8" complete="0" thirdDate="2021-02-08" thirdDate-constraint="0" expand="true">
-            <task id="63" name="Write Intro" color="#8cb6ce" meeting="false" start="2021-02-08" duration="3" complete="0" thirdDate="2021-02-08" thirdDate-constraint="0" expand="true"/>
-            <task id="64" name="Write Methods" color="#8cb6ce" meeting="false" start="2021-02-08" duration="5" complete="0" thirdDate="2021-02-08" thirdDate-constraint="0" expand="true"/>
-            <task id="65" name="Write Materials" color="#8cb6ce" meeting="false" start="2021-02-08" duration="5" complete="0" thirdDate="2021-02-08" thirdDate-constraint="0" expand="true"/>
-            <task id="66" name="Write Procedure" color="#8cb6ce" meeting="false" start="2021-02-08" duration="8" complete="0" thirdDate="2021-02-08" thirdDate-constraint="0" expand="true"/>
-            <task id="67" name="Write Results" color="#8cb6ce" meeting="false" start="2021-02-08" duration="5" complete="0" thirdDate="2021-02-08" thirdDate-constraint="0" expand="true">
-                <task id="152" name="Presentation Of Results" color="#8cb6ce" meeting="false" start="2021-02-08" duration="5" complete="0" thirdDate="2021-02-08" thirdDate-constraint="0" expand="true"/>
+            <task id="168" name="Formalize Procedure" color="#8cb6ce" meeting="false" start="2020-11-16" duration="5" complete="0" thirdDate="2020-11-16" thirdDate-constraint="0" expand="true">
+                <depend id="61" type="2" difference="0" hardness="Strong"/>
+                <depend id="66" type="2" difference="0" hardness="Strong"/>
+                <depend id="344" type="2" difference="0" hardness="Strong"/>
             </task>
-            <task id="68" name="Write Discussion" meeting="false" start="2021-02-08" duration="1" complete="0" expand="true"/>
-            <task id="70" name="Revise Thesis" color="#8cb6ce" meeting="false" start="2021-02-08" duration="3" complete="0" thirdDate="2021-02-08" thirdDate-constraint="0" expand="true"/>
-            <task id="72" name="Write Outlook" color="#8cb6ce" meeting="false" start="2021-02-08" duration="3" complete="0" thirdDate="2021-02-08" thirdDate-constraint="0" expand="true"/>
-            <task id="96" name="Set Title" color="#8cb6ce" meeting="false" start="2021-02-08" duration="1" complete="0" thirdDate="2021-02-08" thirdDate-constraint="0" expand="true"/>
-            <task id="99" name="Spell out Hypothesis" color="#8cb6ce" meeting="false" start="2021-02-08" duration="2" complete="0" thirdDate="2021-02-08" thirdDate-constraint="0" expand="true"/>
+            <task id="61" name="Test Experiment" color="#8cb6ce" meeting="false" start="2020-12-08" duration="5" complete="0" thirdDate="2020-11-17" thirdDate-constraint="0" expand="true">
+                <depend id="60" type="2" difference="0" hardness="Strong"/>
+                <depend id="184" type="2" difference="0" hardness="Strong"/>
+                <depend id="349" type="2" difference="0" hardness="Strong"/>
+            </task>
+            <task id="184" name="Experiment Working" color="#8cb6ce" meeting="true" start="2020-12-15" duration="0" complete="0" thirdDate="2020-09-07" thirdDate-constraint="0" expand="true"/>
+            <task id="213" name="Data Complete" color="#8cb6ce" meeting="true" start="2021-01-27" duration="0" complete="0" thirdDate="2020-10-05" thirdDate-constraint="0" expand="true"/>
+            <task id="73" name="Statistical Analysis" color="#8cb6ce" meeting="false" start="2021-01-27" duration="15" complete="0" thirdDate="2020-10-19" thirdDate-constraint="0" expand="true">
+                <depend id="67" type="2" difference="0" hardness="Strong"/>
+                <depend id="152" type="2" difference="0" hardness="Strong"/>
+            </task>
         </task>
-        <task id="69" name="Organize Stuff" meeting="false" start="2021-01-04" duration="63" complete="0" expand="true">
-            <task id="71" name="Hand In" color="#8cb6ce" meeting="false" start="2021-03-31" duration="1" complete="0" thirdDate="2020-10-19" thirdDate-constraint="0" expand="true"/>
-            <task id="89" name="Register Thesis" color="#8cb6ce" meeting="false" start="2021-01-04" duration="1" complete="0" thirdDate="2020-10-19" thirdDate-constraint="0" expand="true"/>
-            <task id="90" name="Defend Thesis" color="#8cb6ce" meeting="false" start="2021-04-01" duration="1" complete="0" thirdDate="2020-10-19" thirdDate-constraint="0" expand="true"/>
+        <task id="62" name="Write Up" color="#33ff33" meeting="false" start="2020-11-11" duration="117" complete="0" thirdDate="2021-02-08" thirdDate-constraint="0" expand="true">
+            <task id="63" name="Write Intro" color="#8cb6ce" meeting="false" start="2020-12-01" duration="5" complete="0" thirdDate="2021-02-08" thirdDate-constraint="0" expand="true">
+                <depend id="64" type="2" difference="0" hardness="Strong"/>
+            </task>
+            <task id="64" name="Write Methods" color="#8cb6ce" meeting="false" start="2020-12-08" duration="7" complete="0" thirdDate="2021-02-08" thirdDate-constraint="0" expand="true">
+                <depend id="65" type="2" difference="0" hardness="Strong"/>
+            </task>
+            <task id="65" name="Write Materials" color="#8cb6ce" meeting="false" start="2020-12-17" duration="7" complete="0" thirdDate="2021-02-08" thirdDate-constraint="0" expand="true">
+                <depend id="66" type="2" difference="0" hardness="Strong"/>
+            </task>
+            <task id="66" name="Write Procedure" color="#8cb6ce" meeting="false" start="2020-12-29" duration="10" complete="0" thirdDate="2021-02-08" thirdDate-constraint="0" expand="true">
+                <depend id="67" type="2" difference="0" hardness="Strong"/>
+                <depend id="341" type="2" difference="0" hardness="Strong"/>
+            </task>
+            <task id="67" name="Write Results" color="#8cb6ce" meeting="false" start="2021-02-17" duration="5" complete="0" thirdDate="2021-02-08" thirdDate-constraint="0" expand="true">
+                <depend id="152" type="2" difference="0" hardness="Strong"/>
+            </task>
+            <task id="152" name="Plotting Visuals" color="#8cb6ce" meeting="false" start="2021-02-24" duration="5" complete="0" thirdDate="2021-02-08" thirdDate-constraint="0" expand="true">
+                <depend id="68" type="2" difference="0" hardness="Strong"/>
+                <depend id="195" type="2" difference="0" hardness="Strong"/>
+            </task>
+            <task id="195" name="Present Results" color="#8cb6ce" meeting="true" start="2021-03-03" duration="0" complete="0" thirdDate="2020-09-07" thirdDate-constraint="0" expand="true">
+                <depend id="161" type="2" difference="0" hardness="Strong"/>
+            </task>
+            <task id="68" name="Write Discussion" color="#8cb6ce" meeting="false" start="2021-03-10" duration="8" complete="0" thirdDate="2021-02-08" thirdDate-constraint="0" expand="true">
+                <depend id="199" type="2" difference="0" hardness="Strong"/>
+            </task>
+            <task id="199" name="Write Outlook, Further Research" color="#8cb6ce" meeting="false" start="2021-03-22" duration="8" complete="0" thirdDate="2020-09-07" thirdDate-constraint="0" expand="true">
+                <depend id="70" type="2" difference="0" hardness="Strong"/>
+            </task>
+            <task id="70" name="Revise Thesis" color="#8cb6ce" meeting="false" start="2021-04-01" duration="10" complete="0" thirdDate="2021-02-08" thirdDate-constraint="0" expand="true">
+                <depend id="71" type="2" difference="0" hardness="Strong"/>
+                <depend id="225" type="2" difference="0" hardness="Strong"/>
+            </task>
+            <task id="225" name="Give Others for Revision" color="#8cb6ce" meeting="false" start="2021-04-16" duration="10" complete="0" thirdDate="2020-09-28" thirdDate-constraint="0" expand="true">
+                <depend id="71" type="2" difference="0" hardness="Strong"/>
+            </task>
+            <task id="96" name="Set Title" color="#8cb6ce" meeting="false" start="2020-12-01" duration="2" complete="0" thirdDate="2021-02-08" thirdDate-constraint="0" expand="true">
+                <depend id="89" type="2" difference="0" hardness="Strong"/>
+            </task>
+            <task id="99" name="Spell out Hypothesis" color="#8cb6ce" meeting="false" start="2020-11-11" duration="2" complete="0" thirdDate="2021-02-08" thirdDate-constraint="0" expand="true">
+                <depend id="168" type="2" difference="0" hardness="Strong"/>
+            </task>
+            <task id="161" name="Touch Up Literature Review" color="#8cb6ce" meeting="false" start="2021-03-03" duration="5" complete="0" thirdDate="2020-10-19" thirdDate-constraint="0" expand="true">
+                <depend id="68" type="2" difference="0" hardness="Strong"/>
+            </task>
+            <task id="306" name="Sketch up Structure, Bullet points" color="#8cb6ce" meeting="false" start="2020-11-24" duration="5" complete="0" thirdDate="2020-09-28" thirdDate-constraint="0" expand="true">
+                <depend id="63" type="2" difference="0" hardness="Strong"/>
+            </task>
+        </task>
+        <task id="69" name="Organize Stuff" color="#ffff00" meeting="false" start="2020-11-16" duration="114" complete="0" thirdDate="2020-12-02" thirdDate-constraint="0" expand="true">
+            <task id="71" name="Hand In Thesis" color="#8cb6ce" meeting="true" start="2021-04-30" duration="0" complete="0" thirdDate="2020-10-19" thirdDate-constraint="0" expand="true">
+                <depend id="90" type="2" difference="0" hardness="Strong"/>
+            </task>
+            <task id="89" name="Register Thesis" color="#8cb6ce" meeting="true" start="2020-12-03" duration="0" complete="0" thirdDate="2020-10-19" thirdDate-constraint="0" expand="true">
+                <depend id="71" type="2" difference="0" hardness="Strong"/>
+            </task>
+            <task id="90" name="Defend Thesis" color="#8cb6ce" meeting="true" start="2021-04-30" duration="0" complete="0" thirdDate="2020-10-19" thirdDate-constraint="0" expand="true"/>
+            <task id="328" name="Fix second Reviewer" color="#8cb6ce" meeting="true" start="2020-11-27" duration="0" complete="0" thirdDate="2020-09-28" thirdDate-constraint="0" expand="true">
+                <depend id="89" type="2" difference="0" hardness="Strong"/>
+            </task>
+            <task id="337" name="Secure Lab Space" color="#8cb6ce" meeting="false" start="2020-11-16" duration="3" complete="0" thirdDate="2020-10-01" thirdDate-constraint="0" expand="true">
+                <depend id="60" type="2" difference="0" hardness="Strong"/>
+            </task>
+            <task id="341" name="Preregistration" color="#8cb6ce" meeting="true" start="2021-01-14" duration="0" complete="0" thirdDate="2020-10-19" thirdDate-constraint="0" expand="true"/>
         </task>
     </tasks>
     <resources/>
