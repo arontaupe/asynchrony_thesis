@@ -1,6 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><project name="BA Thesis" company="" webLink="http://" view-date="2020-11-02" view-index="0" gantt-divider-location="457" resource-divider-location="300" version="2.8.11" locale="en_GB">
+<?xml version="1.0" encoding="UTF-8"?><project name="BA Thesis" company="" webLink="http://" view-date="2020-09-28" view-index="0" gantt-divider-location="457" resource-divider-location="300" version="2.8.11" locale="en_GB">
     <description/>
-    <view zooming-state="default:6" id="gantt-chart">
+    <view zooming-state="default:3" id="gantt-chart">
         <field id="tpd3" name="Name" width="285" order="0"/>
         <field id="tpd4" name="Begin date" width="76" order="1"/>
         <field id="tpd5" name="End date" width="77" order="2"/>
@@ -137,22 +137,22 @@
             <taskproperty id="tpd8" name="coordinator" type="default" valuetype="text"/>
             <taskproperty id="tpd9" name="predecessorsr" type="default" valuetype="text"/>
         </taskproperties>
-        <task id="44" name="Preparation" color="#ff0066" meeting="false" project="true" start="2020-10-19" duration="7" complete="87" thirdDate="2020-10-19" thirdDate-constraint="0" expand="true">
-            <task id="45" name="Set Up Document" color="#8cb6ce" meeting="false" start="2020-10-23" duration="2" complete="81" thirdDate="2020-10-19" thirdDate-constraint="0" expand="true"/>
-            <task id="46" name="Create Gantt Chart" color="#8cb6ce" meeting="false" start="2020-10-19" duration="4" complete="81" thirdDate="2020-10-19" thirdDate-constraint="0" expand="true">
+        <task id="44" name="Preparation" color="#ff0066" meeting="false" project="true" start="2020-10-19" duration="7" complete="100" thirdDate="2020-10-19" thirdDate-constraint="0" expand="true">
+            <task id="45" name="Set Up Document" color="#8cb6ce" meeting="false" start="2020-10-23" duration="2" complete="100" thirdDate="2020-10-19" thirdDate-constraint="0" expand="true"/>
+            <task id="46" name="Create Gantt Chart" color="#8cb6ce" meeting="false" start="2020-10-19" duration="4" complete="100" thirdDate="2020-10-19" thirdDate-constraint="0" expand="true">
                 <depend id="75" type="2" difference="0" hardness="Strong"/>
             </task>
             <task id="47" name="Set up Git" color="#8cb6ce" meeting="false" start="2020-10-19" duration="1" complete="100" thirdDate="2020-10-19" thirdDate-constraint="0" expand="true"/>
             <task id="48" name="Set Up Citation Base" color="#8cb6ce" meeting="false" start="2020-10-26" duration="2" complete="100" thirdDate="2020-10-19" thirdDate-constraint="0" expand="true"/>
         </task>
-        <task id="74" name="Literature Review" meeting="false" start="2020-10-19" duration="25" complete="4" expand="true">
-            <task id="75" name="Structure of Literature Review" color="#ffcc00" meeting="false" start="2020-10-23" duration="8" complete="0" thirdDate="2020-10-19" thirdDate-constraint="0" expand="true">
+        <task id="74" name="Literature Review" meeting="false" start="2020-10-19" duration="25" complete="10" expand="true">
+            <task id="75" name="Structure of Literature Review" color="#ffcc00" meeting="false" start="2020-10-23" duration="8" complete="14" thirdDate="2020-10-19" thirdDate-constraint="0" expand="true">
                 <depend id="76" type="2" difference="0" hardness="Strong"/>
             </task>
             <task id="76" name="Lit Review Draft" color="#8cb6ce" meeting="false" start="2020-11-12" duration="7" complete="0" thirdDate="2020-10-19" thirdDate-constraint="0" expand="true">
                 <depend id="180" type="2" difference="0" hardness="Strong"/>
             </task>
-            <task id="78" name="Source Collection Literature Review" color="#8cb6ce" meeting="false" start="2020-10-19" duration="15" complete="11" thirdDate="2020-10-19" thirdDate-constraint="0" expand="true">
+            <task id="78" name="Source Collection Literature Review" color="#8cb6ce" meeting="false" start="2020-10-19" duration="15" complete="16" thirdDate="2020-10-19" thirdDate-constraint="0" expand="true">
                 <depend id="154" type="2" difference="0" hardness="Strong"/>
             </task>
             <task id="154" name="Source Selection" color="#8cb6ce" meeting="false" start="2020-11-09" duration="3" complete="0" thirdDate="2020-11-09" thirdDate-constraint="0" expand="true">
@@ -163,7 +163,7 @@
                 <depend id="306" type="2" difference="0" hardness="Strong"/>
             </task>
         </task>
-        <task id="31" name="The Actual Experiment" color="#8cb6ce" meeting="false" start="2020-11-02" duration="73" complete="0" thirdDate="2020-10-19" thirdDate-constraint="0" expand="true">
+        <task id="31" name="The Actual Experiment" color="#8cb6ce" meeting="false" start="2020-10-30" duration="74" complete="1" thirdDate="2020-10-19" thirdDate-constraint="0" expand="true">
             <task id="59" name="Collect Participants" color="#8cb6ce" meeting="false" start="2020-11-16" duration="30" complete="0" thirdDate="2020-10-19" thirdDate-constraint="0" expand="true"/>
             <task id="349" name="Pilot Experiment" color="#8cb6ce" meeting="false" start="2020-12-15" duration="3" complete="0" thirdDate="2020-09-28" thirdDate-constraint="0" expand="true">
                 <depend id="60" type="2" difference="0" hardness="Strong"/>
@@ -176,7 +176,7 @@
                 <depend id="73" type="2" difference="0" hardness="Strong"/>
                 <depend id="213" type="2" difference="0" hardness="Strong"/>
             </task>
-            <task id="23" name="Design Experiment" color="#8cb6ce" meeting="false" start="2020-11-02" duration="10" complete="0" thirdDate="2020-10-19" thirdDate-constraint="0" expand="true">
+            <task id="23" name="Design Experiment" color="#8cb6ce" meeting="false" start="2020-10-30" duration="11" complete="12" thirdDate="2020-10-19" thirdDate-constraint="0" expand="true">
                 <depend id="59" type="2" difference="0" hardness="Strong"/>
                 <depend id="61" type="2" difference="0" hardness="Strong"/>
                 <depend id="168" type="2" difference="0" hardness="Strong"/>

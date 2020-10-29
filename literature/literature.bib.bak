@@ -1,5 +1,5 @@
 % Encoding: UTF-8
-Key: 
+Key:
 @article{rosemann2018audio,
   title={Audio-visual speech processing in age-related hearing loss: Stronger integration and increased frontal lobe recruitment},
   author={Rosemann, Stephanie and Thiel, Christiane M},
@@ -12,15 +12,15 @@ Key:
 Key : classical study on multisensory integration
 @ARTICLE{nakamura2002integration,
   author={S. {Nakamura}},
-  journal={IEEE Transactions on Neural Networks}, 
-  title={Statistical multimodal integration for audio-visual speech processing}, 
+  journal={IEEE Transactions on Neural Networks},
+  title={Statistical multimodal integration for audio-visual speech processing},
   year={2002},
   volume={13},
   number={4},
   pages={854-866},
 }
-  
-Key : handedness test  
+
+Key : handedness test
 @article{oldfield1971handedness,
 title = "The assessment and analysis of handedness: The Edinburgh inventory",
 journal = "Neuropsychologia",
@@ -107,4 +107,98 @@ abstract = "Electronic hearing protection devices are increasingly used in noisy
   year={2002},
   publisher={LWW}
 }
+
+@article{bosker2020visual,
+  title={How visual cues to speech rate influence speech perception},
+  author={Bosker, Hans Rutger and Peeters, David and Holler, Judith},
+  journal={Quarterly Journal of Experimental Psychology},
+  pages={1747021820914564},
+  year={2020},
+  publisher={SAGE Publications Sage UK: London, England}
+}
+
+@article{article,
+author = {Maier, Joost and Di Luca, Massimiliano and Noppeney, Uta},
+year = {2011},
+month = {02},
+pages = {245-56},
+title = {Audiovisual Asynchrony Detection in Human Speech},
+volume = {37},
+journal = {Journal of experimental psychology. Human perception and performance},
+doi = {10.1037/a0019952}
+}
+
+@Article{soto2004assessing,
+  author    = {Soto-Faraco, Salvador and Navarra, Jordi and Alsius, Agnes},
+  journal   = {Cognition},
+  title     = {Assessing automaticity in audiovisual speech integration: evidence from the speeded classification task},
+  year      = {2004},
+  number    = {3},
+  pages     = {B13--B23},
+  volume    = {92},
+  comment   = {Nice easy and short, provides evidence for automaticity of multimodal integration via an indirect mcGurk Effect to induce perceived inconsistency, resulting in slower reaction times},
+  publisher = {Elsevier},
+}
+
+@article{uslarente,
+  title={Warum die Ente der Hund tadelt: M{\"o}gliche neue Wege in der Audiologe},
+  author={Uslar, Verena Nicole and Carroll, Rebecca and Wendt, Dorothee and Ruigendijk, Esther and Branda, Thomas}
+}
+
+@Article{ross2007you,
+  author    = {Ross, Lars A and Saint-Amour, Dave and Leavitt, Victoria M and Javitt, Daniel C and Foxe, John J},
+  journal   = {Cerebral cortex},
+  title     = {Do you see what I am saying? Exploring visual enhancement of speech comprehension in noisy environments},
+  year      = {2007},
+  number    = {5},
+  pages     = {1147--1153},
+  volume    = {17},
+  publisher = {Oxford University Press},
+}
+
+@Book{stein1993merging,
+  author    = {Stein, Barry E and Meredith, M Alex},
+  publisher = {The MIT Press},
+  title     = {The merging of the senses.},
+  year      = {1993},
+}
+
+@Article{meredith1986visual,
+  author    = {Meredith, M Alex and Stein, Barry E},
+  journal   = {Journal of neurophysiology},
+  title     = {Visual, auditory, and somatosensory convergence on cells in superior colliculus results in multisensory integration},
+  year      = {1986},
+  number    = {3},
+  pages     = {640--662},
+  volume    = {56},
+  publisher = {American Physiological Society Bethesda, MD},
+}
+
+@InCollection{STEIN199379,
+  author    = {Barry E. Stein and M. Alex Meredith and Mark T. Wallace},
+  publisher = {Elsevier},
+  title     = {Chapter 8 The visually responsive neuron and beyond: multisensory integration in cat and monkey},
+  year      = {1993},
+  editor    = {T.P. Hicks and S. Molotchnikoff and T. Ono},
+  pages     = {79 - 90},
+  series    = {Progress in Brain Research},
+  volume    = {95},
+  abstract  = {Publisher Summary
+The cat superior colliculus neuron is a major site for the convergence and integration of multisensory information. It is only one of many central nervous system sites in many species where information from several modalities converges. Single cells in cat LS (lateral suprasylvian) and AES (anterior ectosylvian sulcus) and in monkey IPS (intraparietal sulcus) and STS (superior temporal sulcus) were examined. Although the spatial, temporal, and multiplicative characteristics of multisensory integration were most closely examined in cat cortex, all of the observations in monkey were consistent with those described in cat. The multisensory receptive fields of a single neuron overlapped one another in space, such that sensory stimuli that were in close spatial register fell within their excitatory receptive fields and enhanced the neuron's activity; spatially disparate stimuli produced either no interaction or depressed responses. The rules of multisensory integration evident at the level of the single neuron are also consistent with studies of intact behaving animals. The attentive and orientation responses cats make to visual and auditory stimuli were predictable based on the reactions of superior colliculus neurons to these stimuli. The data indicate that the visual responses of many neurons, whether in the superior colliculus or cortex, represent only one facet of their sensory coding capabilities.},
+  doi       = {https://doi.org/10.1016/S0079-6123(08)60359-3},
+  issn      = {0079-6123},
+  url       = {http://www.sciencedirect.com/science/article/pii/S0079612308603593},
+}
+
+@Article{van2007temporal,
+  author    = {Van Wassenhove, Virginie and Grant, Ken W and Poeppel, David},
+  journal   = {Neuropsychologia},
+  title     = {Temporal window of integration in auditory-visual speech perception},
+  year      = {2007},
+  number    = {3},
+  pages     = {598--607},
+  volume    = {45},
+  publisher = {Elsevier},
+}
+
 @Comment{jabref-meta: databaseType:bibtex;}
