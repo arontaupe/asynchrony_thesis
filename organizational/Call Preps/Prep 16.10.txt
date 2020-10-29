@@ -1,0 +1,17 @@
+Definition Perceptible? Heard 10 ms, 8 ms, 30ms, Is there a consensus?
+acceptable to divide into perceptable/ not perceivable?
+
+Echo effect? simple sound layering enough to simulate?
+
+Can we assume that audio reliably follows Vision in a constant manner?
+could there be a Skype-effect where sound is sped up or distorted?
+
+Deadlines?
+
+Nature of Congruent/ incongruent?
+It sounded like the tests in the Ethikantrag are completely different sentences in incongruent group, audio != video
+doesnt it make more sense to use congruent files, and just vary the latency?
+
+Do we think the echo effect is always detrimental? could also be helpful to hear stuff twice?
+
+How much focus on autism?
