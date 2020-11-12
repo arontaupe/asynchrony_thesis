@@ -10,39 +10,45 @@ Key:
   pages     = {425--437},
   volume    = {175},
   doi       = {10.1016/j.neuroimage.2018.04.023},
+  file      = {:C\:/Users/Aron Petau/Google Drive/BA/thesis/literature/RosemannThiel2018NeuroImage.pdf:PDF},
   groups    = {Multisensory Integration},
   publisher = {Elsevier},
+  timestamp = {2020-11-11},
 }
 Key : classical study on multisensory integration
 
 @Article{nakamura2002integration,
-  author  = {S. Nakamura},
-  journal = {IEEE Transactions on Neural Networks},
-  title   = {Statistical multimodal integration for audio-visual speech processing},
-  year    = {2002},
-  issn    = {1045-9227},
-  number  = {4},
-  pages   = {854-866},
-  volume  = {13},
-  doi     = {10.1109/tnn.2002.1021886},
-  groups  = {Multisensory Integration},
+  author    = {S. Nakamura},
+  journal   = {IEEE Transactions on Neural Networks},
+  title     = {Statistical multimodal integration for audio-visual speech processing},
+  year      = {2002},
+  issn      = {1045-9227},
+  number    = {4},
+  pages     = {854--866},
+  volume    = {13},
+  doi       = {10.1109/tnn.2002.1021886},
+  file      = {:C\:/Users/Aron Petau/Google Drive/BA/thesis/literature/nakamura2002.pdf:PDF},
+  groups    = {Multisensory Integration},
+  timestamp = {2020-11-11},
 }
 
 Key : handedness test
 
 @Article{oldfield1971handedness,
-  author   = {R.C. Oldfield},
-  journal  = {Neuropsychologia},
-  title    = {The assessment and analysis of handedness: The Edinburgh inventory},
-  year     = {1971},
-  issn     = {0028-3932},
-  number   = {1},
-  pages    = {97 - 113},
-  volume   = {9},
-  abstract = {The need for a simply applied quantitative assessment of handedness is discussed and some previous forms reviewed. An inventory of 20 items with a set of instructions and response- and computational-conventions is proposed and the results obtained from a young adult population numbering some 1100 individuals are reported. The separate items are examined from the point of view of sex, cultural and socio-economic factors which might appertain to them and also of their inter-relationship to each other and to the measure computed from them all. Criteria derived from these considerations are then applied to eliminate 10 of the original 20 items and the results recomputed to provide frequency-distribution and cumulative frequency functions and a revised item-analysis. The difference of incidence of handedness between the sexes is discussed.},
-  doi      = {https://doi.org/10.1016/0028-3932(71)90067-4},
-  groups   = {Old Classics},
-  url      = {http://www.sciencedirect.com/science/article/pii/0028393271900674},
+  author    = {R.C. Oldfield},
+  journal   = {Neuropsychologia},
+  title     = {The assessment and analysis of handedness: The Edinburgh inventory},
+  year      = {1971},
+  issn      = {0028-3932},
+  number    = {1},
+  pages     = {97--113},
+  volume    = {9},
+  abstract  = {The need for a simply applied quantitative assessment of handedness is discussed and some previous forms reviewed. An inventory of 20 items with a set of instructions and response- and computational-conventions is proposed and the results obtained from a young adult population numbering some 1100 individuals are reported. The separate items are examined from the point of view of sex, cultural and socio-economic factors which might appertain to them and also of their inter-relationship to each other and to the measure computed from them all. Criteria derived from these considerations are then applied to eliminate 10 of the original 20 items and the results recomputed to provide frequency-distribution and cumulative frequency functions and a revised item-analysis. The difference of incidence of handedness between the sexes is discussed.},
+  doi       = {https://doi.org/10.1016/0028-3932(71)90067-4},
+  file      = {:C\:/Users/Aron Petau/Google Drive/BA/thesis/literature/oldfield1971handedness.pdf:PDF},
+  groups    = {Old Classics},
+  timestamp = {2020-11-11},
+  url       = {http://www.sciencedirect.com/science/article/pii/0028393271900674},
 }
 
 @Article{uslar2013stimuli,
@@ -50,26 +56,28 @@ Key : handedness test
   journal   = {The Journal of the Acoustical Society of America},
   title     = {Development and evaluation of a linguistically and audiologically controlled sentence intelligibility test},
   year      = {2013},
-  month     = {oct},
+  month     = oct,
   number    = {4},
-  pages     = {3039-3056},
+  pages     = {3039--3056},
   volume    = {134},
   doi       = {10.1121/1.4818760},
   eprint    = {https://doi.org/10.1121/1.4818760},
+  file      = {:C\:/Users/Aron Petau/Google Drive/BA/thesis/literature/uslar2013OLAKS.pdf:PDF},
   groups    = {Materials},
   publisher = {Acoustical Society of America ({ASA})},
+  timestamp = {2020-11-11},
   url       = {https://doi.org/10.1121/1.4818760},
 }
 
 @Article{Macdonald1978mcgurkeffect,
   author                  = {Macdonald, J. and McGurk, H.},
-  journal                 = {Perception & Psychophysics},
+  journal                 = {Perception \& Psychophysics},
   title                   = {Visual influences on speech perception processes},
   year                    = {1978},
   issn                    = {00315117},
   note                    = {cited By 284},
   number                  = {3},
-  pages                   = {253-257},
+  pages                   = {253--257},
   volume                  = {24},
   abbrev_source_title     = {Percept. Psychophys.},
   abstract                = {An experiment is reported, the results of which confirm and extend an earlier observation that visual information for the speaker's lip movements profoundly modifies the auditorv perception of natural speech by normally hearing subjects. The effect is most pronounced when there is auditory information for a bilabial utterance combined with visual information for a nonlabial utterance. However, the effect is also obtained with the reverse combination, although to a lesser extent. These findings are considered for their relevance to auditory theories of speech perception. © 1978 Psychonomic Society, Inc.},
@@ -78,27 +86,31 @@ Key : handedness test
   correspondence_address1 = {McGurk, H.; Department of Psychology, University of Surrey, Guildford, GU2 5XH, Surrey, United Kingdom},
   document_type           = {Article},
   doi                     = {10.3758/BF03206096},
+  file                    = {:C\:/Users/Aron Petau/Google Drive/BA/thesis/literature/Macdonald-McGurk1978VisualInfluencesOnSpeechPercep.pdf:PDF},
   groups                  = {Old Classics},
   keywords                = {auditory system; central nervous system; human cell; normal human; visual system, Adolescent; Adult; Female; Human; Lipreading; Male; Phonetics; Speech Perception; Visual Perception},
   language                = {English},
   pubmed_id               = {704285},
   source                  = {Scopus},
+  timestamp               = {2020-11-11},
   url                     = {https://www.scopus.com/inward/record.uri?eid=2-s2.0-0018388657&doi=10.3758%2fBF03206096&partnerID=40&md5=c6d275c9b9a1362aeacf87e25a494621},
 }
 
 @Article{lezzoum2016threshold,
-  author   = {Narimene Lezzoum and Ghyslain Gagnon and Jérémie Voix},
-  journal  = {International Journal of Industrial Ergonomics},
-  title    = {Echo threshold between passive and electro-acoustic transmission paths in digital hearing protection devices},
-  year     = {2016},
-  issn     = {0169-8141},
-  pages    = {372 - 379},
-  volume   = {53},
-  abstract = {Electronic hearing protection devices are increasingly used in noisy environments. Theses devices feature a miniaturized external microphone and internal loudspeaker in addition to an analog or digital electronic circuit. They can transmit useful audio signals such as speech and warning signals to the protected ear and can reduce the sound pressure level using dynamic range compression. In the case of a digital electronic circuit, the transmission of audio signals may be noticeably delayed because of the latency introduced by the digital signal processor and by the analog-to-digital and digital-to-analog converters. These delayed audio signals will hence interfere with the audio signals perceived naturally through the passive acoustical path of the device. The proposed study presents an original procedure to evaluate, for two representative passive earplugs, the shortest delay at which human listeners start to perceive two sounds composed of the signal transmitted through the electronic circuit and the passively transmitted signal. This shortest delay is called the echo threshold and represents the delay between the time of perception of one fused sound from two separate sounds. In this study, a transient signal, a clean speech signal, a speech signal corrupted by factory noise, and a speech signal corrupted by babble noise are used to determine the echo thresholds of the two earplugs. Twenty untrained listeners participated in this study, and were asked to determine the echo thresholds using a test software in which attenuated signals are delayed from the original signals in real-time. The findings show that when using hearing devices, the echo threshold depends on four parameters: (a) the attenuation function of the device, (b) the duration of the signal, (c) the level of the background noise and (d) the type of background noise. Defined here as the shortest time delay at which at least 20% of the participants noticed an echo, the echo threshold was found to be 8 ms for a bell signal, 16 ms for clean speech and 22 ms for speech corrupted by babble noise when using a shallow earplug fit. When using a deep fit, the echo threshold was found to be 18 ms for a bell signal and 26 ms for clean speech and 68 ms for speech in factory. No echo threshold could be clearly determined for the speech signal in babble noise with a deep earplug fit.},
-  doi      = {https://doi.org/10.1016/j.ergon.2016.04.004},
-  groups   = {Echo Effect},
-  keywords = {Hearing protection device, Echo threshold, Just noticeable difference, Delay},
-  url      = {http://www.sciencedirect.com/science/article/pii/S0169814116300233},
+  author    = {Narimene Lezzoum and Ghyslain Gagnon and Jérémie Voix},
+  journal   = {International Journal of Industrial Ergonomics},
+  title     = {Echo threshold between passive and electro-acoustic transmission paths in digital hearing protection devices},
+  year      = {2016},
+  issn      = {0169-8141},
+  pages     = {372--379},
+  volume    = {53},
+  abstract  = {Electronic hearing protection devices are increasingly used in noisy environments. Theses devices feature a miniaturized external microphone and internal loudspeaker in addition to an analog or digital electronic circuit. They can transmit useful audio signals such as speech and warning signals to the protected ear and can reduce the sound pressure level using dynamic range compression. In the case of a digital electronic circuit, the transmission of audio signals may be noticeably delayed because of the latency introduced by the digital signal processor and by the analog-to-digital and digital-to-analog converters. These delayed audio signals will hence interfere with the audio signals perceived naturally through the passive acoustical path of the device. The proposed study presents an original procedure to evaluate, for two representative passive earplugs, the shortest delay at which human listeners start to perceive two sounds composed of the signal transmitted through the electronic circuit and the passively transmitted signal. This shortest delay is called the echo threshold and represents the delay between the time of perception of one fused sound from two separate sounds. In this study, a transient signal, a clean speech signal, a speech signal corrupted by factory noise, and a speech signal corrupted by babble noise are used to determine the echo thresholds of the two earplugs. Twenty untrained listeners participated in this study, and were asked to determine the echo thresholds using a test software in which attenuated signals are delayed from the original signals in real-time. The findings show that when using hearing devices, the echo threshold depends on four parameters: (a) the attenuation function of the device, (b) the duration of the signal, (c) the level of the background noise and (d) the type of background noise. Defined here as the shortest time delay at which at least 20% of the participants noticed an echo, the echo threshold was found to be 8 ms for a bell signal, 16 ms for clean speech and 22 ms for speech corrupted by babble noise when using a shallow earplug fit. When using a deep fit, the echo threshold was found to be 18 ms for a bell signal and 26 ms for clean speech and 68 ms for speech in factory. No echo threshold could be clearly determined for the speech signal in babble noise with a deep earplug fit.},
+  doi       = {https://doi.org/10.1016/j.ergon.2016.04.004},
+  file      = {:C\:/Users/Aron Petau/Google Drive/BA/thesis/literature/Lezzoum2016EchoThreshold between Passive and Electro-Acousti.pdf:PDF},
+  groups    = {Echo Effect},
+  keywords  = {Hearing protection device, Echo threshold, Just noticeable difference, Delay},
+  timestamp = {2020-11-11},
+  url       = {http://www.sciencedirect.com/science/article/pii/S0169814116300233},
 }
 
 @Article{noel2017atypical,
@@ -109,8 +121,10 @@ Key : handedness test
   number    = {1},
   pages     = {121--129},
   volume    = {10},
+  file      = {:C\:/Users/Aron Petau/Google Drive/BA/thesis/literature/Noel2017 Atypical rapid audio-visual temporal recalibration.pdf:PDF},
   groups    = {Autism},
   publisher = {Wiley Online Library},
+  timestamp = {2020-11-11},
 }
 
 @Article{stone2002tolerable,
@@ -123,8 +137,10 @@ Key : handedness test
   pages     = {325--338},
   volume    = {23},
   doi       = {10.1097/00003446-200208000-00008},
+  file      = {:C\:/Users/Aron Petau/Google Drive/BA/thesis/literature/Stone2002TolerableDelays.pdf:PDF},
   groups    = {Delay},
   publisher = {LWW},
+  timestamp = {2020-11-11},
 }
 
 @Article{bosker2020visual,
@@ -136,20 +152,24 @@ Key : handedness test
   pages     = {1747021820914564},
   volume    = {73},
   doi       = {10.1177/1747021820914564},
+  file      = {:C\:/Users/Aron Petau/Google Drive/BA/thesis/literature/Bosker2020_lexical selection_audiovisual.pdf:PDF},
   groups    = {Multisensory Integration},
   publisher = {SAGE Publications Sage UK: London, England},
+  timestamp = {2020-11-11},
 }
 
-@Article{article,
-  author  = {Maier, Joost and Di Luca, Massimiliano and Noppeney, Uta},
-  journal = {Journal of experimental psychology. Human perception and performance},
-  title   = {Audiovisual Asynchrony Detection in Human Speech},
-  year    = {2011},
-  month   = {02},
-  pages   = {245-56},
-  volume  = {37},
-  doi     = {10.1037/a0019952},
-  groups  = {Delay},
+@Article{Maier2011asynchrony,
+  author    = {Maier, Joost and Di Luca, Massimiliano and Noppeney, Uta},
+  journal   = {Journal of experimental psychology. Human perception and performance},
+  title     = {Audiovisual Asynchrony Detection in Human Speech},
+  year      = {2011},
+  month     = feb,
+  pages     = {245--56},
+  volume    = {37},
+  doi       = {10.1037/a0019952},
+  file      = {:C\:/Users/Aron Petau/Google Drive/BA/thesis/literature/Maier2011-audiovisual-asynchrony-speech.pdf:PDF},
+  groups    = {Delay},
+  timestamp = {2020-11-11},
 }
 
 @Article{soto2004assessing,
@@ -163,8 +183,10 @@ Key : handedness test
   volume    = {92},
   comment   = {Nice easy and short, provides evidence for automaticity of multimodal integration via an indirect mcGurk Effect to induce perceived inconsistency, resulting in slower reaction times},
   doi       = {10.1016/j.cognition.2003.10.005},
+  file      = {:C\:/Users/Aron Petau/Google Drive/BA/thesis/literature/soto-faraco2004-automaticity-audiovisual-integration.pdf:PDF},
   groups    = {Multisensory Integration},
   publisher = {Elsevier},
+  timestamp = {2020-11-11},
 }
 
 @Article{ross2007you,
@@ -177,8 +199,10 @@ Key : handedness test
   pages     = {1147--1153},
   volume    = {17},
   doi       = {10.1016/j.schres.2007.08.008},
+  file      = {:C\:/Users/Aron Petau/Google Drive/BA/thesis/literature/ross2006-noisy.pdf:PDF},
   groups    = {Multisensory Integration},
   publisher = {Oxford University Press},
+  timestamp = {2020-11-11},
 }
 
 @Book{stein1993merging,
@@ -186,7 +210,9 @@ Key : handedness test
   publisher = {The MIT Press},
   title     = {The merging of the senses.},
   year      = {1993},
+  file      = {:C\:/Users/Aron Petau/Google Drive/BA/thesis/literature/stein1993.pdf:PDF},
   groups    = {Multisensory Integration, Old Classics},
+  timestamp = {2020-11-11},
 }
 
 @Article{meredith1986visual,
@@ -199,8 +225,10 @@ Key : handedness test
   pages     = {640--662},
   volume    = {56},
   doi       = {10.1152/jn.1986.56.3.640},
+  file      = {:C\:/Users/Aron Petau/Google Drive/BA/thesis/literature/meredith1986.pdf:PDF},
   groups    = {Multisensory Integration, Old Classics},
   publisher = {American Physiological Society Bethesda, MD},
+  timestamp = {2020-11-11},
 }
 
 @InCollection{stein1993integration,
@@ -209,37 +237,42 @@ Key : handedness test
   title     = {Chapter 8 The visually responsive neuron and beyond: multisensory integration in cat and monkey},
   year      = {1993},
   editor    = {T.P. Hicks and S. Molotchnikoff and T. Ono},
-  pages     = {79 - 90},
+  pages     = {79--90},
   series    = {Progress in Brain Research},
   volume    = {95},
   abstract  = {Publisher Summary
 The cat superior colliculus neuron is a major site for the convergence and integration of multisensory information. It is only one of many central nervous system sites in many species where information from several modalities converges. Single cells in cat LS (lateral suprasylvian) and AES (anterior ectosylvian sulcus) and in monkey IPS (intraparietal sulcus) and STS (superior temporal sulcus) were examined. Although the spatial, temporal, and multiplicative characteristics of multisensory integration were most closely examined in cat cortex, all of the observations in monkey were consistent with those described in cat. The multisensory receptive fields of a single neuron overlapped one another in space, such that sensory stimuli that were in close spatial register fell within their excitatory receptive fields and enhanced the neuron's activity; spatially disparate stimuli produced either no interaction or depressed responses. The rules of multisensory integration evident at the level of the single neuron are also consistent with studies of intact behaving animals. The attentive and orientation responses cats make to visual and auditory stimuli were predictable based on the reactions of superior colliculus neurons to these stimuli. The data indicate that the visual responses of many neurons, whether in the superior colliculus or cortex, represent only one facet of their sensory coding capabilities.},
   doi       = {https://doi.org/10.1016/S0079-6123(08)60359-3},
+  file      = {:C\:/Users/Aron Petau/Google Drive/BA/thesis/literature/stein1993.pdf:PDF},
   groups    = {Multisensory Integration},
   issn      = {0079-6123},
+  timestamp = {2020-11-11},
   url       = {http://www.sciencedirect.com/science/article/pii/S0079612308603593},
 }
 
 @Article{vanwassenhove2007window,
-  author   = {Virginie {van Wassenhove} and Ken W. Grant and David Poeppel},
-  journal  = {Neuropsychologia},
-  title    = {Temporal window of integration in auditory-visual speech perception},
-  year     = {2007},
-  issn     = {0028-3932},
-  note     = {Advances in Multisensory Processes},
-  number   = {3},
-  pages    = {598 - 607},
-  volume   = {45},
-  abstract = {Forty-three normal hearing participants were tested in two experiments, which focused on temporal coincidence in auditory visual (AV) speech perception. In these experiments, audio recordings of/pa/and/ba/were dubbed onto video recordings of /ba/or/ga/, respectively (ApVk, AbVg), to produce the illusory “fusion” percepts /ta/, or /da/ [McGurk, H., & McDonald, J. (1976). Hearing lips and seeing voices. Nature, 264, 746–747]. In Experiment 1, an identification task using McGurk pairs with asynchronies ranging from −467ms (auditory lead) to +467ms was conducted. Fusion responses were prevalent over temporal asynchronies from −30ms to +170ms and more robust for audio lags. In Experiment 2, simultaneity judgments for incongruent and congruent audiovisual tokens (AdVd, AtVt) were collected. McGurk pairs were more readily judged as asynchronous than congruent pairs. Characteristics of the temporal window over which simultaneity and fusion responses were maximal were quite similar, suggesting the existence of a 200ms duration asymmetric bimodal temporal integration window.},
-  doi      = {https://doi.org/10.1016/j.neuropsychologia.2006.01.001},
-  groups   = {Multisensory Integration, Delay},
-  keywords = {McGurk illusion, Multisensory, Time, Psychophysics, Analysis-by-synthesis},
-  url      = {http://www.sciencedirect.com/science/article/pii/S002839320600011X},
+  author    = {Virginie {van Wassenhove} and Ken W. Grant and David Poeppel},
+  journal   = {Neuropsychologia},
+  title     = {Temporal window of integration in auditory-visual speech perception},
+  year      = {2007},
+  issn      = {0028-3932},
+  note      = {Advances in Multisensory Processes},
+  number    = {3},
+  pages     = {598--607},
+  volume    = {45},
+  abstract  = {Forty-three normal hearing participants were tested in two experiments, which focused on temporal coincidence in auditory visual (AV) speech perception. In these experiments, audio recordings of/pa/and/ba/were dubbed onto video recordings of /ba/or/ga/, respectively (ApVk, AbVg), to produce the illusory “fusion” percepts /ta/, or /da/ [McGurk, H., & McDonald, J. (1976). Hearing lips and seeing voices. Nature, 264, 746–747]. In Experiment 1, an identification task using McGurk pairs with asynchronies ranging from −467ms (auditory lead) to +467ms was conducted. Fusion responses were prevalent over temporal asynchronies from −30ms to +170ms and more robust for audio lags. In Experiment 2, simultaneity judgments for incongruent and congruent audiovisual tokens (AdVd, AtVt) were collected. McGurk pairs were more readily judged as asynchronous than congruent pairs. Characteristics of the temporal window over which simultaneity and fusion responses were maximal were quite similar, suggesting the existence of a 200ms duration asymmetric bimodal temporal integration window.},
+  doi       = {https://doi.org/10.1016/j.neuropsychologia.2006.01.001},
+  file      = {:C\:/Users/Aron Petau/Google Drive/BA/thesis/literature/vanwassenhove2007temporalWindow.pdf:PDF},
+  groups    = {Multisensory Integration, Delay},
+  keywords  = {McGurk illusion, Multisensory, Time, Psychophysics, Analysis-by-synthesis},
+  timestamp = {2020-11-11},
+  url       = {http://www.sciencedirect.com/science/article/pii/S002839320600011X},
 }
 
 @Misc{audacity,
   author = {Audacity},
   title  = {Audacity® software is copyright © 1999-2020 Audacity Team.Web site: https://audacityteam.org/. It is free softwaredistributed under the terms of the GNU General Public License.The name Audacity® is a registered trademark of Dominic Mazzoni.},
+  year   = {2020},
   groups = {Materials},
 }
 
@@ -254,18 +287,20 @@ The cat superior colliculus neuron is a major site for the convergence and integ
 }
 
 @Article{quene2007justnoticeabledifference,
-  author   = {Hugo Quené},
-  journal  = {Journal of Phonetics},
-  title    = {On the just noticeable difference for tempo in speech},
-  year     = {2007},
-  issn     = {0095-4470},
-  number   = {3},
-  pages    = {353 - 362},
-  volume   = {35},
-  abstract = {Speakers vary their speech tempo (speaking rate), and such variations in tempo are quite noticeable. But what is the just noticeable difference (JND) for tempo in speech? The present study aims at providing a realistic and robust estimate, by using multiple speech tokens from multiple speakers. The JND is assessed in two (2IAX and 2IFC) comparison experiments, yielding an estimated JND for speech tempo of about 5%. A control experiment suggests that this finding is not due to acoustic artefacts of the tempo-transformation method used. Tempo variations within speakers typically exceed this JND, which makes such variations relevant in speech communication.},
-  doi      = {https://doi.org/10.1016/j.wocn.2006.09.001},
-  groups   = {Delay, Multisensory Integration},
-  url      = {http://www.sciencedirect.com/science/article/pii/S0095447006000441},
+  author    = {Hugo Quené},
+  journal   = {Journal of Phonetics},
+  title     = {On the just noticeable difference for tempo in speech},
+  year      = {2007},
+  issn      = {0095-4470},
+  number    = {3},
+  pages     = {353--362},
+  volume    = {35},
+  abstract  = {Speakers vary their speech tempo (speaking rate), and such variations in tempo are quite noticeable. But what is the just noticeable difference (JND) for tempo in speech? The present study aims at providing a realistic and robust estimate, by using multiple speech tokens from multiple speakers. The JND is assessed in two (2IAX and 2IFC) comparison experiments, yielding an estimated JND for speech tempo of about 5%. A control experiment suggests that this finding is not due to acoustic artefacts of the tempo-transformation method used. Tempo variations within speakers typically exceed this JND, which makes such variations relevant in speech communication.},
+  doi       = {https://doi.org/10.1016/j.wocn.2006.09.001},
+  file      = {:C\:/Users/Aron Petau/Google Drive/BA/thesis/literature/quene2007justnoticeabledifference.pdf:PDF},
+  groups    = {Delay, Multisensory Integration},
+  timestamp = {2020-11-11},
+  url       = {http://www.sciencedirect.com/science/article/pii/S0095447006000441},
 }
 
 @Article{bertelson2003visual,
@@ -278,9 +313,11 @@ The cat superior colliculus neuron is a major site for the convergence and integ
   pages     = {592--597},
   volume    = {14},
   doi       = {10.1046/j.0956-7976.2003.psci_1470.x},
+  file      = {:C\:/Users/Aron Petau/Google Drive/BA/thesis/literature/bertelson2003recalibration.pdf:PDF},
   groups    = {Multisensory Integration, Delay},
   publisher = {SAGE Publications Sage CA: Los Angeles, CA},
   subtitle  = {A McGurk Aftereffect},
+  timestamp = {2020-11-11},
 }
 
 @Article{biau2015speaker,
@@ -292,8 +329,10 @@ The cat superior colliculus neuron is a major site for the convergence and integ
   pages     = {76--85},
   volume    = {68},
   doi       = {10.1016/j.cortex.2014.11.018},
+  file      = {:C\:/Users/Aron Petau/Google Drive/BA/thesis/literature/biau2015handGestures.pdf:PDF},
   groups    = {Multisensory Integration},
   publisher = {Elsevier},
+  timestamp = {2020-11-11},
 }
 
 @Article{calvert1997activation,
@@ -304,8 +343,10 @@ The cat superior colliculus neuron is a major site for the convergence and integ
   number    = {5312},
   pages     = {593--596},
   volume    = {276},
+  file      = {:C\:/Users/Aron Petau/Google Drive/BA/thesis/literature/calvert1997auditoryActivation.pdf:PDF},
   groups    = {Multisensory Integration},
   publisher = {American Association for the Advancement of Science},
+  timestamp = {2020-11-11},
 }
 
 @Article{crosse2015congruent,
@@ -318,8 +359,10 @@ The cat superior colliculus neuron is a major site for the convergence and integ
   pages     = {14195--14204},
   volume    = {35},
   doi       = {10.1523/jneurosci.1829-15.2015},
+  file      = {:C\:/Users/Aron Petau/Google Drive/BA/thesis/literature/crosse2015congruent.pdf:PDF},
   groups    = {Multisensory Integration},
   publisher = {Soc Neuroscience},
+  timestamp = {2020-11-11},
 }
 
 @Article{iversen2015synchronization,
@@ -331,8 +374,10 @@ The cat superior colliculus neuron is a major site for the convergence and integ
   pages     = {232--244},
   volume    = {134},
   doi       = {10.1016/j.cognition.2014.10.018},
+  file      = {:C\:/Users/Aron Petau/Google Drive/BA/thesis/literature/iversen2015synchronization.pdf:PDF},
   groups    = {Multisensory Integration},
   publisher = {Elsevier},
+  timestamp = {2020-11-11},
 }
 
 @InCollection{rosenblum2019audiovisual,
@@ -341,12 +386,15 @@ The cat superior colliculus neuron is a major site for the convergence and integ
   title     = {Audiovisual speech perception and the McGurk effect},
   year      = {2019},
   doi       = {10.1093/acrefore/9780199384655.013.420},
+  file      = {:C\:/Users/Aron Petau/Google Drive/BA/thesis/literature/rosenblum2019audiovisual.pdf:PDF},
   groups    = {Multisensory Integration},
+  timestamp = {2020-11-11},
 }
 
 @Misc{puredata,
   author = {puredata},
   title  = {puredata.info},
+  year   = {2020},
   groups = {Materials},
 }
 
@@ -360,7 +408,9 @@ The cat superior colliculus neuron is a major site for the convergence and integ
   pages     = {e12721},
   volume    = {43},
   doi       = {10.1111/cogs.12721},
+  file      = {:C\:/Users/Aron Petau/Google Drive/BA/thesis/literature/pouw2019entrainment.pdf:PDF},
   publisher = {Wiley Online Library},
+  timestamp = {2020-11-11},
 }
 
 @Article{esteve2018prosody,
@@ -372,7 +422,9 @@ The cat superior colliculus neuron is a major site for the convergence and integ
   pages     = {338},
   volume    = {9},
   doi       = {10.3389/fpsyg.2018.00338},
+  file      = {:C\:/Users/Aron Petau/Google Drive/BA/thesis/literature/esteve2018prosody.pdf:PDF},
   publisher = {Frontiers},
+  timestamp = {2020-11-11},
 }
 
 @Article{Hay-McCutcheon2009Asynchrony,
@@ -381,12 +433,14 @@ The cat superior colliculus neuron is a major site for the convergence and integ
   title     = {Audiovisual asynchrony detection and speech perception in hearing-impaired listeners with cochlear implants: A preliminary analysis},
   year      = {2009},
   number    = {6},
-  pages     = {321-333},
+  pages     = {321--333},
   volume    = {48},
   abstract  = {This preliminary study examined the effects of hearing loss and aging on the detection of AV asynchrony in hearing-impaired listeners with cochlear implants. Additionally, the relationship between AV asynchrony detection skills and speech perception was assessed. Individuals with normal-hearing and cochlear implant recipients were asked to make judgments about the synchrony of AV speech. The cochlear implant recipients also completed three speech perception tests, the CUNY, HINT sentences, and the CNC test. No significant differences were observed in the detection of AV asynchronous speech between the normal-hearing listeners and the cochlear implant recipients. Older adults in both groups displayed wider timing windows, over which they identified AV asynchronous speech as being synchronous, than younger adults. For the cochlear implant recipients, no relationship between the size of the temporal asynchrony window and speech perception performance was observed. The findings from this preliminary experiment suggest that aging has a greater effect on the detection of AV asynchronous speech than the use of a cochlear implant. Additionally, the temporal width of the AV asynchrony function was not correlated with speech perception skills for hearing-impaired individuals who use cochlear implants.},
   doi       = {10.1080/14992020802644871},
   eprint    = {https://doi.org/10.1080/14992020802644871},
+  file      = {:C\:/Users/Aron Petau/Google Drive/BA/thesis/literature/Hay-McCutcheon2009Asynchrony.pdf:PDF},
   publisher = {Taylor & Francis},
+  timestamp = {2020-11-11},
   url       = {https://doi.org/10.1080/14992020802644871},
 }
 
@@ -399,16 +453,20 @@ The cat superior colliculus neuron is a major site for the convergence and integ
   pages     = {21756},
   volume    = {6},
   doi       = {10.1038/srep21756},
+  file      = {:C\:/Users/Aron Petau/Google Drive/BA/thesis/literature/turi2016noRecalibrationAutism.pdf:PDF},
   publisher = {Nature Publishing Group},
+  timestamp = {2020-11-11},
 }
 
-@InProceedings{7558927,
+@InProceedings{ren2016asynchrony,
   author    = {Y. {Ren} and W. {Yang} and Q. {Wu} and F. {Wu} and S. {Takahashi} and E. {Yoshimichi} and J. {Wu}},
   booktitle = {2016 IEEE International Conference on Mechatronics and Automation},
   title     = {Study of audiovisual asynchrony signal processing: Robot recognition system of different ages},
   year      = {2016},
-  pages     = {2320-2325},
+  pages     = {2320--2325},
   doi       = {10.1109/ICMA.2016.7558927},
+  file      = {:C\:/Users/Aron Petau/Google Drive/BA/thesis/literature/ren2016asynchrony.pdf:PDF},
+  timestamp = {2020-11-11},
 }
 
 @Comment{jabref-meta: databaseType:bibtex;}
@@ -422,3 +480,10 @@ The cat superior colliculus neuron is a major site for the convergence and integ
 1 StaticGroup:Autism\;0\;1\;0x8a8a8aff\;\;\;;
 1 StaticGroup:Materials\;0\;1\;0x8a8a8aff\;\;\;;
 }
+
+@Comment{jabref-meta: saveActions:enabled;
+all-text-fields[identity]
+date[normalize_date]
+month[normalize_month]
+pages[normalize_page_numbers]
+;}
