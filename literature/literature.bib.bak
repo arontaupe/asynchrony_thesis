@@ -11,9 +11,9 @@ Key:
   volume    = {175},
   doi       = {10.1016/j.neuroimage.2018.04.023},
   file      = {:C\:/Users/Aron Petau/Google Drive/BA/thesis/literature/RosemannThiel2018NeuroImage.pdf:PDF},
-  groups    = {Multisensory Integration, Age Effects},
+  groups    = {Multisensory Integration, Age Effects, Unused},
   publisher = {Elsevier},
-  timestamp = {2020-11-12},
+  timestamp = {2020-11-30},
 }
 Key : classical study on multisensory integration
 
@@ -29,7 +29,7 @@ Key : classical study on multisensory integration
   doi       = {10.1109/tnn.2002.1021886},
   file      = {:C\:/Users/Aron Petau/Google Drive/BA/thesis/literature/nakamura2002.pdf:PDF},
   groups    = {Multisensory Integration},
-  timestamp = {2020-11-11},
+  timestamp = {2020-11-30},
 }
 
 Key : handedness test
@@ -45,9 +45,9 @@ Key : handedness test
   volume    = {9},
   abstract  = {The need for a simply applied quantitative assessment of handedness is discussed and some previous forms reviewed. An inventory of 20 items with a set of instructions and response- and computational-conventions is proposed and the results obtained from a young adult population numbering some 1100 individuals are reported. The separate items are examined from the point of view of sex, cultural and socio-economic factors which might appertain to them and also of their inter-relationship to each other and to the measure computed from them all. Criteria derived from these considerations are then applied to eliminate 10 of the original 20 items and the results recomputed to provide frequency-distribution and cumulative frequency functions and a revised item-analysis. The difference of incidence of handedness between the sexes is discussed.},
   doi       = {https://doi.org/10.1016/0028-3932(71)90067-4},
-  file      = {:C\:/Users/Aron Petau/Google Drive/BA/thesis/literature/oldfield1971handedness.pdf:PDF},
-  groups    = {Old Classics},
-  timestamp = {2020-11-11},
+  file      = {:C\:/Users/Aron Petau/Google Drive/BA/thesis/literature/oldfield1971handedness.pdf:PDF;:C\:/Users/aron/Google Drive/BA/thesis/literature/beker2018.pdf:PDF;:C\:/Users/aron/Google Drive/BA/thesis/literature/beker2018.pdf:PDF},
+  groups    = {Old Classics, Unused},
+  timestamp = {2020-11-30},
   url       = {http://www.sciencedirect.com/science/article/pii/0028393271900674},
 }
 
@@ -65,7 +65,7 @@ Key : handedness test
   file      = {:C\:/Users/Aron Petau/Google Drive/BA/thesis/literature/uslar2013OLAKS.pdf:PDF},
   groups    = {Materials},
   publisher = {Acoustical Society of America ({ASA})},
-  timestamp = {2020-11-11},
+  timestamp = {2020-11-30},
   url       = {https://doi.org/10.1121/1.4818760},
 }
 
@@ -92,7 +92,7 @@ Key : handedness test
   language                = {English},
   pubmed_id               = {704285},
   source                  = {Scopus},
-  timestamp               = {2020-11-12},
+  timestamp               = {2020-11-30},
   url                     = {https://www.scopus.com/inward/record.uri?eid=2-s2.0-0018388657&doi=10.3758%2fBF03206096&partnerID=40&md5=c6d275c9b9a1362aeacf87e25a494621},
 }
 
@@ -109,7 +109,7 @@ Key : handedness test
   file      = {:C\:/Users/Aron Petau/Google Drive/BA/thesis/literature/Lezzoum2016EchoThreshold between Passive and Electro-Acousti.pdf:PDF},
   groups    = {Echo Effect, Delay},
   keywords  = {Hearing protection device, Echo threshold, Just noticeable difference, Delay},
-  timestamp = {2020-11-12},
+  timestamp = {2020-11-30},
   url       = {http://www.sciencedirect.com/science/article/pii/S0169814116300233},
 }
 
@@ -124,7 +124,7 @@ Key : handedness test
   file      = {:C\:/Users/Aron Petau/Google Drive/BA/thesis/literature/Noel2017 Atypical rapid audio-visual temporal recalibration.pdf:PDF},
   groups    = {Autism, Multisensory Integration},
   publisher = {Wiley Online Library},
-  timestamp = {2020-11-12},
+  timestamp = {2020-11-30},
 }
 
 @Article{stone2002tolerable,
@@ -140,7 +140,7 @@ Key : handedness test
   file      = {:C\:/Users/Aron Petau/Google Drive/BA/thesis/literature/Stone2002TolerableDelays.pdf:PDF},
   groups    = {Delay},
   publisher = {LWW},
-  timestamp = {2020-11-11},
+  timestamp = {2020-11-30},
 }
 
 @Article{bosker2020visual,
@@ -153,9 +153,9 @@ Key : handedness test
   volume    = {73},
   doi       = {10.1177/1747021820914564},
   file      = {:C\:/Users/Aron Petau/Google Drive/BA/thesis/literature/Bosker2020_lexical selection_audiovisual.pdf:PDF},
-  groups    = {Multisensory Integration},
+  groups    = {Multisensory Integration, Unused},
   publisher = {SAGE Publications Sage UK: London, England},
-  timestamp = {2020-11-11},
+  timestamp = {2020-11-30},
 }
 
 @Article{Maier2011asynchrony,
@@ -168,8 +168,8 @@ Key : handedness test
   volume    = {37},
   doi       = {10.1037/a0019952},
   file      = {:C\:/Users/Aron Petau/Google Drive/BA/thesis/literature/Maier2011-audiovisual-asynchrony-speech.pdf:PDF},
-  groups    = {Delay},
-  timestamp = {2020-11-11},
+  groups    = {Delay, Unused},
+  timestamp = {2020-11-30},
 }
 
 @Article{soto2004assessing,
@@ -186,7 +186,7 @@ Key : handedness test
   file      = {:C\:/Users/Aron Petau/Google Drive/BA/thesis/literature/soto-faraco2004-automaticity-audiovisual-integration.pdf:PDF},
   groups    = {Multisensory Integration},
   publisher = {Elsevier},
-  timestamp = {2020-11-11},
+  timestamp = {2020-11-30},
 }
 
 @Article{ross2007you,
@@ -202,7 +202,7 @@ Key : handedness test
   file      = {:C\:/Users/Aron Petau/Google Drive/BA/thesis/literature/ross2006-noisy.pdf:PDF},
   groups    = {Multisensory Integration},
   publisher = {Oxford University Press},
-  timestamp = {2020-11-11},
+  timestamp = {2020-11-30},
 }
 
 @Book{stein1993merging,
@@ -212,7 +212,7 @@ Key : handedness test
   year      = {1993},
   file      = {:C\:/Users/Aron Petau/Google Drive/BA/thesis/literature/stein1993.pdf:PDF},
   groups    = {Multisensory Integration, Old Classics},
-  timestamp = {2020-11-11},
+  timestamp = {2020-11-30},
 }
 
 @Article{meredith1986visual,
@@ -228,7 +228,7 @@ Key : handedness test
   file      = {:C\:/Users/Aron Petau/Google Drive/BA/thesis/literature/meredith1986.pdf:PDF},
   groups    = {Multisensory Integration, Old Classics},
   publisher = {American Physiological Society Bethesda, MD},
-  timestamp = {2020-11-11},
+  timestamp = {2020-11-30},
 }
 
 @InCollection{stein1993integration,
@@ -244,9 +244,9 @@ Key : handedness test
 The cat superior colliculus neuron is a major site for the convergence and integration of multisensory information. It is only one of many central nervous system sites in many species where information from several modalities converges. Single cells in cat LS (lateral suprasylvian) and AES (anterior ectosylvian sulcus) and in monkey IPS (intraparietal sulcus) and STS (superior temporal sulcus) were examined. Although the spatial, temporal, and multiplicative characteristics of multisensory integration were most closely examined in cat cortex, all of the observations in monkey were consistent with those described in cat. The multisensory receptive fields of a single neuron overlapped one another in space, such that sensory stimuli that were in close spatial register fell within their excitatory receptive fields and enhanced the neuron's activity; spatially disparate stimuli produced either no interaction or depressed responses. The rules of multisensory integration evident at the level of the single neuron are also consistent with studies of intact behaving animals. The attentive and orientation responses cats make to visual and auditory stimuli were predictable based on the reactions of superior colliculus neurons to these stimuli. The data indicate that the visual responses of many neurons, whether in the superior colliculus or cortex, represent only one facet of their sensory coding capabilities.},
   doi       = {https://doi.org/10.1016/S0079-6123(08)60359-3},
   file      = {:C\:/Users/Aron Petau/Google Drive/BA/thesis/literature/stein1993.pdf:PDF},
-  groups    = {Multisensory Integration},
+  groups    = {Multisensory Integration, Unused},
   issn      = {0079-6123},
-  timestamp = {2020-11-11},
+  timestamp = {2020-11-30},
   url       = {http://www.sciencedirect.com/science/article/pii/S0079612308603593},
 }
 
@@ -263,17 +263,18 @@ The cat superior colliculus neuron is a major site for the convergence and integ
   abstract  = {Forty-three normal hearing participants were tested in two experiments, which focused on temporal coincidence in auditory visual (AV) speech perception. In these experiments, audio recordings of/pa/and/ba/were dubbed onto video recordings of /ba/or/ga/, respectively (ApVk, AbVg), to produce the illusory “fusion” percepts /ta/, or /da/ [McGurk, H., & McDonald, J. (1976). Hearing lips and seeing voices. Nature, 264, 746–747]. In Experiment 1, an identification task using McGurk pairs with asynchronies ranging from −467ms (auditory lead) to +467ms was conducted. Fusion responses were prevalent over temporal asynchronies from −30ms to +170ms and more robust for audio lags. In Experiment 2, simultaneity judgments for incongruent and congruent audiovisual tokens (AdVd, AtVt) were collected. McGurk pairs were more readily judged as asynchronous than congruent pairs. Characteristics of the temporal window over which simultaneity and fusion responses were maximal were quite similar, suggesting the existence of a 200ms duration asymmetric bimodal temporal integration window.},
   doi       = {https://doi.org/10.1016/j.neuropsychologia.2006.01.001},
   file      = {:C\:/Users/Aron Petau/Google Drive/BA/thesis/literature/vanwassenhove2007temporalWindow.pdf:PDF},
-  groups    = {Multisensory Integration, Delay},
+  groups    = {Multisensory Integration, Delay, Unused},
   keywords  = {McGurk illusion, Multisensory, Time, Psychophysics, Analysis-by-synthesis},
-  timestamp = {2020-11-11},
+  timestamp = {2020-11-30},
   url       = {http://www.sciencedirect.com/science/article/pii/S002839320600011X},
 }
 
 @Misc{audacity,
-  author = {Audacity},
-  title  = {Audacity® software is copyright © 1999-2020 Audacity Team.Web site: https://audacityteam.org/. It is free softwaredistributed under the terms of the GNU General Public License.The name Audacity® is a registered trademark of Dominic Mazzoni.},
-  year   = {2020},
-  groups = {Materials},
+  author    = {Audacity},
+  title     = {Audacity® software is copyright © 1999-2020 Audacity Team.Web site: https://audacityteam.org/. It is free softwaredistributed under the terms of the GNU General Public License.The name Audacity® is a registered trademark of Dominic Mazzoni.},
+  year      = {2020},
+  groups    = {Materials},
+  timestamp = {2020-11-30},
 }
 
 @Manual{rstudio,
@@ -283,6 +284,7 @@ The cat superior colliculus neuron is a major site for the convergence and integ
   organization = {RStudio, PBC.},
   year         = {2020},
   groups       = {Materials},
+  timestamp    = {2020-11-30},
   url          = {http://www.rstudio.com/},
 }
 
@@ -299,7 +301,7 @@ The cat superior colliculus neuron is a major site for the convergence and integ
   doi       = {https://doi.org/10.1016/j.wocn.2006.09.001},
   file      = {:C\:/Users/Aron Petau/Google Drive/BA/thesis/literature/quene2007justnoticeabledifference.pdf:PDF},
   groups    = {Delay, Multisensory Integration},
-  timestamp = {2020-11-11},
+  timestamp = {2020-11-30},
   url       = {http://www.sciencedirect.com/science/article/pii/S0095447006000441},
 }
 
@@ -314,10 +316,10 @@ The cat superior colliculus neuron is a major site for the convergence and integ
   volume    = {14},
   doi       = {10.1046/j.0956-7976.2003.psci_1470.x},
   file      = {:C\:/Users/Aron Petau/Google Drive/BA/thesis/literature/bertelson2003recalibration.pdf:PDF},
-  groups    = {Multisensory Integration, Delay},
+  groups    = {Multisensory Integration, Delay, Unused},
   publisher = {SAGE Publications Sage CA: Los Angeles, CA},
   subtitle  = {A McGurk Aftereffect},
-  timestamp = {2020-11-11},
+  timestamp = {2020-11-30},
 }
 
 @Article{biau2015speaker,
@@ -332,7 +334,7 @@ The cat superior colliculus neuron is a major site for the convergence and integ
   file      = {:C\:/Users/Aron Petau/Google Drive/BA/thesis/literature/biau2015handGestures.pdf:PDF},
   groups    = {Multisensory Integration},
   publisher = {Elsevier},
-  timestamp = {2020-11-11},
+  timestamp = {2020-11-30},
 }
 
 @Article{calvert1997activation,
@@ -346,7 +348,7 @@ The cat superior colliculus neuron is a major site for the convergence and integ
   file      = {:C\:/Users/Aron Petau/Google Drive/BA/thesis/literature/calvert1997auditoryActivation.pdf:PDF},
   groups    = {Multisensory Integration},
   publisher = {American Association for the Advancement of Science},
-  timestamp = {2020-11-11},
+  timestamp = {2020-11-30},
 }
 
 @Article{crosse2015congruent,
@@ -362,7 +364,7 @@ The cat superior colliculus neuron is a major site for the convergence and integ
   file      = {:C\:/Users/Aron Petau/Google Drive/BA/thesis/literature/crosse2015congruent.pdf:PDF},
   groups    = {Multisensory Integration},
   publisher = {Soc Neuroscience},
-  timestamp = {2020-11-11},
+  timestamp = {2020-11-30},
 }
 
 @Article{iversen2015synchronization,
@@ -377,7 +379,7 @@ The cat superior colliculus neuron is a major site for the convergence and integ
   file      = {:C\:/Users/Aron Petau/Google Drive/BA/thesis/literature/iversen2015synchronization.pdf:PDF},
   groups    = {Multisensory Integration},
   publisher = {Elsevier},
-  timestamp = {2020-11-11},
+  timestamp = {2020-11-30},
 }
 
 @InCollection{rosenblum2019audiovisual,
@@ -387,15 +389,16 @@ The cat superior colliculus neuron is a major site for the convergence and integ
   year      = {2019},
   doi       = {10.1093/acrefore/9780199384655.013.420},
   file      = {:C\:/Users/Aron Petau/Google Drive/BA/thesis/literature/rosenblum2019audiovisual.pdf:PDF},
-  groups    = {Multisensory Integration},
-  timestamp = {2020-11-11},
+  groups    = {Multisensory Integration, Unused},
+  timestamp = {2020-11-30},
 }
 
 @Misc{puredata,
-  author = {puredata},
-  title  = {puredata.info},
-  year   = {2020},
-  groups = {Materials},
+  author    = {puredata},
+  title     = {puredata.info},
+  year      = {2020},
+  groups    = {Materials, Unused},
+  timestamp = {2020-11-30},
 }
 
 @Article{pouw2019entrainment,
@@ -411,7 +414,7 @@ The cat superior colliculus neuron is a major site for the convergence and integ
   file      = {:C\:/Users/Aron Petau/Google Drive/BA/thesis/literature/pouw2019entrainment.pdf:PDF},
   groups    = {Delay},
   publisher = {Wiley Online Library},
-  timestamp = {2020-11-12},
+  timestamp = {2020-11-30},
 }
 
 @Article{esteve2018prosody,
@@ -424,9 +427,9 @@ The cat superior colliculus neuron is a major site for the convergence and integ
   volume    = {9},
   doi       = {10.3389/fpsyg.2018.00338},
   file      = {:C\:/Users/Aron Petau/Google Drive/BA/thesis/literature/esteve2018prosody.pdf:PDF},
-  groups    = {Language Development},
+  groups    = {Language Development, Unused},
   publisher = {Frontiers},
-  timestamp = {2020-11-12},
+  timestamp = {2020-11-30},
 }
 
 @Article{Hay-McCutcheon2009Asynchrony,
@@ -443,7 +446,7 @@ The cat superior colliculus neuron is a major site for the convergence and integ
   file      = {:C\:/Users/Aron Petau/Google Drive/BA/thesis/literature/Hay-McCutcheon2009Asynchrony.pdf:PDF},
   groups    = {Age Effects, Hearing-Impaired},
   publisher = {Taylor & Francis},
-  timestamp = {2020-11-12},
+  timestamp = {2020-11-30},
   url       = {https://doi.org/10.1080/14992020802644871},
 }
 
@@ -459,7 +462,7 @@ The cat superior colliculus neuron is a major site for the convergence and integ
   file      = {:C\:/Users/Aron Petau/Google Drive/BA/thesis/literature/turi2016noRecalibrationAutism.pdf:PDF},
   groups    = {Autism, Multisensory Integration},
   publisher = {Nature Publishing Group},
-  timestamp = {2020-11-12},
+  timestamp = {2020-11-30},
 }
 
 @InProceedings{ren2016asynchrony,
@@ -470,8 +473,8 @@ The cat superior colliculus neuron is a major site for the convergence and integ
   pages     = {2320--2325},
   doi       = {10.1109/ICMA.2016.7558927},
   file      = {:C\:/Users/Aron Petau/Google Drive/BA/thesis/literature/ren2016asynchrony.pdf:PDF},
-  groups    = {Age Effects},
-  timestamp = {2020-11-12},
+  groups    = {Age Effects, Unused},
+  timestamp = {2020-11-30},
 }
 
 @Article{goehring2018tolerable,
@@ -483,9 +486,9 @@ The cat superior colliculus neuron is a major site for the convergence and integ
   pages     = {61--68},
   volume    = {57},
   file      = {:C\:/Users/aron/Google Drive/BA/thesis/literature/goehring2017.pdf:PDF},
-  groups    = {Delay, Hearing-Impaired},
+  groups    = {Delay, Hearing-Impaired, Unused},
   publisher = {Taylor \& Francis},
-  timestamp = {2020-11-12},
+  timestamp = {2020-11-30},
 }
 
 @Article{giordano2017,
@@ -503,11 +506,11 @@ The cat superior colliculus neuron is a major site for the convergence and integ
   doi          = {10.7554/eLife.24763},
   editor       = {Schroeder, Charles E},
   file         = {:C\:/Users/aron/Google Drive/BA/thesis/literature/giordano2017localspeechencoding.pdf:PDF},
-  groups       = {Multisensory Integration, Perception Enhancement},
+  groups       = {Multisensory Integration, Perception Enhancement, Unused},
   keywords     = {auditory system, magnetoencephalography, audio-visual speech entrainment, directed functional connectivity, inferior frontal gyrus, premotor cortex},
   pub_date     = {2017-06-07},
   publisher    = {eLife Sciences Publications, Ltd},
-  timestamp    = {2020-11-12},
+  timestamp    = {2020-11-30},
   url          = {https://doi.org/10.7554/eLife.24763},
 }
 
@@ -523,9 +526,9 @@ The cat superior colliculus neuron is a major site for the convergence and integ
   abstract  = {While many individuals can benefit substantially from cochlear implantation, the ability to perceive and understand auditory speech with a cochlear implant (CI) remains highly variable amongst adult recipients. Importantly, auditory performance with a CI cannot be reliably predicted based solely on routinely obtained information regarding clinical characteristics of the CI candidate. This review argues that central factors, notably cortical function and plasticity, should also be considered as important contributors to the observed individual variability in CI outcome. Superior temporal cortex (STC), including auditory association areas, plays a crucial role in the processing of auditory and visual speech information. The current review considers evidence of cortical plasticity within bilateral STC, and how these effects may explain variability in CI outcome. Furthermore, evidence of audio-visual interactions in temporal and occipital cortices is examined, and relation to CI outcome is discussed. To date, longitudinal examination of changes in cortical function and plasticity over the period of rehabilitation with a CI has been restricted by methodological challenges. The application of functional near-infrared spectroscopy (fNIRS) in studying cortical function in CI users is becoming increasingly recognised as a potential solution to these problems. Here we suggest that fNIRS offers a powerful neuroimaging tool to elucidate the relationship between audio-visual interactions, cortical plasticity during deafness and following cochlear implantation, and individual variability in auditory performance with a CI.},
   doi       = {https://doi.org/10.1016/j.heares.2016.07.013},
   file      = {:C\:/Users/aron/Google Drive/BA/thesis/literature/anderson2017.pdf:PDF},
-  groups    = {Hearing-Impaired},
+  groups    = {Hearing-Impaired, Unused},
   keywords  = {Audio-visual interactions, Cortical plasticity, Functional near-infrared spectroscopy, Occipital cortex, Speechreading, Superior temporal cortex},
-  timestamp = {2020-11-12},
+  timestamp = {2020-11-30},
   url       = {http://www.sciencedirect.com/science/article/pii/S0378595516301174},
 }
 
@@ -540,9 +543,9 @@ The cat superior colliculus neuron is a major site for the convergence and integ
   abstract  = {Long-path echo is a salient factor that causes the degradation of the intelligibility of speech transmitted through a wide area outdoor environment or a very large indoor space using public-address systems. To robustly transmit speech information under such conditions, it is important to overcome this effect by controlling the characteristics of speech sounds. In this study, we consider the effects of inserting pauses between the words of a sentence. We performed word intelligibility tests using a series of four continuous words, called a quadruplet. Various pause lengths and long-path echo patterns were applied to the quadruplet. The results of the experiments demonstrate that word intelligibility under a long-path echo is significantly improved by the insertion of pauses between the words. Intelligibility can approach the same levels observed in the absence of echoes for a pause length of approximately 200 ms, which is almost the same as the length of 1-mora for the words used in the experiments. Moreover, this 200 ms pause is known to be sufficient to improve speech recognition in older adults. These results suggest that inter-word pauses of a length of approximately 1-mora can generally enhance the robustness of speech communication systems when used under a severe environment.},
   doi       = {https://doi.org/10.1016/j.apacoust.2018.01.020},
   file      = {:C\:/Users/aron/Google Drive/BA/thesis/literature/sakamoto2018.pdf:PDF},
-  groups    = {Perception Enhancement, Echo Effect},
+  groups    = {Perception Enhancement, Echo Effect, Unused},
   keywords  = {Word intelligibility, Long-path echo, Pause, Open-air public-address systems},
-  timestamp = {2020-11-12},
+  timestamp = {2020-11-30},
   url       = {http://www.sciencedirect.com/science/article/pii/S0003682X17310575},
 }
 
@@ -558,9 +561,9 @@ The cat superior colliculus neuron is a major site for the convergence and integ
   doi       = {https://doi.org/10.1002/wcs.1517},
   eprint    = {https://onlinelibrary.wiley.com/doi/pdf/10.1002/wcs.1517},
   file      = {:C\:/Users/aron/Google Drive/BA/thesis/literature/stilp2019.pdf:PDF},
-  groups    = {Echo Effect},
+  groups    = {Echo Effect, Unused},
   keywords  = {context effects, speech categorization, speech perception},
-  timestamp = {2020-11-12},
+  timestamp = {2020-11-30},
   url       = {https://onlinelibrary.wiley.com/doi/abs/10.1002/wcs.1517},
 }
 
@@ -575,9 +578,9 @@ The cat superior colliculus neuron is a major site for the convergence and integ
   volume    = {7},
   doi       = {10.1038/ncomms12241},
   file      = {:C\:/Users/aron/Google Drive/BA/thesis/literature/du2016.pdf:PDF},
-  groups    = {Age Effects, Hearing-Impaired},
+  groups    = {Age Effects, Hearing-Impaired, Unused},
   publisher = {Nature Publishing Group},
-  timestamp = {2020-11-12},
+  timestamp = {2020-11-30},
 }
 
 @Article{klockgether2016,
@@ -590,8 +593,90 @@ The cat superior colliculus neuron is a major site for the convergence and integ
   volume    = {140},
   doi       = {10.1121/1.4964844},
   eprint    = {https://doi.org/10.1121/1.4964844},
-  timestamp = {2020-11-12},
+  file      = {:C\:/Users/aron/Google Drive/BA/thesis/literature/klockgether2016.pdf:PDF},
+  timestamp = {2020-11-30},
   url       = {https://doi.org/10.1121/1.4964844},
+}
+
+@Article{beker2018autismDevelopment,
+  author    = {Shlomit Beker and John J. Foxe and Sophie Molholm},
+  journal   = {Neuroscience & Biobehavioral Reviews},
+  title     = {Ripe for solution: Delayed development of multisensory processing in autism and its remediation},
+  year      = {2018},
+  issn      = {0149-7634},
+  pages     = {182--192},
+  volume    = {84},
+  abstract  = {Difficulty integrating inputs from different sensory sources is commonly reported in individuals with Autism Spectrum Disorder (ASD). Accumulating evidence consistently points to altered patterns of behavioral reactions and neural activity when individuals with ASD observe or act upon information arriving through multiple sensory systems. For example, impairments in the integration of seen and heard speech appear to be particularly acute, with obvious implications for interpersonal communication. Here, we explore the literature on multisensory processing in autism with a focus on developmental trajectories. While much remains to be understood, some consistent observations emerge. Broadly, sensory integration deficits are found in children with an ASD whereas these appear to be much ameliorated, or even fully recovered, in older teenagers and adults on the spectrum. This protracted delay in the development of multisensory processing raises the possibility of applying early intervention strategies focused on multisensory integration, to accelerate resolution of these functions. We also consider how dysfunctional cross-sensory oscillatory neural communication may be one key pathway to impaired multisensory processing in ASD.},
+  doi       = {https://doi.org/10.1016/j.neubiorev.2017.11.008},
+  groups    = {Unused},
+  keywords  = {Autism spectrum disorder, Typical development, Multisensory integration, Sensory processing, Amelioration, Normalization, Time window of integration, Recovery, Oscillation, Phase alignment, Phase reset},
+  timestamp = {2020-11-30},
+  url       = {http://www.sciencedirect.com/science/article/pii/S0149763417305262},
+}
+
+@Article{brandwein2013development,
+  author    = {Brandwein, Alice B and Foxe, John J and Butler, John S and Russo, Natalie N and Altschuler, Ted S and Gomes, Hilary and Molholm, Sophie},
+  journal   = {Cerebral Cortex},
+  title     = {The development of multisensory integration in high-functioning autism: high-density electrical mapping and psychophysical measures reveal impairments in the processing of audiovisual inputs},
+  year      = {2013},
+  number    = {6},
+  pages     = {1329--1341},
+  volume    = {23},
+  file      = {:C\:/Users/Aron/Google Drive/BA/thesis/literature/brandwein2013highFunctioning.pdf:PDF},
+  groups    = {Unused},
+  publisher = {Oxford University Press},
+  timestamp = {2020-11-30},
+}
+
+@Article{stevenson2014impact,
+  author    = {Stevenson, Ryan A and Segers, Magali and Ferber, Susanne and Barense, Morgan D and Wallace, Mark T},
+  journal   = {Frontiers in psychology},
+  title     = {The impact of multisensory integration deficits on speech perception in children with autism spectrum disorders},
+  year      = {2014},
+  pages     = {379},
+  volume    = {5},
+  file      = {:C\:/Users/Aron/Google Drive/BA/thesis/literature/stevenson2014autismDeficits.pdf:PDF},
+  groups    = {Unused},
+  publisher = {Frontiers},
+  timestamp = {2020-11-30},
+}
+
+@Article{apa2000diagnostic,
+  author    = {APA, Ed},
+  journal   = {Washington, DC},
+  title     = {Diagnostic and statistical manual of mental disorders, Text Revision (DSM-IV-TR)},
+  year      = {2000},
+  timestamp = {2020-11-30},
+}
+
+@Article{pollack1954visual,
+  author    = {Pollack, Sumby WH},
+  journal   = {J Acoust Soc Am},
+  title     = {I 1954 Visual contribution to speech intelligibility in noise},
+  year      = {1954},
+  pages     = {212215},
+  volume    = {26},
+  timestamp = {2020-11-30},
+}
+
+@Article{badian1979standardized,
+  author    = {Badian, M and Appel, E and Palm, D and Rupp, W and Sittig, W and Taeuber, K},
+  journal   = {European journal of clinical pharmacology},
+  title     = {Standardized mental stress in healthy volunteers induced by delayed auditory feedback (DAF)},
+  year      = {1979},
+  number    = {3},
+  pages     = {171--176},
+  volume    = {16},
+  publisher = {Springer},
+  timestamp = {2020-11-30},
+}
+
+@Book{mcneill1992hand,
+  author    = {McNeill, David},
+  publisher = {University of Chicago press},
+  title     = {Hand and mind: What gestures reveal about thought},
+  year      = {1992},
+  timestamp = {2020-11-30},
 }
 
 @Comment{jabref-meta: databaseType:bibtex;}
@@ -608,6 +693,7 @@ The cat superior colliculus neuron is a major site for the convergence and integ
 1 StaticGroup:Age Effects\;0\;1\;0x8a8a8aff\;\;\;;
 1 StaticGroup:Hearing-Impaired\;0\;0\;0x8a8a8aff\;\;\;;
 1 StaticGroup:Perception Enhancement\;0\;1\;0x8a8a8aff\;\;\;;
+1 StaticGroup:Unused\;0\;1\;0x8a8a8aff\;\;\;;
 }
 
 @Comment{jabref-meta: saveActions:enabled;
