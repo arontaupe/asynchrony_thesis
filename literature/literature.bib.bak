@@ -11,7 +11,7 @@ Key:
   volume    = {175},
   doi       = {10.1016/j.neuroimage.2018.04.023},
   file      = {:C\:/Users/Aron Petau/Google Drive/BA/thesis/literature/RosemannThiel2018NeuroImage.pdf:PDF},
-  groups    = {Multisensory Integration, Age Effects, Unused},
+  groups    = {Multisensory Integration, Age Effects},
   publisher = {Elsevier},
   timestamp = {2020-11-30},
 }
@@ -46,7 +46,7 @@ Key : handedness test
   abstract  = {The need for a simply applied quantitative assessment of handedness is discussed and some previous forms reviewed. An inventory of 20 items with a set of instructions and response- and computational-conventions is proposed and the results obtained from a young adult population numbering some 1100 individuals are reported. The separate items are examined from the point of view of sex, cultural and socio-economic factors which might appertain to them and also of their inter-relationship to each other and to the measure computed from them all. Criteria derived from these considerations are then applied to eliminate 10 of the original 20 items and the results recomputed to provide frequency-distribution and cumulative frequency functions and a revised item-analysis. The difference of incidence of handedness between the sexes is discussed.},
   doi       = {https://doi.org/10.1016/0028-3932(71)90067-4},
   file      = {:C\:/Users/Aron Petau/Google Drive/BA/thesis/literature/oldfield1971handedness.pdf:PDF;:C\:/Users/aron/Google Drive/BA/thesis/literature/beker2018.pdf:PDF;:C\:/Users/aron/Google Drive/BA/thesis/literature/beker2018.pdf:PDF},
-  groups    = {Old Classics, Unused},
+  groups    = {Old Classics},
   timestamp = {2020-11-30},
   url       = {http://www.sciencedirect.com/science/article/pii/0028393271900674},
 }
@@ -168,7 +168,7 @@ Key : handedness test
   volume    = {37},
   doi       = {10.1037/a0019952},
   file      = {:C\:/Users/Aron Petau/Google Drive/BA/thesis/literature/Maier2011-audiovisual-asynchrony-speech.pdf:PDF},
-  groups    = {Delay, Unused},
+  groups    = {Delay},
   timestamp = {2020-11-30},
 }
 
@@ -263,7 +263,7 @@ The cat superior colliculus neuron is a major site for the convergence and integ
   abstract  = {Forty-three normal hearing participants were tested in two experiments, which focused on temporal coincidence in auditory visual (AV) speech perception. In these experiments, audio recordings of/pa/and/ba/were dubbed onto video recordings of /ba/or/ga/, respectively (ApVk, AbVg), to produce the illusory “fusion” percepts /ta/, or /da/ [McGurk, H., & McDonald, J. (1976). Hearing lips and seeing voices. Nature, 264, 746–747]. In Experiment 1, an identification task using McGurk pairs with asynchronies ranging from −467ms (auditory lead) to +467ms was conducted. Fusion responses were prevalent over temporal asynchronies from −30ms to +170ms and more robust for audio lags. In Experiment 2, simultaneity judgments for incongruent and congruent audiovisual tokens (AdVd, AtVt) were collected. McGurk pairs were more readily judged as asynchronous than congruent pairs. Characteristics of the temporal window over which simultaneity and fusion responses were maximal were quite similar, suggesting the existence of a 200ms duration asymmetric bimodal temporal integration window.},
   doi       = {https://doi.org/10.1016/j.neuropsychologia.2006.01.001},
   file      = {:C\:/Users/Aron Petau/Google Drive/BA/thesis/literature/vanwassenhove2007temporalWindow.pdf:PDF},
-  groups    = {Multisensory Integration, Delay, Unused},
+  groups    = {Multisensory Integration, Delay},
   keywords  = {McGurk illusion, Multisensory, Time, Psychophysics, Analysis-by-synthesis},
   timestamp = {2020-11-30},
   url       = {http://www.sciencedirect.com/science/article/pii/S002839320600011X},
@@ -316,7 +316,7 @@ The cat superior colliculus neuron is a major site for the convergence and integ
   volume    = {14},
   doi       = {10.1046/j.0956-7976.2003.psci_1470.x},
   file      = {:C\:/Users/Aron Petau/Google Drive/BA/thesis/literature/bertelson2003recalibration.pdf:PDF},
-  groups    = {Multisensory Integration, Delay, Unused},
+  groups    = {Multisensory Integration, Delay},
   publisher = {SAGE Publications Sage CA: Los Angeles, CA},
   subtitle  = {A McGurk Aftereffect},
   timestamp = {2020-11-30},
@@ -389,7 +389,7 @@ The cat superior colliculus neuron is a major site for the convergence and integ
   year      = {2019},
   doi       = {10.1093/acrefore/9780199384655.013.420},
   file      = {:C\:/Users/Aron Petau/Google Drive/BA/thesis/literature/rosenblum2019audiovisual.pdf:PDF},
-  groups    = {Multisensory Integration, Unused},
+  groups    = {Multisensory Integration},
   timestamp = {2020-11-30},
 }
 
@@ -397,7 +397,7 @@ The cat superior colliculus neuron is a major site for the convergence and integ
   author    = {puredata},
   title     = {puredata.info},
   year      = {2020},
-  groups    = {Materials, Unused},
+  groups    = {Materials},
   timestamp = {2020-11-30},
 }
 
@@ -561,7 +561,7 @@ The cat superior colliculus neuron is a major site for the convergence and integ
   doi       = {https://doi.org/10.1002/wcs.1517},
   eprint    = {https://onlinelibrary.wiley.com/doi/pdf/10.1002/wcs.1517},
   file      = {:C\:/Users/aron/Google Drive/BA/thesis/literature/stilp2019.pdf:PDF},
-  groups    = {Echo Effect, Unused},
+  groups    = {Echo Effect},
   keywords  = {context effects, speech categorization, speech perception},
   timestamp = {2020-11-30},
   url       = {https://onlinelibrary.wiley.com/doi/abs/10.1002/wcs.1517},
@@ -578,7 +578,7 @@ The cat superior colliculus neuron is a major site for the convergence and integ
   volume    = {7},
   doi       = {10.1038/ncomms12241},
   file      = {:C\:/Users/aron/Google Drive/BA/thesis/literature/du2016.pdf:PDF},
-  groups    = {Age Effects, Hearing-Impaired, Unused},
+  groups    = {Age Effects, Hearing-Impaired},
   publisher = {Nature Publishing Group},
   timestamp = {2020-11-30},
 }
@@ -623,7 +623,6 @@ The cat superior colliculus neuron is a major site for the convergence and integ
   pages     = {1329--1341},
   volume    = {23},
   file      = {:C\:/Users/Aron/Google Drive/BA/thesis/literature/brandwein2013highFunctioning.pdf:PDF},
-  groups    = {Unused},
   publisher = {Oxford University Press},
   timestamp = {2020-11-30},
 }
@@ -636,17 +635,18 @@ The cat superior colliculus neuron is a major site for the convergence and integ
   pages     = {379},
   volume    = {5},
   file      = {:C\:/Users/Aron/Google Drive/BA/thesis/literature/stevenson2014autismDeficits.pdf:PDF},
-  groups    = {Unused},
   publisher = {Frontiers},
   timestamp = {2020-11-30},
 }
 
-@Article{apa2000diagnostic,
-  author    = {APA, Ed},
-  journal   = {Washington, DC},
-  title     = {Diagnostic and statistical manual of mental disorders, Text Revision (DSM-IV-TR)},
-  year      = {2000},
-  timestamp = {2020-11-30},
+@Book{american2013diagnostic,
+  author    = {American Psychiatric Association APA},
+  publisher = {American Psychiatric Association},
+  title     = {Diagnostic and Statistical Manual of Mental Disorders},
+  year      = {2013},
+  month     = may,
+  doi       = {10.1176/appi.books.9780890425596},
+  timestamp = {2020-12-05},
 }
 
 @Article{pollack1954visual,
@@ -677,6 +677,18 @@ The cat superior colliculus neuron is a major site for the convergence and integ
   title     = {Hand and mind: What gestures reveal about thought},
   year      = {1992},
   timestamp = {2020-11-30},
+}
+
+@Article{stratton1896some,
+  author    = {Stratton, George M},
+  journal   = {Psychological review},
+  title     = {Some preliminary experiments on vision without inversion of the retinal image.},
+  year      = {1896},
+  number    = {6},
+  pages     = {611},
+  volume    = {3},
+  publisher = {The Macmillan Company},
+  timestamp = {2020-12-05},
 }
 
 @Comment{jabref-meta: databaseType:bibtex;}
