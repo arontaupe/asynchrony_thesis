@@ -1,0 +1,44 @@
+
+
+
+
+Should we instruct participants to answer only with one hand??
+Fixation Cross? 
+
+Email to Franke? 
+
+
+
+On Timing Accuracy:
+
+https://www.psychopy.org/general/timing/millisecondPrecision.html#:~:text=The%20clocks%20that%20PsychoPy%20uses,on%20your%20platform%20and%20keyboard.
+
+Timing mega-study:
+
+https://peerj.com/articles/9414/
+
+Results Psychopy: in lab 1ms precision, online: 3,5ms  RT accuracy (best performer)
+typically 1 frame error in stimulus presentationaccuracy (round 16 ms) 
+
+Gorilla
+
+https://gorilla.sc/
+
+Costs roughly 80ct per participant
+
+PsychoPY:
+ integration with Pavlovia, costs 20ct per participant
+
+
+Images: 
+
+How can we ensure understandability? 
+
+Sources:
+https://www.goethe.de/lrn/pro/maerchen/unterrichtsmaterial/Goethe_Maerchen_Didaktisches_Material.pdf
+
+WHERE to get images??
+
+
+Images: Take wrong images from pool
+put distance
