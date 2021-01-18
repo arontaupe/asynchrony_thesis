@@ -1,0 +1,3 @@
+https://crl.ucsd.edu/experiments/ipnp/method/browsepics/browsepics.html
+http://leadserv.u-bourgogne.fr/bases/pictures/
+http://leadserv.u-bourgogne.fr/~lead/imabase/IMABASE.zip
