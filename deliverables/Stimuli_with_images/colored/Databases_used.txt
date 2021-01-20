@@ -1,0 +1,10 @@
+https://crl.ucsd.edu/experiments/ipnp/method/browsepics/browsepics.html
+
+
+Bonin, P., Peereman, R., Malardier, N., Méot, A., & Chalard, M. (2003). A new set of 299 pictures for psycholinguistic studies: French norms for name agreement, image agreement, conceptual familiarity, visual complexity, image variability, age of acquisition, and naming latencies. Behavior Research Methods, Instruments, & Computers, 35(1), 158-167.
+http://leadserv.u-bourgogne.fr/bases/pictures/
+
+
+http://leadserv.u-bourgogne.fr/~lead/imabase/IMABASE.zip
+
+https://www.bcbl.eu/databases/multipic/
