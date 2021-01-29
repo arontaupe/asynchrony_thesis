@@ -382,14 +382,15 @@ The cat superior colliculus neuron is a major site for the convergence and integ
   timestamp = {2020-11-30},
 }
 
-@InCollection{rosenblum2019audiovisual,
+@Article{rosenblum2019audiovisual,
   author    = {Rosenblum, Lawrence D},
-  publisher = {Oxford Research Encyclopedia of Linguistics},
+  journal   = {Oxford Research Encyclopedia of Linguistics},
   title     = {Audiovisual speech perception and the McGurk effect},
   year      = {2019},
   doi       = {10.1093/acrefore/9780199384655.013.420},
   file      = {:C\:/Users/Aron Petau/Google Drive/BA/thesis/literature/rosenblum2019audiovisual.pdf:PDF},
   groups    = {Multisensory Integration},
+  publisher = {Oxford Research Encyclopedia of Linguistics},
   timestamp = {2021-01-22},
 }
 
