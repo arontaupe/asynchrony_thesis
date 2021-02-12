@@ -6,11 +6,14 @@ out = 'merged.avi';
 video_filename = vid;
 audio_filename = aud;
 out_filename = out;
+
+
 videoFReader = VideoReader(video_filename);
 FR = videoFReader.FrameRate;
 [AUDIO,Fs] = audioread(audio_filename);
 SamplesPerFrame = floor(Fs/FR);
-videoFWriter = vision.VideoFileWriter(out_filename, 'AudioInputPort', true, 'FrameRate', FR);
+
+videoFWriter = vision.VideoFileWriter(out_filename, 'AudioInputPort', true, 'FrameRate', FR, 'FileFormat','AVI', 'VideoCompressor', 'MJPEG Compressor');
 framenum = 0;
 while hasFrame(videoFReader)
    videoFrame = readFrame(videoFReader);
