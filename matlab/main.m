@@ -11,6 +11,8 @@ for i = 1:length
     new_elem = convertCharsToStrings(append(zeropad,int2str(i),'.wav'));
     filelist = [filelist new_elem];
 end
+
+%apply delay for all files
 for file = filelist
     add_latency(0,file);
 end
