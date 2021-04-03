@@ -1,0 +1,7 @@
+
+#
+# Results on Monday March 15 2021 12:26:27 UTC.
+# USER AGENT: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:86.0) Gecko/20100101 Firefox/86.0
+# Design number was non-random = 0
+#
+[false,0,["Controller name","Item number","Element number","Type","Group","Field name","Field value"],[[[0,"Form"],[1,0],[2,0],[3,"intro"],[4,"NULL"],[5,"age"],[6,"ee"]],[[0,"Form"],[1,0],[2,0],[3,"intro"],[4,"NULL"],[5,"gender"],[6,"weiblich"]],[[0,"Form"],[1,0],[2,0],[3,"intro"],[4,"NULL"],[5,"_REACTION_TIME_"],[6,4712]]],"TWzmrRYbq2TYXlrxDNsMPA",true]

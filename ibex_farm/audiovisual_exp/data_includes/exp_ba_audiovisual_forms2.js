@@ -3,7 +3,7 @@ var progressBarText = "Ihr aktueller Fortschritt";
 var manualSendResults=true;
 
 PennController.ResetPrefix(null);
-PennController.Sequence = ("setcounter","intro1","intro2","audio_volume","sendresults","exit","feedback");
+PennController.Sequence = ("setcounter","intro1","intro2","audio_volume","sendresults","exit");
 
 //PennController.DebugOff();
 PennController.SetCounter();
@@ -96,22 +96,12 @@ PennController("audio_volume",
 			.wait()
 );
 
+PennController.SendResults("sendresults");
+
 PennController("exit",
     newHtml("exit", "exit_redirect.html")
         .print()
-		,
-
-PennController("feedback",
-      newHtml("feedback", "pilot_feedback.html")
-          .print()
-      ,
-      newButton("finish", "Verlassen")
-            .print().wait(
-            getHtml("feedback").test.complete()
-            .failure( getHtml("feedback").warn() )
-          )
-
-PennController.SendResults("sendresults");
-newTimer("forever", 1)
-    .wait()            // Timer never started: will wait forever
+        ,
+        newTimer("forever", 1)
+        .wait()            // Timer never started: will wait forever
 );

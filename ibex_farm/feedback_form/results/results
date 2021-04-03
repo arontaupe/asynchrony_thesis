@@ -1,0 +1,18 @@
+#
+# Results on Monday March 15 2021 12:26:27 UTC.
+# USER AGENT: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:86.0) Gecko/20100101 Firefox/86.0
+# Design number was non-random = 0
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1615811187,a5d7fa4ca0d433011905c8ab93fe1eb5,Form,0,0,intro,NULL,age,ee
+1615811187,a5d7fa4ca0d433011905c8ab93fe1eb5,Form,0,0,intro,NULL,gender,weiblich
+1615811187,a5d7fa4ca0d433011905c8ab93fe1eb5,Form,0,0,intro,NULL,_REACTION_TIME_,4712

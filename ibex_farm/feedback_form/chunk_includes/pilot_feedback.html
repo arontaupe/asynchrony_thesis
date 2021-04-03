@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+<div style="width: 50em;">
+<body>
+
+<h2>Feedback</h2>
+<p>Danke, dass sie sich die Zeit genommen haben, dieses experiment zu testen.
+  Der Pilot, an dem sie gerade beteiligt waren, dient dazu, mögliche Fehler zu finden und zu beheben.
+Um uns dabei zu helfen, ist dieses letzte Feedback Formular gedacht, in das sie alles eintragen sollten,
+das ihnen während des Experimentes aufgefallen ist. </p>
+
+<form autocomplete="on" name="Feedback Form">
+  <label for="fname">Ihre Teilmehmer ID</label><br>
+  <input type="text" id="fname" name="fname" value="0"><br>
+
+  <label>Haben sie eine Fehlermeldung erhalten?</label>
+  <label class="radio-inline">
+  <input type="radio" name="fehler" id="radio_fehler" value="ja" >
+  Ja</label>
+  <label class="radio-inline">
+  <input type="radio" name="fehler" id="radio_fehler" value="nein" >
+  Nein</label><br><br>
+
+  <label>War das Experiment zu lang? </label>
+  <label class="radio-inline">
+  <input type="radio" name="length" id="radio_length" value="ja" >
+  Ja</label>
+  <label class="radio-inline">
+  <input type="radio" name="length" id="radio_length" value="nein" >
+  Nein</label><br><br>
+
+  <label for="input">Hat eine Eingabe nicht funktioniert? </label><br>
+<textarea id="input" name="input" placeholder="Wenn ja, wo? " ></textarea><br><br>
+
+<label for="display"> Wurde ein Bild oder Filmclip nicht / fehlerhaft angezeigt? </label><br>
+<textarea id="display" name="display" placeholder="Wenn ja, wo? " ></textarea><br><br>
+
+  <label for="comment">Sonstige Kommentare</label><br>
+  <textarea id="comment" name="comment" placeholder="Was ist ihnen noch aufgefallen?" ></textarea><br>
+
+<br><br>
+  <input type="submit" value="Abschicken">
+</form>
+
+<p>Vielen Dank für die Teilnahme am Pilotexperiment</p>
+
+</body>
+</html>
