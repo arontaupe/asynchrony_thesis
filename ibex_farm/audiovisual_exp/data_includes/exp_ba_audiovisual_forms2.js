@@ -3,14 +3,15 @@ var progressBarText = "Ihr aktueller Fortschritt";
 var manualSendResults=true;
 
 PennController.ResetPrefix(null);
-PennController.Sequence = ("setcounter","intro1","intro2","audio_volume","sendresults","exit");
+PennController.Sequence = ("setcounter","intro1","intro2","personal","audio_volume","sendresults","exit");
 
-//PennController.DebugOff();
+PennController.DebugOff();
 PennController.SetCounter();
 
 PennController("intro1",
     newHtml("subjinfo", "intro_German.html")
         .print()
+		.settings.log() //added response log
     ,
     newButton("continue", "Weiter")
         .print()
@@ -23,6 +24,7 @@ PennController("intro1",
 PennController("intro2",
     newHtml("consent", "consent_German.html")
         .print()
+		.settings.log() //added response log
     ,
     newButton("continue", "Weiter")
         .print()
@@ -30,6 +32,19 @@ PennController("intro2",
             getHtml("consent").test.complete()
                 .failure( getHtml("consent").warn() )
         )
+);
+
+PennController("personal",
+	newHtml("questionnaire", "questionnaire.html")
+		.print()
+		.settings.log() //added response log
+	,
+	newButton("continue", "Weiter")
+		.print()
+		.wait(
+			getHtml("questionnaire").test.complete()
+				.failure( getHtml("questionnaire").warn() )
+		)
 );
 
 
