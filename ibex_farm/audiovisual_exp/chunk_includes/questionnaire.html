@@ -11,8 +11,10 @@
         <h3>Allgemeine Angaben</h3>
 
     <label for="age">Wie alt sind Sie?</label><br>
-    <input type="number" id="age" name="age"
-       min="12" max="100" class="obligatory"><br><br>
+    <input type="text" id="age" name="age"
+     pattern="[0-9]+"
+    minlength="1" maxlength="3"
+       class="obligatory"><br><br>
 
     <label>Was ist Ihr Geschlecht?</label><br>
     <input type="radio" id="male" name="gender" value="male" class="obligatory">
@@ -49,7 +51,7 @@
       <input type="radio" id="vision" name="vision" value="no">
       <label for="left">nein</label><br>
       <input type="radio" id="vision" name="vision" value="corrected">
-      <label for="left">Ja, aber Ich trage Brille oder Kontaktlinsen</label><br><br>
+      <label for="left">Ja, aber ich trage Brille oder Kontaktlinsen</label><br><br>
 
       <label>Haben Sie Kopfh&ouml;rer auf und Lautst&auml;rke angepasst?
         (bitte verkabelte Kopfh&ouml;rer verwenden, auf gar keinen Fall Bluetooth oder True Wireless Verbindungen
@@ -78,16 +80,16 @@
       <input type="radio" id="no" name="psych" value="no">
       <label for="no">nein</label><br>
       <label for="psych_spec">ja, und zwar:</label><br>
-    <textarea id="psych_spec" name="psych" placeholder="" ></textarea><br><br>
+    <textarea id="psych_spec" name="psych" placeholder="" style="width:600px; height:200px;"></textarea><br><br>
 
     <label for="comment">Wenn Sie weitere Anmerkungen haben, lassen Sie uns dies bitte wissen:</label><br>
-    <textarea id="comment" name="comment" placeholder="Ich habe einen gebrochenen Arm und benutze heute meine nichtdominante Hand." ></textarea><br><br>
+    <textarea id="comment" name="comment" placeholder="Ich habe einen gebrochenen Arm und benutze heute meine nichtdominante Hand." style="width:600px; height:200px;"></textarea><br><br>
 
   <br><br>
 
   </form>
 
-  <p>Vielen Dank, Sie werden nun weitergeleitet.</p>
+  <p>Vielen Dank, Sie werden nach dem Absenden zum Experiment weitergeleitet.</p>
 
   </body>
   </html>
