@@ -304,3 +304,201 @@
 1619630715,c879f8dbe4d01f9bd5deab2f475ca03a,Form,0,0,intro,NULL,email,Webers%2C Hannah
 1619630715,c879f8dbe4d01f9bd5deab2f475ca03a,Form,0,0,intro,NULL,email,hannah.webers@gmx.de
 1619630715,c879f8dbe4d01f9bd5deab2f475ca03a,Form,0,0,intro,NULL,_REACTION_TIME_,41222
+#
+# Results on Thursday April 29 2021 08:17:59 UTC.
+# USER AGENT: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.128 Safari/537.36
+# Design number was non-random = 17
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1619684280,6eaef256c294ca0ee55c4f6f9cd891ff,Form,0,0,intro,NULL,email,Ashitey%2C Sarah
+1619684280,6eaef256c294ca0ee55c4f6f9cd891ff,Form,0,0,intro,NULL,email,sarah.ashitey@gmx.de
+1619684280,6eaef256c294ca0ee55c4f6f9cd891ff,Form,0,0,intro,NULL,_REACTION_TIME_,23235
+#
+# Results on Thursday April 29 2021 13:10:16 UTC.
+# USER AGENT: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36
+# Design number was non-random = 18
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1619701817,dc4e653ac1c01e13fea847bb2addbf85,Form,0,0,intro,NULL,email,Jensen%2C Alina
+1619701817,dc4e653ac1c01e13fea847bb2addbf85,Form,0,0,intro,NULL,email,alina.jensen97@gmail.com
+1619701817,dc4e653ac1c01e13fea847bb2addbf85,Form,0,0,intro,NULL,_REACTION_TIME_,37994
+#
+# Results on Thursday April 29 2021 16:57:06 UTC.
+# USER AGENT: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36
+# Design number was non-random = 19
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1619715427,3a877fe2ec0fb1639b3c2b00169967e3,Form,0,0,intro,NULL,email,Jänsch%2C Paul
+1619715427,3a877fe2ec0fb1639b3c2b00169967e3,Form,0,0,intro,NULL,email,pajaensch@uni-osnabrueck.de
+1619715427,3a877fe2ec0fb1639b3c2b00169967e3,Form,0,0,intro,NULL,_REACTION_TIME_,114024
+#
+# Results on Thursday April 29 2021 18:16:16 UTC.
+# USER AGENT: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:78.0) Gecko/20100101 Firefox/78.0
+# Design number was non-random = 20
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1619720177,f5e5c71c36c2976616905ffdc68aac0e,Form,0,0,intro,NULL,email,Willkomm%2C Hanna
+1619720177,f5e5c71c36c2976616905ffdc68aac0e,Form,0,0,intro,NULL,email,hwillkomm@uni-osnabrueck.de
+1619720177,f5e5c71c36c2976616905ffdc68aac0e,Form,0,0,intro,NULL,_REACTION_TIME_,106166
+#
+# Results on Friday April 30 2021 09:36:14 UTC.
+# USER AGENT: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.85 Safari/537.36 Edg/90.0.818.49
+# Design number was non-random = 21
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1619775375,974bf721406ce2c212645dceb7b2f574,Form,0,0,intro,NULL,email,Tiemann%2C Laura
+1619775375,974bf721406ce2c212645dceb7b2f574,Form,0,0,intro,NULL,email,lautiemann@uni-osnabrueck.de
+1619775375,974bf721406ce2c212645dceb7b2f574,Form,0,0,intro,NULL,_REACTION_TIME_,49217
+#
+# Results on Friday April 30 2021 10:45:50 UTC.
+# USER AGENT: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36
+# Design number was non-random = 22
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1619779550,a7c629edd8bc63fb8df85ec7d0e09083,Form,0,0,intro,NULL,email,Simon%2C Jessica
+1619779550,a7c629edd8bc63fb8df85ec7d0e09083,Form,0,0,intro,NULL,email,jesimon@uni-osnabrueck.de
+1619779550,a7c629edd8bc63fb8df85ec7d0e09083,Form,0,0,intro,NULL,_REACTION_TIME_,58256
+#
+# Results on Friday April 30 2021 14:11:31 UTC.
+# USER AGENT: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:87.0) Gecko/20100101 Firefox/87.0
+# Design number was non-random = 23
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1619791892,89e52ab5d7de046b87ad88ed38c23184,Form,0,0,intro,NULL,email,Kohne%2C Rahel
+1619791892,89e52ab5d7de046b87ad88ed38c23184,Form,0,0,intro,NULL,email,rkohne@gmx.de
+1619791892,89e52ab5d7de046b87ad88ed38c23184,Form,0,0,intro,NULL,_REACTION_TIME_,30473
+#
+# Results on Saturday May 01 2021 10:48:32 UTC.
+# USER AGENT: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.72 Safari/537.36
+# Design number was non-random = 24
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1619866112,94024a6dba8600566b61ecf553290a85,Form,0,0,intro,NULL,email,Schmidt%2C Hendrik Jon
+1619866112,94024a6dba8600566b61ecf553290a85,Form,0,0,intro,NULL,email,hendschmidt@uni-osnabrueck.de
+1619866112,94024a6dba8600566b61ecf553290a85,Form,0,0,intro,NULL,_REACTION_TIME_,66398
+#
+# Results on Saturday May 01 2021 19:00:35 UTC.
+# USER AGENT: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.128 Safari/537.36
+# Design number was non-random = 25
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1619895635,a5615804c080d8e382d7c82536133c4d,Form,0,0,intro,NULL,email,Ewert%2C Milan
+1619895635,a5615804c080d8e382d7c82536133c4d,Form,0,0,intro,NULL,email,mewert@uni-osnabrueck.de
+1619895635,a5615804c080d8e382d7c82536133c4d,Form,0,0,intro,NULL,_REACTION_TIME_,59780
+#
+# Results on Sunday May 02 2021 20:42:44 UTC.
+# USER AGENT: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:88.0) Gecko/20100101 Firefox/88.0
+# Design number was non-random = 26
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1619988164,adc91daad3c2585143eb42963391e67a,Form,0,0,intro,NULL,email,Nickel%2C Frauke
+1619988164,adc91daad3c2585143eb42963391e67a,Form,0,0,intro,NULL,email,frauke.nickel@gmx.de
+1619988164,adc91daad3c2585143eb42963391e67a,Form,0,0,intro,NULL,_REACTION_TIME_,44235
+#
+# Results on Sunday May 02 2021 21:01:05 UTC.
+# USER AGENT: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:88.0) Gecko/20100101 Firefox/88.0
+# Design number was non-random = 27
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1619989266,40209559534855cf4cff1f05401bd14f,Form,0,0,intro,NULL,email,Karas%2C Valeria 
+1619989266,40209559534855cf4cff1f05401bd14f,Form,0,0,intro,NULL,email,valeriakaras@web.de
+1619989266,40209559534855cf4cff1f05401bd14f,Form,0,0,intro,NULL,_REACTION_TIME_,25052

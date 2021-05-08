@@ -744,7 +744,8 @@ The cat superior colliculus neuron is a major site for the convergence and integ
   file      = {:C\:/Users/aron/Google Drive/BA/thesis/literature/MultiPic.pdf:PDF},
   groups    = {Materials and tools},
   publisher = {Sage Publications Sage UK: London, England},
-  timestamp = {2021-03-29},
+  timestamp = {2021-05-05},
+  url       = {https://www.bcbl.eu/databases/multipic/},
 }
 
 @Article{Bosker2021,
@@ -964,15 +965,96 @@ The cat superior colliculus neuron is a major site for the convergence and integ
   journal   = {Nature},
   title     = {Hearing lips and seeing voices},
   year      = {1976},
+  issn      = {0028-0836},
+  month     = dec,
   number    = {5588},
   pages     = {746--748},
   volume    = {264},
+  doi       = {10.1038/264746a0},
   file      = {:C\:/Users/aron/Google Drive/BA/thesis/literature/mcgurk1976hearing.pdf:PDF},
+  groups    = {Multisensory Integration},
   publisher = {Nature Publishing Group},
   timestamp = {2021-04-03},
 }
 
+@Article{Vatakis2006,
+  author    = {Argiro Vatakis and Charles Spence},
+  journal   = {Neuroscience Letters},
+  title     = {Audiovisual synchrony perception for speech and music assessed using a temporal order judgment task},
+  year      = {2006},
+  issn      = {0304-3940},
+  number    = {1},
+  pages     = {40--44},
+  volume    = {393},
+  abstract  = {This study investigated people's sensitivity to audiovisual asynchrony in briefly-presented speech and musical videos. A series of speech (letters and syllables) and guitar and piano music (single and double notes) video clips were presented randomly at a range of stimulus onset asynchronies (SOAs) using the method of constant stimuli. Participants made unspeeded temporal order judgments (TOJs) regarding which stream (auditory or visual) appeared to have been presented first. The accuracy of participants’ TOJ performance (measured in terms of the just noticeable difference; JND) was significantly better for the speech than for either the guitar or piano music video clips, suggesting that people are more sensitive to asynchrony for speech than for music stimuli. The visual stream had to lead the auditory stream for the point of subjective simultaneity (PSS) to be achieved in the piano music clips while auditory leads were typically required for the guitar music clips. The PSS values obtained for the speech stimuli varied substantially as a function of the particular speech sound presented. These results provide the first empirical evidence regarding people's sensitivity to audiovisual asynchrony for musical stimuli. Our results also demonstrate that people's sensitivity to asynchrony in speech stimuli is better than has been suggested on the basis of previous research using continuous speech streams as stimuli.},
+  doi       = {https://doi.org/10.1016/j.neulet.2005.09.032},
+  keywords  = {Synchrony perception, TOJ, Speech, Music, Audition, Vision},
+  owner     = {Aron Petau},
+  timestamp = {2021-05-06},
+  url       = {https://www.sciencedirect.com/science/article/pii/S030439400501092X},
+}
+
+@Article{Zampini2003,
+  author    = {Massimiliano Zampini and David I Shore and Charles Spence},
+  journal   = {International Journal of Psychophysiology},
+  title     = {Multisensory temporal order judgments: the role of hemispheric redundancy},
+  year      = {2003},
+  issn      = {0167-8760},
+  note      = {Current findings in multisensory research},
+  number    = {1},
+  pages     = {165--180},
+  volume    = {50},
+  abstract  = {Participants made unspeeded ‘Which modality came first?’ temporal order judgments (TOJs) in response to pairs of auditory and visual stimuli presented at varying stimulus onset asynchronies (SOAs), using the method of constant stimuli. The presentation of auditory and visual stimuli from different spatial positions facilitated performance (i.e. just noticeable differences were lowered) only when the stimuli were presented across the body midline (Experiment 4), but not when both stimuli were either placed on the body midline (Experiments 1–3), or else within the same hemifield (Experiment 5). These results demonstrate that hemispheric redundancy may account for the facilitatory effects reported in previous multisensory TOJs research when stimuli were presented from different spatial locations. Our results also show that the accuracy with which people can make multisensory TOJs is unaffected by the predictability of target stimulus locations, suggesting little role for spatial attention in this aspect of multisensory temporal perception.},
+  doi       = {https://doi.org/10.1016/S0167-8760(03)00132-6},
+  keywords  = {Multisensory perception, Temporal order judgments},
+  owner     = {Aron Petau},
+  timestamp = {2021-05-06},
+  url       = {https://www.sciencedirect.com/science/article/pii/S0167876003001326},
+}
+
+@Article{Grant2004,
+  author    = {Ken W. Grant and Virginie van Wassenhove and David Poeppel},
+  journal   = {Speech Communication},
+  title     = {Detection of auditory (cross-spectral) and auditory–visual (cross-modal) synchrony},
+  year      = {2004},
+  issn      = {0167-6393},
+  note      = {Special Issue on Audio Visual speech processing},
+  number    = {1},
+  pages     = {43--53},
+  volume    = {44},
+  abstract  = {Detection thresholds for temporal synchrony in auditory and auditory–visual sentence materials were obtained on normal-hearing subjects. For auditory conditions, thresholds were determined using an adaptive-tracking procedure to control the degree of temporal asynchrony of a narrow audio band of speech, both positive and negative in separate tracks, relative to three other narrow audio bands of speech. For auditory–visual conditions, thresholds were determined in a similar manner for each of four narrow audio bands of speech as well as a broadband speech condition, relative to a video image of a female speaker. Four different auditory filter conditions, as well as a broadband auditory–visual speech condition, were evaluated in order to determine whether detection thresholds were dependent on the spectral content of the acoustic speech signal. Consistent with previous studies of auditory–visual speech recognition which showed a broad, asymmetrical range of temporal synchrony for which intelligibility was basically unaffected (audio delays roughly between −40ms and +240ms), auditory–visual synchrony detection thresholds also showed a broad, asymmetrical pattern of similar magnitude (audio delays roughly between −45ms and +200ms). No differences in synchrony thresholds were observed for the different filtered bands of speech, or for broadband speech. In contrast, detection thresholds for audio-alone conditions were much smaller (between −17ms and +23ms) and symmetrical. These results suggest a fairly tight coupling between a subject’s ability to detect cross-spectral (auditory) and cross-modal (auditory–visual) asynchrony and the intelligibility of auditory and auditory–visual speech materials.},
+  doi       = {https://doi.org/10.1016/j.specom.2004.06.004},
+  keywords  = {Spectro-temporal asynchrony, Cross-modal asynchrony, auditory–visual speech processing},
+  owner     = {Aron Petau},
+  timestamp = {2021-05-06},
+  url       = {https://www.sciencedirect.com/science/article/pii/S0167639304001013},
+}
+
+@Article{eg2015audiovisual,
+  author    = {Eg, Ragnhild and Griwodz, Carsten and Halvorsen, P{\aa}l and Behne, Dawn},
+  journal   = {Multimedia Tools and Applications},
+  title     = {Audiovisual robustness: exploring perceptual tolerance to asynchrony and quality distortion},
+  year      = {2015},
+  number    = {2},
+  pages     = {345--365},
+  volume    = {74},
+  publisher = {Springer},
+  timestamp = {2021-05-06},
+}
+
+@Article{,
+  owner     = {Aron Petau},
+  timestamp = {2021-05-06},
+}
+
+@Article{,
+  owner     = {Aron Petau},
+  timestamp = {2021-05-06},
+}
+
 @Comment{jabref-meta: databaseType:bibtex;}
+
+@Comment{jabref-meta: fileDirectoryLatex-Aron Petau-AronLaptop:C:\\Users\\aron\\Google Drive\\BA\\thesis\\backups;}
 
 @Comment{jabref-meta: grouping:
 0 AllEntriesGroup:;
