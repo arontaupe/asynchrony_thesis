@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html>
+<div style="width: 50em;">
+<body>
+
+<h2>Feedback</h2>
+<p>
+Danke, dass Sie sich die Zeit genommen haben, dieses Experiment durchzuf&#252;hren und bis zum Schluss durchgehalten haben.<br>
+Wir wissen nat&#252;rlich nicht, wie die Umgebung, in der Sie das Experiment durchgef&#252;hrt haben, aussieht.<br>
+Das nun folgende Formular hilft uns, m&#246;gliche Fehlerquellen bei der Datenerhebung, &#252;ber die wir keine direkte Kontrolle haben, ausfindig zu machen.
+Um uns dabei zu unterst&#252;tzen, ist dieses letzte Feedback gedacht, in das Sie gern alles eintragen sollten,
+das Ihnen w&auml;hrend des Experimentes aufgefallen ist. Dabei geht es sowohl um eventuelle Eigenheiten Ihres Computers, als auch St&#246;rfaktoren in ihrer Umgebung,
+sowie m&#246;gliche Fehler im Experiment selbst, um die wir wissen sollten.<br>
+Die Angaben sind alle freiwillig, helfen uns aber enorm weiter.
+</p>
+
+<form autocomplete="on" name="Feedback Form">
+  <label for="fname">Ihre Teilmehmer ID</label><br>
+  <input type="text" id="fname" name="fname" value="0"><br><br>
+
+  <label for="group">Ihre Gruppe</label><br>
+  <input type="text" id="group" name="group" value="0"><br><br>
+
+
+  <label>Haben Sie eine Fehlermeldung erhalten?</label><br>
+  <label class="radio-inline">
+  <input type="radio" name="error" id="radio_fehler" value="ja" >
+  Ja</label>
+  <label class="radio-inline">
+  <input type="radio" name="error" id="radio_fehler" value="nein" >
+  Nein</label><br><br>
+
+  <label>War das Experiment zu lang? </label><br>
+  <label class="radio-inline">
+  <input type="radio" name="length" id="radio_length" value="ja" >
+  Ja</label>
+  <label class="radio-inline">
+  <input type="radio" name="length" id="radio_length" value="nein" >
+  Nein</label><br><br>
+
+  <label>H&auml;tten Sie mehr Pausen gebraucht?  </label><br>
+  <label class="radio-inline">
+  <input type="radio" name="breaks" id="breaks" value="ja" >
+  Ja</label>
+  <label class="radio-inline">
+  <input type="radio" name="breaks" id="breaks" value="nein" >
+  Nein</label><br><br>
+
+  <label for="load_time">Wie lange, w&uuml;rden Sie sch&auml;tzen, hat das Resourcenladen zu Beginn gedauert? (in Minuten)</label><br>
+  <input type="text" id="load_time" name="load_time"
+  pattern="[0-9]+"
+ minlength="1" maxlength="3"
+    ><br><br>
+
+  <label>Gab es Probleme mit der Audiowiedergabe?</label><br>
+  <label class="radio-inline">
+  <input type="radio" name="audioplayback" id="audioplayback" value="ja" >
+  Ja</label>
+  <label class="radio-inline">
+  <input type="radio" name="audioplayback" id="audioplayback" value="nein" >
+  Nein</label><br>
+  <label for="audioproblem">Wenn Ja, k&ouml;nnen Sie das Problem beschreiben?</label><br>
+  <textarea id="audioproblem" name="audioproblem" placeholder="Alle Videos waren vor lauter Rauschen nicht zu h&ouml;ren"  style="width:600px; height:200px;" ></textarea><br><br>
+
+  <label>Gab es &auml;u&szlig;ere Umst&auml;nde, die zu Problemen oder Ablenkung gef&uuml;hrt haben?</label><br>
+  <label class="radio-inline">
+  <input type="radio" name="external_factor" id="external_factor" value="ja" >
+  Ja</label>
+  <label class="radio-inline">
+  <input type="radio" name="external_factor" id="external_factor" value="nein" >
+  Nein</label><br>
+  <label for="external_factor_description">Wenn Ja, was ist vorgefallen? </label><br>
+  <textarea id="external_factor_description" name="external_factor_description" placeholder="Meine Katze hat mich gebissen"  style="width:600px; height:200px;" ></textarea><br><br>
+
+  <label for="input">Hat eine Eingabe nicht funktioniert? </label><br>
+<textarea id="input" name="input" placeholder="Wenn ja, wo? "  style="width:600px; height:200px;" ></textarea><br><br>
+
+<label for="display"> Wurde ein Bild oder Filmclip nicht / fehlerhaft angezeigt? </label><br>
+<textarea id="display" name="display" placeholder="Wenn ja, wo? "  style="width:600px; height:200px;" ></textarea><br><br>
+
+<label for="image_clarity"> Ist Ihnen bei einem Bild nicht direkt klar gewesen, wie es zuzuordnen ist?  </label><br>
+<textarea id="image_clarity" name="image_clarity" placeholder="Wenn ja, welches? "  style="width:600px; height:200px;" ></textarea><br><br>
+
+  <label for="comment">Sonstige Kommentare</label><br>
+  <textarea id="comment" name="comment" placeholder="Was ist ihnen noch aufgefallen?"  style="width:600px; height:200px;"></textarea><br>
+
+<br><br>
+</form>
+
+<p>Vielen Dank noch einmal f&uuml;r die Teilnahme am Experiment. <br>
+  Sollten sie weitere Fragen zum Experiment, dem Forschungsziel oder ihren Ergebnissen haben, kontaktieren sie mich gern per E-Mail unter aron@petau.net.</p>
+
+</body>
+</html>

@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html>
+<div style="width: 50em;">
+<body>
+
+  <h2>Fragen zur Person</h2>
+
+  <p>Hier m&ouml;chten wir nun einige pers&ouml;nliche Daten erheben. Die Datenerhebung erfolgt anonymisiert. </p>
+
+  <form autocomplete="on" name="Questionnaire">
+        <h3>Allgemeine Angaben</h3>
+
+    <label for="age">Wie alt sind Sie?</label><br>
+    <input type="text" id="age" name="age"
+     pattern="[0-9]+"
+    minlength="1" maxlength="3"
+       class="obligatory"><br><br>
+
+    <label>Was ist Ihr Geschlecht?</label><br>
+    <input type="radio" id="male" name="gender" value="male" class="obligatory">
+    <label for="male">m&auml;nnlich</label><br>
+    <input type="radio" id="female" name="gender" value="female">
+    <label for="female">weiblich</label><br>
+    <input type="radio" id="other" name="gender" value="other">
+    <label for="other">inter/divers</label><br><br>
+
+    <label>Welche ist Ihre dominante Hand?</label><br>
+    <input type="radio" id="right" name="handedness" value="right" class="obligatory">
+    <label for="right">rechts</label><br>
+    <input type="radio" id="left" name="handedness" value="left">
+    <label for="left">links</label><br><br>
+
+      <h3>Notwendige Angaben</h3>
+
+      <label>Ist Deutsch Ihre Muttersprache?</label><br>
+      <input type="radio" id="language" name="language" value="yes" class="obligatory">
+      <label for="right">ja</label><br>
+      <input type="radio" id="language" name="language" value="no">
+      <label for="left">nein</label><br><br>
+
+      <label>Haben Sie ein eingeschr&auml;nktes H&ouml;rverm&ouml;gen?
+(z.B. aufgrund akuter oder chronischer H&ouml;rst&ouml;rungen).</label><br>
+      <input type="radio" id="hearing" name="hearing" value="yes" class="obligatory" >
+      <label for="right">ja</label><br>
+      <input type="radio" id="hearing" name="hearing" value="no">
+      <label for="left">nein</label><br><br>
+
+      <label>Haben Sie auf einem oder beiden Augen eine Sehschw&auml;che? </label><br>
+      <input type="radio" id="vision" name="vision" value="yes" class="obligatory">
+      <label for="right">ja</label><br>
+      <input type="radio" id="vision" name="vision" value="no">
+      <label for="left">nein</label><br>
+      <input type="radio" id="vision" name="vision" value="corrected">
+      <label for="left">Ja, aber ich trage Brille oder Kontaktlinsen</label><br><br>
+
+      <label>Haben Sie Kopfh&ouml;rer auf und Lautst&auml;rke angepasst?
+        (bitte verkabelte Kopfh&ouml;rer verwenden, auf gar keinen Fall Bluetooth oder True Wireless Verbindungen
+         aufgrund der gr&ouml;&szlig;eren Latenzzeiten)  </label><br>
+      <input type="radio" id="headphones" name="headphones" value="yes" class="obligatory">
+      <label for="headphones">ja</label><br>
+      <input type="radio" id="headphones" name="headphones" value="no">
+      <label for="headphones">nein</label><br><br>
+
+      <label>Befinden Sie sich in einem ruhigen Raum mit passenden Lichtverh&auml;ltnissen? </label><br>
+      <input type="radio" id="environment" name="environment" value="yes" class="obligatory">
+      <label for="environment">ja</label><br>
+      <input type="radio" id="environment" name="environment" value="no">
+      <label for="environment">nein</label><br><br>
+
+
+      <h3>Zus&auml;tzliche freiwillige Angaben</h3>
+
+      <label>Wurden Sie jemals mit einer Autismus-Spektrum-St&ouml;rung diagnostiziert?</label><br>
+      <input type="radio" id="yes" name="asd" value="yes">
+      <label for="yes">ja</label><br>
+      <input type="radio" id="no" name="asd" value="no">
+      <label for="no">nein</label><br><br>
+
+      <label>Leiden Sie an einer neurologischen/psychatrischen Erkrankung?</label><br>
+      <input type="radio" id="no" name="psych" value="no">
+      <label for="no">nein</label><br>
+      <label for="psych_spec">ja, und zwar:</label><br>
+    <textarea id="psych_spec" name="psych" placeholder="" style="width:600px; height:200px;"></textarea><br><br>
+
+    <label for="comment">Wenn Sie weitere Anmerkungen haben, lassen Sie uns dies bitte wissen:</label><br>
+    <textarea id="comment" name="comment" placeholder="Ich habe einen gebrochenen Arm und benutze heute meine nichtdominante Hand." style="width:600px; height:200px;"></textarea><br><br>
+
+  <br><br>
+
+  </form>
+
+  <p>Vielen Dank, Sie werden nach dem Absenden zum Experiment weitergeleitet.</p>
+
+  </body>
+  </html>
