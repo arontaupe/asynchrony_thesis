@@ -3,6 +3,11 @@ title: "AV-Experiment Pilot - BA thesis Aron Petau"
 #output: html_notebook
 ---
 
+This is my analysis script.
+It will apply a mixed linear effects model on the raw results of the audiovisual asynchrony study.
+
+## Import
+
 ```{r}
 library(ggplot2)
 library(Rmisc)
@@ -12,13 +17,19 @@ library(tidyverse)
 library(MASS)
 library(lmerTest)
 library(lme4)
+library(sjPlot)
+library(emmeans)
 
 #replace this with your own file path
-setwd("C:\Userpwds\aron\Google Drive\BA\thesis\data_analysis\r_lme_analysis")
+setwd("C:/Users/aron/Google Drive/BA/thesis/data_analysis/r_lme_analysis")
 #load data
-data <- read.csv("corr_results.csv", header=T, comment.char="#", stringsAsFactors=F)
+data <- read.csv("../data/corr_results.csv", header = T, comment.char = "#", stringsAsFactors=F)
 
-framerate<-data%>%group_by(participant)%>%summarise(framerate=mean(frameRate))
+```
+## Participant exclusion
+
+```{r}
+framerate <- data%>%group_by(participant)%>%summarise(framerate=mean(frameRate))
 #low frame rates (potentially exclude): 42,51,64,73,99
 #low accuracy on fillers (see further below for accuracy on fillers):
 #<80%: 64,73,79,89,90,94,99,113,121,123
@@ -26,17 +37,24 @@ framerate<-data%>%group_by(participant)%>%summarise(framerate=mean(frameRate))
 #<70%: 90
 
 #low accuracy on main trials (again, see below):
+#<75%: 
 #<80%: 79
+
+#low accuracy on all trials (<80%): 
+#79,90
 
 #here, I remove all pilot participants, participants with an accuracy below 75% on the fillers, and the participant with an accuracy <80% on the main task
 #We can discuss removing others as well, of course
-data <- filter(data, !data$participant%in%c(1:56,64,79,90,94,123))
+#data <- filter(data, !data$participant%in%c(1:56,64,90,94,123))
+data <- filter(data, !data$participant%in%c(1:56,79,90)) #1-56 are pilot, the other ones had low accuracy on the task
 
 ```
 
 ## Descriptives
 
+
 ### 1. SJ and distortion judgments
+#### create clean dataframe
 ```{r}
 #---------------SJ judgment task------------------
 sj<-data%>%filter(videoPath%like%"sj_videos")
@@ -259,9 +277,11 @@ task.clean$choice_response.rt=task.clean$choice_response.rt*1000
 task.fillers<-task.clean%>%filter(target_loc=="up")
 
 #recoding response (left/right correct) for even-numbered subjects:
-task.fillers$choice_response.corr[task.fillers$participant%%2==0 & !task.fillers$participant<56]<-ifelse(task.fillers$choice_response.corr[task.fillers$participant%%2==0 & !task.fillers$participant<56]=="incorrect", "correct", "incorrect")
+task.fillers$choice_response.corr[task.fillers$participant%%2==0]<-ifelse(task.fillers$choice_response.corr[task.fillers$participant%%2==0]=="incorrect", "correct", "incorrect")
 
-table(task.fillers$participant,task.fillers$choice_response.corr)
+task.clean2<-rbind(task.clean,task.fillers)
+
+table(task.clean2$participant,task.clean2$choice_response.corr)
 #low accuracy subjects should be removed
 ```
 
@@ -310,6 +330,8 @@ task_accuracy_plot+scale_color_manual(values = c("deeppink4","royalblue2" ))+
 ###3. Reaction time descriptives
 ```{r}
 #outlier removal: everything above and below 2.5 standard deviations from the mean per subject
+
+#possibly include position as grouping variable, too
 task.rt <- task.clean %>% group_by(participant) %>% filter(choice_response.rt<(mean(choice_response.rt)+2.5*sd(choice_response.rt))&choice_response.rt>(mean(choice_response.rt)-2.5*sd(choice_response.rt)))%>%ungroup()
 
 
@@ -340,7 +362,7 @@ hist(task.rt$choice_response.rt[task.rt$position=="first"], breaks=100) #as you 
 hist(task.rt$choice_response.rt[task.rt$position=="second"], breaks=100) #as you see, the distribution is not normal
 
 #check for the most appropriate transformation of the data (1=leave untransformed, 0=logRT, , 0.5=square root, -1=reciprocal transform). See Box, G. E. P., & Cox, D. R. (1964). An analysis of transformations. Journal of the Royal Statistical Society: Series B (Methodological), 26(2), 211–243. https://doi.org/10.1111/j.2517-6161.1964.tb00553.x
-boxcox(choice_response.rt~cond*position*participant, data=task.rt) #use sqrtRT
+boxcox(choice_response.rt~cond*position, data=task.rt) #use sqrtRT
 
 task.rt$logRT<-log(task.rt$choice_response.rt)
 task.rt$sqrtRT<-sqrt(task.rt$choice_response.rt)
@@ -419,62 +441,125 @@ task.rt$sentence_id<-as.factor(task.rt$sentence_id)
 task.rt$trial_counter_choice<-as.numeric(task.rt$trial_counter_choice)
 
 task.rt$position<-as.factor(task.rt$position)
+
 task.rt$position.cont<-as.factor(task.rt$position)
 contrasts(task.rt$position.cont)<-contr.sum(2) #sum coded position variable
+
+
 task.rt$cond<-factor(task.rt$cond,levels = c("no delay, no echo", "10ms delay, no echo","400ms delay, no echo","10ms delay, echo", "400ms delay, echo"))
+
 task.rt$latency<-factor(task.rt$latency,levels = c("0","10","400"))
 task.rt$echo<-factor(task.rt$echo,levels = c("0","10","400"))
 
 task.rt$trial_counter_choice.scal<-scale(task.rt$trial_counter_choice)
 
 #-------------------------contrast coding-------------------------------------
+#Please note that the following models (m1.rt and m2.rt) do not include an interaction with position. This was so that you have an "easy" entry to lmems. For your thesis, you should only report the model with interaction term, see the next code block.
+
+
 #1. treatment contrasts: automatically uses the first factor setting defined above as reference against which all others are checked
 
-library(lme4)
-# m1.rt<-lmer(sqrtRT~cond+position.cont+trial_counter_choice+(1+cond|participant)+(1+cond|sentence_id), data=task.rt)
+ #m1.rt<-lmer(sqrtRT~cond+position.cont+trial_counter_choice+(1+cond|participant)+(1+cond|sentence_id), data=task.rt)
 # summary(m1.rt)
-#singular fit, simplify random effects structure:
+
+#singular fit with the model above, simplify random effects structure:
 m1.rt<-lmer(sqrtRT~cond+position.cont+trial_counter_choice.scal+(1|participant)+(1|sentence_id), data=task.rt)
 summary(m1.rt)
 
-library(sjPlot)
+#here's how the p-value is calculated. Just tested it, the outcome is the same as if using lmerTest. Just note that once you activate the lmerTest package (using library(lmerTest) in the code) all lmer() commands will use the lmerTest package, not lme4!
+
+coefs <- data.frame(coef(summary(m1.rt))) 
+coefs$p <- format.pval(2*(1-pnorm(abs(coefs$t.value))), digits=2, eps=0.0001) #caculate p-value, round to 2 digits
+coefs
+
 plot_model(m1.rt,type="diag")
 #plot(m1.rt, pars = "^b_") 
 
-
-library(emmeans)
 #df calculation can take a while
 emmeans(m1.rt, pairwise~cond, adjust="tukey",pbkrtest.limit = 4002)
 
-
 #2. within the four main conditions, customized contrasts for the hypotheses at hand: check 10ms no echo against 10ms w/ echo, check 400ms no echo against 400ms w/ echo
 
-task.rt$contrast10ms<-ifelse(task.rt$cond=="10ms delay, no echo", 1/2, ifelse(task.rt$cond=="10ms delay, echo", -1/2, 0))
+task.rt$contrast10ms <- ifelse(task.rt$cond=="10ms delay, no echo", 1/2, ifelse(task.rt$cond=="10ms delay, echo", -1/2, 0))
 
-task.rt$contrast400ms<-ifelse(task.rt$cond=="400ms delay, no echo", 1/2, ifelse(task.rt$cond=="400ms delay, echo", -1/2, 0))
+task.rt$contrast400ms <- ifelse(task.rt$cond=="400ms delay, no echo", 1/2, ifelse(task.rt$cond=="400ms delay, echo", -1/2, 0))
 
 # m2.rt<-lmer(sqrtRT~contrast10ms+contrast400ms+trial_counter_choice+position.cont+(1+contrast10ms+contrast400ms|participant)+(1+contrast10ms+contrast400ms|sentence_id), data=subset(task.rt, !task.rt$cond%in%c("no delay, no echo")))
 # summary(m2.rt)
 
 #simplified random effects
-m2.rt<-lmer(sqrtRT~contrast10ms+contrast400ms+trial_counter_choice.scal+position.cont+(1|participant)+(1|sentence_id), data=subset(task.rt, !task.rt$cond%in%c("no delay, no echo")))
+m2.rt <- lmer(sqrtRT~contrast10ms+contrast400ms+trial_counter_choice.scal+position.cont+(1|participant)+(1|sentence_id), data=subset(task.rt, !task.rt$cond%in%c("no delay, no echo")))
 summary(m2.rt)
 
-#plot_model(m2.rt,type="diag")
+coefs <- data.frame(coef(summary(m2.rt))) 
+coefs$p <- format.pval(2*(1-pnorm(abs(coefs$t.value))), digits=2, eps=0.0001) #caculate p-value, round to 2 digits
+coefs
 
 
 ```
 
-**Exploratory: check for interaction with position**
+**check for interaction with position**
 ```{r}
 m1.expl.rt<-lmer(sqrtRT~cond*position+trial_counter_choice.scal+(1|participant)+(1|sentence_id), data=task.rt)
 summary(m1.expl.rt)
+
+coefs <- data.frame(coef(summary(m1.expl.rt))) 
+coefs$p <- format.pval(2*(1-pnorm(abs(coefs$t.value))), digits=2, eps=0.0001) #caculate p-value, round to 2 digits
+coefs
 
 
 #2. customized contrasts for the hypotheses at hand: check 10ms no echo against 10ms w/ echo, check 400ms no echo against 400ms w/ echo
 m2.expl.rt<-lmer(sqrtRT~contrast10ms*position+contrast400ms*position+trial_counter_choice.scal+(1|participant)+(1|sentence_id), data=subset(task.rt, !task.rt$cond%in%c("no delay, no echo")))
 summary(m2.expl.rt)
+
+coefs <- data.frame(coef(summary(m2.expl.rt))) 
+coefs$p <- format.pval(2*(1-pnorm(abs(coefs$t.value))), digits=2, eps=0.0001) #caculate p-value, round to 2 digits
+coefs
+
 ```
+Here's (roughly) how to interpret the coefficients table of the model with interaction:
+
+Fixed effects:
+                                        Estimate Std. Error t value  
+(Intercept)                             43.84904    0.67116  65.333  
+cond10ms delay, no echo                 -0.16970    0.33736  -0.503  
+cond400ms delay, no echo                 4.45227    0.34206  13.016  
+cond10ms delay, echo                     0.23441    0.34187   0.686  
+cond400ms delay, echo                    2.75384    0.33921   8.118  
+positionsecond                          10.37216    0.33766  30.717  
+trial_counter_choice.scal               -1.21023    0.07643 -15.834  
+cond10ms delay, no echo:positionsecond   0.03364    0.47704   0.071  
+cond400ms delay, no echo:positionsecond -1.33879    0.48104  -2.783  
+cond10ms delay, echo:positionsecond     -0.49606    0.48066  -1.032    
+cond400ms delay, echo:positionsecond     0.76639    0.47832   1.602  
+
+Remember: The reference level is the "no delay, no echo" condition. This time ****if the entity asked for was the first in the sentence**** (note how I entered the position factor as "position", not "position.cont" in the model? This means we didn't use the sum-coded position factor, which allows us to see how "position" may affect each condition differently)
+
+So, line 1, for instance:
+cond10ms delay, no echo --> comparison between "no delay, no echo, first entity asked for" and "10ms delay, no echo, first entity asked for"
+
+positionsecond --> effect of whether we're asking for the first or second entity in the "no delay, no echo" reference condition
+
+Interactions, e.g. "cond10ms delay, no echo:positionsecond" --> Is the difference between comparison between "no delay, no echo, **first** entity asked for" and "10ms delay, no echo, **first** entity asked for" ***bigger/larger than*** the difference between comparison between "no delay, no echo, **second** entity asked for" and "10ms delay, no echo, **second** entity asked for"
+
+
+For m2, given that we changed the contrast coding to sum-coded comparisons, the interpretation is thus:
+
+Fixed effects:
+                             Estimate Std. Error t value
+(Intercept)                  45.64192    0.63111  72.320
+contrast10ms                 -0.33035    0.36918  -0.895
+positionsecond               10.12967    0.18158  55.785
+contrast400ms                 1.71687    0.37081   4.630
+trial_counter_choice.scal    -1.13435    0.09116 -12.444
+contrast10ms:positionsecond   0.50094    0.51901   0.965
+positionsecond:contrast400ms -2.02999    0.52137  -3.894
+
+contrast10ms-->is there a difference between the two 10ms conditions (with, without echo) if the first entity is asked for?
+
+positionsecond-->overall effect of position
+
+contrast10ms:positionsecond-->Interaction; is the difference between the two 10ms conditions (with, without echo) if the ***first*** entity is asked for **bigger/smaller than** the difference between the two 10ms conditions (with, without echo) if the ***second*** entity is asked for? 
 
 ## Analysis of response accuracy
 
@@ -509,6 +594,7 @@ task.acc$echo<-factor(task.acc$echo,levels = c("0","10","400"))
 task.acc$trial.scal<-scale(task.acc$trial_counter_choice)
 
 m1.acc<-glmer(choice_response.corr~cond+position.cont+trial.scal+(1|participant)+(1|sentence_id), data=task.acc,family = binomial, control = glmerControl(optimizer = "bobyqa"))
+# bobyqa = bound optimization by quadratic approximation
 summary(m1.acc)
 
 
@@ -538,40 +624,68 @@ summary(m2.acc.expl)
 
 ```{r}
 #factor coding
-sj.clean$participant<-as.factor(sj.clean$participant)
-sj.clean$cond<-factor(sj.clean$cond,levels = c("no delay, no echo", "10ms delay, no echo","400ms delay, no echo","10ms delay, echo", "400ms delay, echo"))
-sj.clean$item<-as.factor(sj.clean$item)
-sj.clean$sentence_id<-as.factor(sj.clean$sentence_id)
+sj.clean$participant <- as.factor(sj.clean$participant)
+sj.clean$cond <- factor(sj.clean$cond,levels = c("no delay, no echo", "10ms delay, no echo","400ms delay, no echo","10ms delay, echo", "400ms delay, echo"))
+sj.clean$item <- as.factor(sj.clean$item)
+sj.clean$sentence_id <- as.factor(sj.clean$sentence_id)
 
-sj.clean$block_counter_sj<-as.factor(sj.clean$block_counter_sj)
-sj.clean$trial_counter_sj<-as.numeric(sj.clean$trial_counter_sj)
-sj.clean$latency<-factor(sj.clean$latency,levels = c("0","10","400"))
-sj.clean$echo<-factor(sj.clean$echo,levels = c("0","10","400"))
-sj.clean$response_distortion.corr<-factor(sj.clean$response_distortion.corr, levels=c("correct","incorrect"))
-sj.clean$response_sync.corr<-factor(sj.clean$response_sync.corr, levels=c("correct","incorrect"))
-sj.clean$response_distortion.keys<-factor(sj.clean$response_distortion.keys, levels=c("distorted","not distorted"))
+sj.clean$block_counter_sj <-as.factor(sj.clean$block_counter_sj)
+sj.clean$trial_counter_sj <-as.numeric(sj.clean$trial_counter_sj)
+sj.clean$latency <-factor(sj.clean$latency,levels = c("0","10","400"))
+sj.clean$echo <-factor(sj.clean$echo,levels = c("0","10","400"))
+sj.clean$response_distortion.corr<-factor(sj.clean$response_distortion.corr, levels = c("correct","incorrect"))
+sj.clean$response_sync.corr <-factor(sj.clean$response_sync.corr, levels=c("correct","incorrect"))
+sj.clean$response_distortion.keys<-factor(sj.clean$response_distortion.keys, levels = c("distorted","not distorted"))
 sj.clean$response_sync.keys<-factor(sj.clean$response_sync.keys, levels=c("synced","not synced"))
 
 #-------------------------contrast coding-------------------------------------
 #1. treatment contrasts: automatically uses the first factor setting defined above as reference against which all others are checked
 
 #same as before, intercept-only model the only one that converges
-m1.sync<-glmer()
+m1.sync <- glmer(response_sync.keys~cond+block_counter_sj+(1|participant)+(1|sentence_id), data = sj.clean,family = binomial, control = glmerControl(optimizer = "bobyqa"))
 summary(m1.sync)
 
 
 #2. within the four main conditions, customized contrasts for the hypotheses at hand: check 10ms no echo against 10ms w/ echo, check 400ms no echo against 400ms w/ echo
 
-sj.clean$contrast10ms<-ifelse(sj.clean$cond=="10ms delay, no echo", 1/2, ifelse(sj.clean$cond=="10ms delay, echo", -1/2, 0))
+sj.clean$contrast10ms <- ifelse(sj.clean$cond == "10ms delay, no echo", 1/2, ifelse(sj.clean$cond == "10ms delay, echo", -1/2, 0))
 
-sj.clean$contrast400ms<-ifelse(sj.clean$cond=="400ms delay, no echo", 1/2, ifelse(sj.clean$cond=="400ms delay, echo", -1/2, 0))
+sj.clean$contrast400ms <- ifelse(sj.clean$cond == "400ms delay, no echo", 1/2, ifelse(sj.clean$cond == "400ms delay, echo", -1/2, 0))
 
-m2.sync<-glmer()
+m2.sync <- glmer(response_sync.keys~contrast10ms+contrast400ms+block_counter_sj+(1|participant)+(1|sentence_id), data = sj.clean,family = binomial, control = glmerControl(optimizer = "bobyqa"))
 summary(m2.sync)
 ```
 
-## Analysis of distortion responses (add here)
+## Analysis of distortion responses (plug in same type of code as for SJ analysis)
+
+```{r}
+#-------------------------contrast coding-------------------------------------
+#1. treatment contrasts: automatically uses the first factor setting defined above as reference against which all others are checked
+
+#same as before, intercept-only model the only one that converges
+m1.dist <- glmer(response_distortion.keys~cond+block_counter_sj+(1|participant)+(1|sentence_id), data = sj.clean,family = binomial, control = glmerControl(optimizer = "bobyqa"))
+summary(m1.dist)
+VarCorr(m1.dist)
 
 
+#2. within the four main conditions, customized contrasts for the hypotheses at hand: check 10ms no echo against 10ms w/ echo, check 400ms no echo against 400ms w/ echo
 
+m2.dist <- glmer(response_distortion.keys ~ contrast10ms + contrast400ms + block_counter_sj + (1|participant) + (1|sentence_id), data = sj.clean,family = binomial, control = glmerControl(optimizer = "bobyqa"))
+summary(m2.dist)
+VarCorr(m2.dist)
+```
 
+Export citation of packages for thesis
+```{r}
+citation()
+citation("lme4")
+citation("ggplot2")
+citation("Rmisc")
+citation("scales")
+citation("data.table")
+citation("tidyverse")
+citation("MASS")
+citation("lmerTest")
+citation("sjPlot")
+citation("emmeans")
+```

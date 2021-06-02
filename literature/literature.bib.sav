@@ -14,7 +14,7 @@
 }
 
 @Book{american2013diagnostic,
-  author    = {American Psychiatric Association and others},
+  author    = {{American Psychiatric Association}},
   title     = {Diagnostic and Statistical Manual of Mental Disorders},
   doi       = {10.1176/appi.books.9780890425596},
   publisher = {American Psychiatric Association},
@@ -159,6 +159,24 @@
   url       = {https://royalsocietypublishing.org/doi/abs/10.1098/rspb.2020.2419},
 }
 
+@Article{Box1964,
+  author       = {Box, G. E. P. and Cox, D. R.},
+  date         = {1964},
+  journaltitle = {Journal of the Royal Statistical Society: Series B (Methodological)},
+  title        = {An Analysis of Transformations},
+  doi          = {https://doi.org/10.1111/j.2517-6161.1964.tb00553.x},
+  eprint       = {https://rss.onlinelibrary.wiley.com/doi/pdf/10.1111/j.2517-6161.1964.tb00553.x},
+  number       = {2},
+  pages        = {211--243},
+  url          = {https://rss.onlinelibrary.wiley.com/doi/abs/10.1111/j.2517-6161.1964.tb00553.x},
+  volume       = {26},
+  abstract     = {Summary In the analysis of data it is often assumed that observations y1, y2, …, yn are independently normally distributed with constant variance and with expectations specified by a model linear in a set of parameters θ. In this paper we make the less restrictive assumption that such a normal, homoscedastic, linear model is appropriate after some suitable transformation has been applied to the y's. Inferences about the transformation and about the parameters of the linear model are made by computing the likelihood function and the relevant posterior distribution. The contributions of normality, homoscedasticity and additivity to the transformation are separated. The relation of the present methods to earlier procedures for finding transformations is discussed. The methods are illustrated with examples.},
+  journal      = {Journal of the Royal Statistical Society: Series B (Methodological)},
+  month        = jul,
+  publisher    = {Wiley},
+  year         = {1964},
+}
+
 @Article{Bramsloew2010,
   author    = {Bramsløw, Lars},
   journal   = {International journal of audiology},
@@ -235,6 +253,14 @@
   timestamp = {2020-11-30},
 }
 
+@Manual{data.table,
+  author = {Matt Dowle and Arun Srinivasan},
+  title  = {data.table: Extension of `data.frame`},
+  note   = {R package version 1.14.0},
+  url    = {https://CRAN.R-project.org/package=data.table},
+  year   = {2021},
+}
+
 @Article{du2016increased,
   author    = {Du, Yi and Buchsbaum, Bradley R and Grady, Cheryl L and Alain, Claude},
   title     = {Increased activity in frontal motor cortex compensates impaired speech perception in older adults},
@@ -283,6 +309,14 @@
   timestamp = {2021-05-06},
 }
 
+@Manual{emmeans,
+  author = {Russell V. Lenth},
+  title  = {emmeans: Estimated Marginal Means, aka Least-Squares Means},
+  note   = {R package version 1.6.0},
+  url    = {https://CRAN.R-project.org/package=emmeans},
+  year   = {2021},
+}
+
 @Article{esteve2018prosody,
   author    = {Esteve-Gibert, N{\'u}ria and Guella{\"\i}, Bahia},
   title     = {Prosody in the auditory and visual domains: A developmental perspective},
@@ -308,6 +342,15 @@
   publisher = {Belltown Media},
   timestamp = {2021-05-14},
   year      = {2006},
+}
+
+@Book{ggplot2,
+  author    = {Hadley Wickham},
+  title     = {ggplot2: Elegant Graphics for Data Analysis},
+  isbn      = {978-3-319-24277-4},
+  publisher = {Springer-Verlag New York},
+  url       = {https://ggplot2.tidyverse.org},
+  year      = {2016},
 }
 
 @Article{giordano2017,
@@ -367,6 +410,17 @@
   url       = {https://www.sciencedirect.com/science/article/pii/S0167639304001013},
 }
 
+@Article{haas1972the,
+  author  = {haas, helmut},
+  title   = {the influence of a single echo on the audibility of speech},
+  number  = {2},
+  pages   = {146--159},
+  volume  = {20},
+  journal = {journal of the audio engineering society},
+  month   = mar,
+  year    = {1972},
+}
+
 @Article{Hay-McCutcheon2009Asynchrony,
   author    = {Marcia J. Hay-McCutcheon and David B. Pisoni and Kristopher K. Hunt},
   title     = {Audiovisual asynchrony detection and speech perception in hearing-impaired listeners with cochlear implants: A preliminary analysis},
@@ -402,7 +456,36 @@
   timestamp    = {2021-05-14},
 }
 
-@Article{https://doi.org/10.1111/lnc3.12237,
+@Article{Ikuta2016,
+  author       = {Nobuhiko Ikuta and Ryoichiro Iwanaga and Akiko Tokunaga and Hideyuki Nakane and Koji Tanaka and Goro Tanaka},
+  date         = {2016},
+  journaltitle = {Hong Kong Journal of Occupational Therapy},
+  title        = {Effectiveness of Earmuffs and Noise-cancelling Headphones for Coping with Hyper-reactivity to Auditory Stimuli in Children with Autism Spectrum Disorder: A Preliminary Study},
+  doi          = {10.1016/j.hkjot.2016.09.001},
+  eprint       = {https://doi.org/10.1016/j.hkjot.2016.09.001},
+  note         = {PMID: 30186064},
+  number       = {1},
+  pages        = {24--32},
+  url          = {https://doi.org/10.1016/j.hkjot.2016.09.001},
+  volume       = {28},
+  abstract     = {Objective/BackgroundThe purpose of this pilot study was to examine the effectiveness of standard earmuffs and noise-cancelling (NC) headphones in controlling behavioural problems related to hyper-reactivity to auditory stimuli in children with autism spectrum disorder (ASD).MethodsTwenty-one children with ASD aged 4–16 years (16 boys and 5 girls), after a 2-week nonwearing baseline period, were asked to use standard earmuffs and NC headphones for 2 weeks, in a random order. Parents or teachers rated participants’ behaviours that were related to their reaction to auditory stimuli.ResultsFour participants refused to wear either the earmuffs or the NC headphones. It was found that the T-score on the Goal Attainment Scaling was significantly higher during the earmuff period than that in the baseline period (Z = 2.726, p = .006). The behaviours of 5 children with ASD improved during the NC headphone period as compared with those in the baseline period; there were no differences in the T-scores on the Goal Attainment Scaling between the NC headphone period and the baseline period (Z = 1.689, p = .091) and between the earmuff and NC headphone periods (Z = −0.451, p = .678).ConclusionThis study demonstrated the effectiveness of standard earmuffs and NC headphones in helping children with ASD to cope with problem behaviours related to hyperreactivity to auditory stimuli, therefore, children with ASD could use earmuffs to help to deal with unpleasant sensory auditory stimuli.},
+  file         = {:ikuta2016.pdf:PDF},
+}
+
+@Article{ipser2017sight,
+  author    = {Ipser, Alberta and Agolli, Vlera and Bajraktari, Anisa and Al-Alawi, Fatimah and Djaafara, Nurfitriani and Freeman, Elliot D},
+  title     = {Sight and sound persistently out of synch: stable individual differences in audiovisual synchronisation revealed by implicit measures of lip-voice integration},
+  number    = {1},
+  pages     = {1--12},
+  volume    = {7},
+  file      = {:ipser2017.pdf:PDF},
+  journal   = {Scientific Reports},
+  publisher = {Nature Publishing Group},
+  timestamp = {2021-05-14},
+  year      = {2017},
+}
+
+@Article{Irwin2017,
   author    = {Irwin, Julia and DiBlasi, Lori},
   title     = {Audiovisual speech perception: A new approach and implications for clinical populations},
   doi       = {https://doi.org/10.1111/lnc3.12237},
@@ -415,19 +498,6 @@
   abstract  = {Abstract This selected overview of audiovisual (AV) speech perception examines the influence of visible articulatory information on what is heard. Thought to be a cross-cultural phenomenon that emerges early in typical language development, variables that influence AV speech perception include properties of the visual and the auditory signal, attentional demands, and individual differences. A brief review of the existing neurobiological evidence on how visual information influences heard speech indicates potential loci, timing, and facilitatory effects of AV over auditory only speech. The current literature on AV speech in certain clinical populations (individuals with an autism spectrum disorder, developmental language disorder, or hearing loss) reveals differences in processing that may inform interventions. Finally, a new method of assessing AV speech that does not require obvious cross-category mismatch or auditory noise was presented as a novel approach for investigators.},
   file      = {:irwin2017.pdf:PDF},
   journal   = {Language and Linguistics Compass},
-  timestamp = {2021-05-14},
-  year      = {2017},
-}
-
-@Article{ipser2017sight,
-  author    = {Ipser, Alberta and Agolli, Vlera and Bajraktari, Anisa and Al-Alawi, Fatimah and Djaafara, Nurfitriani and Freeman, Elliot D},
-  title     = {Sight and sound persistently out of synch: stable individual differences in audiovisual synchronisation revealed by implicit measures of lip-voice integration},
-  number    = {1},
-  pages     = {1--12},
-  volume    = {7},
-  file      = {:ipser2017.pdf:PDF},
-  journal   = {Scientific Reports},
-  publisher = {Nature Publishing Group},
   timestamp = {2021-05-14},
   year      = {2017},
 }
@@ -525,6 +595,19 @@
   timestamp    = {2021-05-14},
 }
 
+@Article{Lezzoum2014,
+  author       = {Lezzoum, Narimene and Gagnon, Ghyslain and Voix, Jérémie},
+  date         = {2014-11},
+  journaltitle = {IEEE Transactions on Consumer Electronics},
+  title        = {Voice activity detection system for smart earphones},
+  doi          = {10.1109/TCE.2014.7027350},
+  issn         = {1558-4127},
+  number       = {4},
+  pages        = {737--744},
+  volume       = {60},
+  abstract     = {This paper presents a real-time voice activity detection (VAD) algorithm implemented in a miniature Digital Signal Processor (DSP) for in-ear listening devices such as earphones or headphones. This system allows consumers to hear external speech signals such as public announcements or oral communication while listening to music without removing their listening devices. The proposed algorithm uses two normalized energy features that compare the energy in the frequency region containing speech information with the frequency regions typically containing noise. The extraction of the normalized features represents the key of the proposed VAD since it eliminates the need for a signal-to-noise ratio (SNR) estimator. The VAD's decision is made using two threshold comparison rules computed from the normalized features and a hangover scheme triggered after a given number of observations. The algorithm parameters, namely the frequency regions' boundaries, number of observations, two decision thresholds and hangover's duration, have been optimized offline using a genetic algorithm. The performance of the proposed VAD is compared to a benchmark algorithm in four noise environments and three SNRs. Results show that the average false positive rate (FPR) of the proposed algorithm is 4.2% and the average true positive rate (TPR) is 91.4 % compared to the benchmark algorithm which has a FPR average of 29.9 % and a TPR average of 79.0 %. The proposed VAD is implemented in hardware to validate its reliability and complexity.},
+}
+
 @Article{lezzoum2016threshold,
   author    = {Narimene Lezzoum and Ghyslain Gagnon and Jérémie Voix},
   title     = {Echo threshold between passive and electro-acoustic transmission paths in digital hearing protection devices},
@@ -557,6 +640,17 @@
   publisher = {Frontiers Media {SA}},
   timestamp = {2021-03-09},
   url       = {https://www.frontiersin.org/article/10.3389/fpsyg.2021.629996},
+}
+
+@Article{lmerTest,
+  author  = {Alexandra Kuznetsova and Per B. Brockhoff and Rune H. B. Christensen},
+  title   = {{lmerTest} Package: Tests in Linear Mixed Effects Models},
+  doi     = {10.18637/jss.v082.i13},
+  number  = {13},
+  pages   = {1--26},
+  volume  = {82},
+  journal = {Journal of Statistical Software},
+  year    = {2017},
 }
 
 @Article{Macdonald1978mcgurkeffect,
@@ -597,6 +691,17 @@
   month     = feb,
   timestamp = {2021-05-14},
   year      = {2011},
+}
+
+@Book{MASS,
+  author    = {W. N. Venables and B. D. Ripley},
+  title     = {Modern Applied Statistics with S},
+  edition   = {Fourth},
+  note      = {ISBN 0-387-95457-0},
+  publisher = {Springer},
+  url       = {https://www.stats.ox.ac.uk/pub/MASS4/},
+  address   = {New York},
+  year      = {2002},
 }
 
 @Article{massaro1996conflicting,
@@ -644,13 +749,13 @@
   timestamp = {2021-04-03},
 }
 
-@Book{mcneill1992hand,
+@Book{McNeill1992,
   author    = {McNeill, David},
-  publisher = {University of Chicago press},
   title     = {Hand and mind: What gestures reveal about thought},
-  year      = {1992},
+  publisher = {University of Chicago press},
   file      = {:C\:/Users/aron/Google Drive/BA/thesis/literature/mcneill1992hand.pdf:PDF},
   timestamp = {2021-03-07},
+  year      = {1992},
 }
 
 @Article{meredith1986visual,
@@ -759,6 +864,17 @@ Key : handedness test
   timestamp = {2021-03-09},
 }
 
+@Article{Pfeiffer2019,
+  author       = {Pfeiffer, Beth and Stein Duker, Leah and Murphy, AnnMarie and Shui, Chengshi},
+  date         = {2019-11},
+  journaltitle = {Frontiers in Integrative Neuroscience},
+  title        = {Effectiveness of Noise-Attenuating Headphones on Physiological Responses for Children With Autism Spectrum Disorders},
+  doi          = {10.3389/fnint.2019.00065},
+  pages        = {65},
+  volume       = {13},
+  file         = {:pfeiffer2018.pdf:PDF},
+}
+
 @Article{pollack1954visual,
   author    = {W. H. Sumby and Irwin Pollack},
   journal   = {The Journal of the Acoustical Society of America},
@@ -824,6 +940,22 @@ Key : handedness test
   file      = {:C\:/Users/Aron Petau/Google Drive/BA/thesis/literature/ren2016asynchrony.pdf:PDF},
   timestamp = {2021-05-14},
   year      = {2016},
+}
+
+@Manual{rmisc,
+  author = {Ryan M. Hope},
+  title  = {Rmisc: Rmisc: Ryan Miscellaneous},
+  note   = {R package version 1.5},
+  url    = {https://CRAN.R-project.org/package=Rmisc},
+  year   = {2013},
+}
+
+@Manual{rmisc,
+  author = {Ryan M. Hope},
+  title  = {Rmisc: Rmisc: Ryan Miscellaneous},
+  note   = {R package version 1.5},
+  url    = {https://CRAN.R-project.org/package=Rmisc},
+  year   = {2013},
 }
 Key:
 
@@ -933,6 +1065,22 @@ Key:
   year      = {2018},
 }
 
+@Manual{scales,
+  author = {Hadley Wickham and Dana Seidel},
+  title  = {scales: Scale Functions for Visualization},
+  note   = {R package version 1.1.1},
+  url    = {https://CRAN.R-project.org/package=scales},
+  year   = {2020},
+}
+
+@Manual{sjPlot,
+  author = {Daniel Lüdecke},
+  title  = {sjPlot: Data Visualization for Statistics in Social Science},
+  note   = {R package version 2.8.8},
+  url    = {https://CRAN.R-project.org/package=sjPlot},
+  year   = {2021},
+}
+
 @Article{soto2004assessing,
   author    = {Soto-Faraco, Salvador and Navarra, Jordi and Alsius, Agnes},
   journal   = {Cognition},
@@ -1008,6 +1156,21 @@ The cat superior colliculus neuron is a major site for the convergence and integ
   year      = {2018},
 }
 
+@Article{Stiegler2010,
+  author       = {Lillian N. Stiegler and Rebecca Davis},
+  date         = {2010},
+  journaltitle = {Focus on Autism and Other Developmental Disabilities},
+  title        = {Understanding Sound Sensitivity in Individuals with Autism Spectrum Disorders},
+  doi          = {10.1177/1088357610364530},
+  eprint       = {https://doi.org/10.1177/1088357610364530},
+  number       = {2},
+  pages        = {67--75},
+  url          = {https://doi.org/10.1177/1088357610364530},
+  volume       = {25},
+  abstract     = {Literature on sound sensitivity in individuals with and without autism spectrum disorders (ASD) is reviewed in this article. Empirical evidence is examined, and physiologic and psychoemotional-behavioral perspectives are described.There is virtually no evidence of true physiological differences in auditory systems of individuals with ASD. It is evident, however, that many people with ASD (a) feel fearful and anxious about sound, and (b) may experience unpleasant physiological sensations because of autonomic and/or behavioral responses to nonpreferred sounds, but (c) can learn to react in less stigmatizing, more effectively self-regulating ways. Current assessment and intervention practices are discussed, and a case is presented. Heightened understanding of this issue among caregivers and interventionists may ultimately improve life participation for individuals with ASD.},
+  file         = {:stiegler2010.pdf:PDF},
+}
+
 @Article{stilp2020,
   author    = {Stilp, Christian},
   title     = {Acoustic context effects in speech perception},
@@ -1070,6 +1233,32 @@ The cat superior colliculus neuron is a major site for the convergence and integ
   file      = {:C\:/Users/aron/Google Drive/BA/thesis/literature/stratton1896.pdf:PDF},
   publisher = {American Psychological Association ({APA})},
   timestamp = {2021-03-07},
+}
+
+@Article{Summerfield1992,
+  author       = {Summerfield, Quentin and Bruce, Vicki and Cowey, Alan and Ellis, Andrew W. and Perrett, D. I.},
+  date         = {1992},
+  journaltitle = {Philosophical Transactions of the Royal Society of London. Series B: Biological Sciences},
+  title        = {Lipreading and audio-visual speech perception},
+  doi          = {10.1098/rstb.1992.0009},
+  eprint       = {https://royalsocietypublishing.org/doi/pdf/10.1098/rstb.1992.0009},
+  number       = {1273},
+  pages        = {71--78},
+  url          = {https://royalsocietypublishing.org/doi/abs/10.1098/rstb.1992.0009},
+  volume       = {335},
+  abstract     = {This paper reviews progress in understanding the psychology of lipreading and audio-visual speech perception. It considers four questions. What distinguishes better from poorer lipreaders? What are the effects of introducing a delay between the acoustical and optical speech signals? What have attempts to produce computer animations of talking faces contributed to our understanding of the visual cues that distinguish consonants and vowels? Finally, how should the process of audio-visual integration in speech perception be described; that is, how are the sights and sounds of talking faces represented at their conflux?},
+  file         = {:summerfield1992.pdf:PDF},
+}
+
+@Article{tidyverse,
+  author  = {Hadley Wickham and Mara Averick and Jennifer Bryan and Winston Chang and Lucy D'Agostino McGowan and Romain François and Garrett Grolemund and Alex Hayes and Lionel Henry and Jim Hester and Max Kuhn and Thomas Lin Pedersen and Evan Miller and Stephan Milton Bache and Kirill Müller and Jeroen Ooms and David Robinson and Dana Paige Seidel and Vitalie Spinu and Kohske Takahashi and Davis Vaughan and Claus Wilke and Kara Woo and Hiroaki Yutani},
+  title   = {Welcome to the {tidyverse}},
+  doi     = {10.21105/joss.01686},
+  number  = {43},
+  pages   = {1686},
+  volume  = {4},
+  journal = {Journal of Open Source Software},
+  year    = {2019},
 }
 
 @Article{turi2016noRecalibrationAutism,
@@ -1157,6 +1346,21 @@ The cat superior colliculus neuron is a major site for the convergence and integ
   publisher = {Elsevier {BV}},
   timestamp = {2021-05-06},
   url       = {https://www.sciencedirect.com/science/article/pii/S030439400501092X},
+}
+
+@Article{Vatakis2006a,
+  author       = {Argiro Vatakis and Charles Spence},
+  date         = {2006},
+  journaltitle = {Neuroscience Letters},
+  title        = {Evaluating the influence of frame rate on the temporal aspects of audiovisual speech perception},
+  doi          = {https://doi.org/10.1016/j.neulet.2006.06.041},
+  issn         = {0304-3940},
+  number       = {1},
+  pages        = {132--136},
+  url          = {https://www.sciencedirect.com/science/article/pii/S030439400600632X},
+  volume       = {405},
+  abstract     = {We investigated whether changing the frame rate at which speech video clips were presented (6–30 frames per second, fps) would affect audiovisual temporal perception. Participants made unspeeded temporal order judgments (TOJs) regarding which signal (auditory or visual) was presented first for video clips presented at a range of different stimulus onset asynchronies (SOAs) using the method of constant stimuli. Temporal discrimination accuracy was unaffected by changes in frame rate, while lower frame rate speech video clips required larger visual-speech leads for the point of subjective simultaneity (PSS) to be achieved than did higher frame rate video clips. The significant effect of frame rate on temporal perception demonstrated here has not been controlled for in previous studies of audiovisual synchrony perception using video stimuli and is potentially important given the rapid increase in the use of audiovisual videos in cognitive neuroscience research in recent years.},
+  keywords     = {Temporal perception, Frame rate, Video quality, Speech, Audition, Vision},
 }
 
 @Article{Vroomen2010,

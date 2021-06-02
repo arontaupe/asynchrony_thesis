@@ -1450,3 +1450,476 @@
 1619989235,40209559534855cf4cff1f05401bd14f,Form,1,0,intro,NULL,audioplayback,nein
 1619989235,40209559534855cf4cff1f05401bd14f,Form,1,0,intro,NULL,external_factor,nein
 1619989235,40209559534855cf4cff1f05401bd14f,Form,1,0,intro,NULL,_REACTION_TIME_,154257
+#
+# Results on Monday May 03 2021 07:29:51 UTC.
+# USER AGENT: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:88.0) Gecko/20100101 Firefox/88.0
+# Design number was non-random = 53
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1620026992,307bdca85a5bdc1957bf94efd5349418,Form,1,0,intro,NULL,fname,122
+1620026992,307bdca85a5bdc1957bf94efd5349418,Form,1,0,intro,NULL,group,2
+1620026992,307bdca85a5bdc1957bf94efd5349418,Form,1,0,intro,NULL,load_time,0%2C5
+1620026992,307bdca85a5bdc1957bf94efd5349418,Form,1,0,intro,NULL,audioproblem,
+1620026992,307bdca85a5bdc1957bf94efd5349418,Form,1,0,intro,NULL,external_factor_description,
+1620026992,307bdca85a5bdc1957bf94efd5349418,Form,1,0,intro,NULL,input,
+1620026992,307bdca85a5bdc1957bf94efd5349418,Form,1,0,intro,NULL,display,
+1620026992,307bdca85a5bdc1957bf94efd5349418,Form,1,0,intro,NULL,image_clarity,Koch/Bäcker
+1620026992,307bdca85a5bdc1957bf94efd5349418,Form,1,0,intro,NULL,comment,
+1620026992,307bdca85a5bdc1957bf94efd5349418,Form,1,0,intro,NULL,error,nein
+1620026992,307bdca85a5bdc1957bf94efd5349418,Form,1,0,intro,NULL,length,nein
+1620026992,307bdca85a5bdc1957bf94efd5349418,Form,1,0,intro,NULL,breaks,nein
+1620026992,307bdca85a5bdc1957bf94efd5349418,Form,1,0,intro,NULL,audioplayback,nein
+1620026992,307bdca85a5bdc1957bf94efd5349418,Form,1,0,intro,NULL,external_factor,nein
+1620026992,307bdca85a5bdc1957bf94efd5349418,Form,1,0,intro,NULL,_REACTION_TIME_,112176
+#
+# Results on Tuesday May 04 2021 11:02:02 UTC.
+# USER AGENT: Mozilla/5.0 (Macintosh; Intel Mac OS X 11_2_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36
+# Design number was non-random = 54
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1620126123,f8fe5ed467ccfd1c1fd0ac4e46ac0eaf,Form,1,0,intro,NULL,fname,123
+1620126123,f8fe5ed467ccfd1c1fd0ac4e46ac0eaf,Form,1,0,intro,NULL,group,3
+1620126123,f8fe5ed467ccfd1c1fd0ac4e46ac0eaf,Form,1,0,intro,NULL,load_time,1
+1620126123,f8fe5ed467ccfd1c1fd0ac4e46ac0eaf,Form,1,0,intro,NULL,audioproblem,
+1620126123,f8fe5ed467ccfd1c1fd0ac4e46ac0eaf,Form,1,0,intro,NULL,external_factor_description,
+1620126123,f8fe5ed467ccfd1c1fd0ac4e46ac0eaf,Form,1,0,intro,NULL,input,
+1620126123,f8fe5ed467ccfd1c1fd0ac4e46ac0eaf,Form,1,0,intro,NULL,display,
+1620126123,f8fe5ed467ccfd1c1fd0ac4e46ac0eaf,Form,1,0,intro,NULL,image_clarity,
+1620126123,f8fe5ed467ccfd1c1fd0ac4e46ac0eaf,Form,1,0,intro,NULL,comment,
+1620126123,f8fe5ed467ccfd1c1fd0ac4e46ac0eaf,Form,1,0,intro,NULL,error,nein
+1620126123,f8fe5ed467ccfd1c1fd0ac4e46ac0eaf,Form,1,0,intro,NULL,length,ja
+1620126123,f8fe5ed467ccfd1c1fd0ac4e46ac0eaf,Form,1,0,intro,NULL,breaks,nein
+1620126123,f8fe5ed467ccfd1c1fd0ac4e46ac0eaf,Form,1,0,intro,NULL,audioplayback,nein
+1620126123,f8fe5ed467ccfd1c1fd0ac4e46ac0eaf,Form,1,0,intro,NULL,external_factor,nein
+1620126123,f8fe5ed467ccfd1c1fd0ac4e46ac0eaf,Form,1,0,intro,NULL,_REACTION_TIME_,43917
+#
+# Results on Friday May 14 2021 11:50:06 UTC.
+# USER AGENT: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36
+# Design number was non-random = 55
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1620993007,6440a6cc1614852f751bfe917068d519,Form,1,0,intro,NULL,fname,0
+1620993007,6440a6cc1614852f751bfe917068d519,Form,1,0,intro,NULL,group,0
+1620993007,6440a6cc1614852f751bfe917068d519,Form,1,0,intro,NULL,load_time,
+1620993007,6440a6cc1614852f751bfe917068d519,Form,1,0,intro,NULL,audioproblem,
+1620993007,6440a6cc1614852f751bfe917068d519,Form,1,0,intro,NULL,external_factor_description,
+1620993007,6440a6cc1614852f751bfe917068d519,Form,1,0,intro,NULL,input,
+1620993007,6440a6cc1614852f751bfe917068d519,Form,1,0,intro,NULL,display,
+1620993007,6440a6cc1614852f751bfe917068d519,Form,1,0,intro,NULL,image_clarity,
+1620993007,6440a6cc1614852f751bfe917068d519,Form,1,0,intro,NULL,comment,
+1620993007,6440a6cc1614852f751bfe917068d519,Form,1,0,intro,NULL,_REACTION_TIME_,18539
+#
+# Results on Saturday May 15 2021 15:13:14 UTC.
+# USER AGENT: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36
+# Design number was non-random = 56
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1621091594,e0155ea6437c7ce53c6ddfb5122f04fe,Form,1,0,intro,NULL,fname,139
+1621091594,e0155ea6437c7ce53c6ddfb5122f04fe,Form,1,0,intro,NULL,group,4
+1621091594,e0155ea6437c7ce53c6ddfb5122f04fe,Form,1,0,intro,NULL,load_time,1
+1621091594,e0155ea6437c7ce53c6ddfb5122f04fe,Form,1,0,intro,NULL,audioproblem,
+1621091594,e0155ea6437c7ce53c6ddfb5122f04fe,Form,1,0,intro,NULL,external_factor_description,
+1621091594,e0155ea6437c7ce53c6ddfb5122f04fe,Form,1,0,intro,NULL,input,
+1621091594,e0155ea6437c7ce53c6ddfb5122f04fe,Form,1,0,intro,NULL,display,
+1621091594,e0155ea6437c7ce53c6ddfb5122f04fe,Form,1,0,intro,NULL,image_clarity,Koch gegen Bäcker
+1621091594,e0155ea6437c7ce53c6ddfb5122f04fe,Form,1,0,intro,NULL,comment,
+1621091594,e0155ea6437c7ce53c6ddfb5122f04fe,Form,1,0,intro,NULL,error,nein
+1621091594,e0155ea6437c7ce53c6ddfb5122f04fe,Form,1,0,intro,NULL,length,nein
+1621091594,e0155ea6437c7ce53c6ddfb5122f04fe,Form,1,0,intro,NULL,breaks,nein
+1621091594,e0155ea6437c7ce53c6ddfb5122f04fe,Form,1,0,intro,NULL,audioplayback,nein
+1621091594,e0155ea6437c7ce53c6ddfb5122f04fe,Form,1,0,intro,NULL,external_factor,nein
+1621091594,e0155ea6437c7ce53c6ddfb5122f04fe,Form,1,0,intro,NULL,_REACTION_TIME_,117939
+#
+# Results on Sunday May 16 2021 19:44:16 UTC.
+# USER AGENT: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:88.0) Gecko/20100101 Firefox/88.0
+# Design number was non-random = 57
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1621194256,461054b54285c706e30909c5cb89d69e,Form,1,0,intro,NULL,fname,143
+1621194256,461054b54285c706e30909c5cb89d69e,Form,1,0,intro,NULL,group,2
+1621194256,461054b54285c706e30909c5cb89d69e,Form,1,0,intro,NULL,load_time,
+1621194256,461054b54285c706e30909c5cb89d69e,Form,1,0,intro,NULL,audioproblem,
+1621194256,461054b54285c706e30909c5cb89d69e,Form,1,0,intro,NULL,external_factor_description,
+1621194256,461054b54285c706e30909c5cb89d69e,Form,1,0,intro,NULL,input,
+1621194256,461054b54285c706e30909c5cb89d69e,Form,1,0,intro,NULL,display,
+1621194256,461054b54285c706e30909c5cb89d69e,Form,1,0,intro,NULL,image_clarity,
+1621194256,461054b54285c706e30909c5cb89d69e,Form,1,0,intro,NULL,comment,
+1621194256,461054b54285c706e30909c5cb89d69e,Form,1,0,intro,NULL,error,nein
+1621194256,461054b54285c706e30909c5cb89d69e,Form,1,0,intro,NULL,length,nein
+1621194256,461054b54285c706e30909c5cb89d69e,Form,1,0,intro,NULL,breaks,nein
+1621194256,461054b54285c706e30909c5cb89d69e,Form,1,0,intro,NULL,audioplayback,nein
+1621194256,461054b54285c706e30909c5cb89d69e,Form,1,0,intro,NULL,external_factor,nein
+1621194256,461054b54285c706e30909c5cb89d69e,Form,1,0,intro,NULL,_REACTION_TIME_,44475
+#
+# Results on Monday May 17 2021 10:46:47 UTC.
+# USER AGENT: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36
+# Design number was non-random = 58
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1621248408,1231914425aac8f8fc26c524864b2aea,Form,1,0,intro,NULL,fname,148
+1621248408,1231914425aac8f8fc26c524864b2aea,Form,1,0,intro,NULL,group,3
+1621248408,1231914425aac8f8fc26c524864b2aea,Form,1,0,intro,NULL,load_time,10
+1621248408,1231914425aac8f8fc26c524864b2aea,Form,1,0,intro,NULL,audioproblem,
+1621248408,1231914425aac8f8fc26c524864b2aea,Form,1,0,intro,NULL,external_factor_description,
+1621248408,1231914425aac8f8fc26c524864b2aea,Form,1,0,intro,NULL,input,
+1621248408,1231914425aac8f8fc26c524864b2aea,Form,1,0,intro,NULL,display,
+1621248408,1231914425aac8f8fc26c524864b2aea,Form,1,0,intro,NULL,image_clarity,
+1621248408,1231914425aac8f8fc26c524864b2aea,Form,1,0,intro,NULL,comment,
+1621248408,1231914425aac8f8fc26c524864b2aea,Form,1,0,intro,NULL,error,nein
+1621248408,1231914425aac8f8fc26c524864b2aea,Form,1,0,intro,NULL,length,nein
+1621248408,1231914425aac8f8fc26c524864b2aea,Form,1,0,intro,NULL,breaks,nein
+1621248408,1231914425aac8f8fc26c524864b2aea,Form,1,0,intro,NULL,audioplayback,nein
+1621248408,1231914425aac8f8fc26c524864b2aea,Form,1,0,intro,NULL,external_factor,nein
+1621248408,1231914425aac8f8fc26c524864b2aea,Form,1,0,intro,NULL,_REACTION_TIME_,129986
+#
+# Results on Monday May 17 2021 22:23:34 UTC.
+# USER AGENT: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:88.0) Gecko/20100101 Firefox/88.0
+# Design number was non-random = 59
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1621290214,a4fd301f5b911576ba47806ad96034c2,Form,1,0,intro,NULL,fname,151
+1621290214,a4fd301f5b911576ba47806ad96034c2,Form,1,0,intro,NULL,group,1
+1621290214,a4fd301f5b911576ba47806ad96034c2,Form,1,0,intro,NULL,load_time,0.5
+1621290214,a4fd301f5b911576ba47806ad96034c2,Form,1,0,intro,NULL,audioproblem,
+1621290214,a4fd301f5b911576ba47806ad96034c2,Form,1,0,intro,NULL,external_factor_description,
+1621290214,a4fd301f5b911576ba47806ad96034c2,Form,1,0,intro,NULL,input,
+1621290214,a4fd301f5b911576ba47806ad96034c2,Form,1,0,intro,NULL,display,
+1621290214,a4fd301f5b911576ba47806ad96034c2,Form,1,0,intro,NULL,image_clarity,
+1621290214,a4fd301f5b911576ba47806ad96034c2,Form,1,0,intro,NULL,comment,
+1621290214,a4fd301f5b911576ba47806ad96034c2,Form,1,0,intro,NULL,error,nein
+1621290214,a4fd301f5b911576ba47806ad96034c2,Form,1,0,intro,NULL,length,nein
+1621290214,a4fd301f5b911576ba47806ad96034c2,Form,1,0,intro,NULL,breaks,nein
+1621290214,a4fd301f5b911576ba47806ad96034c2,Form,1,0,intro,NULL,audioplayback,nein
+1621290214,a4fd301f5b911576ba47806ad96034c2,Form,1,0,intro,NULL,external_factor,nein
+1621290214,a4fd301f5b911576ba47806ad96034c2,Form,1,0,intro,NULL,_REACTION_TIME_,61118
+#
+# Results on Tuesday May 18 2021 12:13:27 UTC.
+# USER AGENT: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:84.0) Gecko/20100101 Firefox/84.0
+# Design number was non-random = 60
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1621340007,e826e69763aae4a6bfeb7d4e8e10923b,Form,1,0,intro,NULL,fname,155
+1621340007,e826e69763aae4a6bfeb7d4e8e10923b,Form,1,0,intro,NULL,group,0
+1621340007,e826e69763aae4a6bfeb7d4e8e10923b,Form,1,0,intro,NULL,load_time,1
+1621340007,e826e69763aae4a6bfeb7d4e8e10923b,Form,1,0,intro,NULL,audioproblem,
+1621340007,e826e69763aae4a6bfeb7d4e8e10923b,Form,1,0,intro,NULL,external_factor_description,
+1621340007,e826e69763aae4a6bfeb7d4e8e10923b,Form,1,0,intro,NULL,input,
+1621340007,e826e69763aae4a6bfeb7d4e8e10923b,Form,1,0,intro,NULL,display,
+1621340007,e826e69763aae4a6bfeb7d4e8e10923b,Form,1,0,intro,NULL,image_clarity,
+1621340007,e826e69763aae4a6bfeb7d4e8e10923b,Form,1,0,intro,NULL,comment,
+1621340007,e826e69763aae4a6bfeb7d4e8e10923b,Form,1,0,intro,NULL,error,nein
+1621340007,e826e69763aae4a6bfeb7d4e8e10923b,Form,1,0,intro,NULL,length,nein
+1621340007,e826e69763aae4a6bfeb7d4e8e10923b,Form,1,0,intro,NULL,breaks,nein
+1621340007,e826e69763aae4a6bfeb7d4e8e10923b,Form,1,0,intro,NULL,audioplayback,nein
+1621340007,e826e69763aae4a6bfeb7d4e8e10923b,Form,1,0,intro,NULL,external_factor,nein
+1621340007,e826e69763aae4a6bfeb7d4e8e10923b,Form,1,0,intro,NULL,_REACTION_TIME_,89204
+#
+# Results on Wednesday May 19 2021 13:59:54 UTC.
+# USER AGENT: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:88.0) Gecko/20100101 Firefox/88.0
+# Design number was non-random = 61
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1621432795,5526cf7cb1a7333f6900f744dafcb069,Form,1,0,intro,NULL,fname,162
+1621432795,5526cf7cb1a7333f6900f744dafcb069,Form,1,0,intro,NULL,group,2
+1621432795,5526cf7cb1a7333f6900f744dafcb069,Form,1,0,intro,NULL,load_time,2mi
+1621432795,5526cf7cb1a7333f6900f744dafcb069,Form,1,0,intro,NULL,audioproblem,
+1621432795,5526cf7cb1a7333f6900f744dafcb069,Form,1,0,intro,NULL,external_factor_description,
+1621432795,5526cf7cb1a7333f6900f744dafcb069,Form,1,0,intro,NULL,input,
+1621432795,5526cf7cb1a7333f6900f744dafcb069,Form,1,0,intro,NULL,display,
+1621432795,5526cf7cb1a7333f6900f744dafcb069,Form,1,0,intro,NULL,image_clarity,
+1621432795,5526cf7cb1a7333f6900f744dafcb069,Form,1,0,intro,NULL,comment,
+1621432795,5526cf7cb1a7333f6900f744dafcb069,Form,1,0,intro,NULL,error,nein
+1621432795,5526cf7cb1a7333f6900f744dafcb069,Form,1,0,intro,NULL,length,nein
+1621432795,5526cf7cb1a7333f6900f744dafcb069,Form,1,0,intro,NULL,breaks,nein
+1621432795,5526cf7cb1a7333f6900f744dafcb069,Form,1,0,intro,NULL,_REACTION_TIME_,55413
+#
+# Results on Friday May 21 2021 14:36:26 UTC.
+# USER AGENT: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36
+# Design number was non-random = 62
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1621607787,e42bd80199a9afbaaec010715a367f43,Form,1,0,intro,NULL,fname,166
+1621607787,e42bd80199a9afbaaec010715a367f43,Form,1,0,intro,NULL,group,1
+1621607787,e42bd80199a9afbaaec010715a367f43,Form,1,0,intro,NULL,load_time,1
+1621607787,e42bd80199a9afbaaec010715a367f43,Form,1,0,intro,NULL,audioproblem,Audio und Videoclips wurden erst nach mehrmaligem Neuladen des Experiments angezeigt
+1621607787,e42bd80199a9afbaaec010715a367f43,Form,1,0,intro,NULL,external_factor_description,
+1621607787,e42bd80199a9afbaaec010715a367f43,Form,1,0,intro,NULL,input,
+1621607787,e42bd80199a9afbaaec010715a367f43,Form,1,0,intro,NULL,display,Audio und Videoclips wurden erst nach mehrmaligem Neuladen des Experiments angezeigt
+1621607787,e42bd80199a9afbaaec010715a367f43,Form,1,0,intro,NULL,image_clarity,Matrose und Kapitän waren schwer zuzuordnen und der Vater sah so jung aus%2C dass er schwer als Vater zu erkennen war
+1621607787,e42bd80199a9afbaaec010715a367f43,Form,1,0,intro,NULL,comment,
+1621607787,e42bd80199a9afbaaec010715a367f43,Form,1,0,intro,NULL,error,nein
+1621607787,e42bd80199a9afbaaec010715a367f43,Form,1,0,intro,NULL,length,ja
+1621607787,e42bd80199a9afbaaec010715a367f43,Form,1,0,intro,NULL,breaks,nein
+1621607787,e42bd80199a9afbaaec010715a367f43,Form,1,0,intro,NULL,audioplayback,ja
+1621607787,e42bd80199a9afbaaec010715a367f43,Form,1,0,intro,NULL,external_factor,nein
+1621607787,e42bd80199a9afbaaec010715a367f43,Form,1,0,intro,NULL,_REACTION_TIME_,155547
+#
+# Results on Saturday May 22 2021 06:47:25 UTC.
+# USER AGENT: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36
+# Design number was non-random = 63
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1621666045,4099d24640fbe160b49febba0c918da8,Form,1,0,intro,NULL,fname,152
+1621666045,4099d24640fbe160b49febba0c918da8,Form,1,0,intro,NULL,group,2
+1621666045,4099d24640fbe160b49febba0c918da8,Form,1,0,intro,NULL,load_time,2
+1621666045,4099d24640fbe160b49febba0c918da8,Form,1,0,intro,NULL,audioproblem,
+1621666045,4099d24640fbe160b49febba0c918da8,Form,1,0,intro,NULL,external_factor_description,
+1621666045,4099d24640fbe160b49febba0c918da8,Form,1,0,intro,NULL,input,
+1621666045,4099d24640fbe160b49febba0c918da8,Form,1,0,intro,NULL,display,
+1621666045,4099d24640fbe160b49febba0c918da8,Form,1,0,intro,NULL,image_clarity,
+1621666045,4099d24640fbe160b49febba0c918da8,Form,1,0,intro,NULL,comment,
+1621666045,4099d24640fbe160b49febba0c918da8,Form,1,0,intro,NULL,error,nein
+1621666045,4099d24640fbe160b49febba0c918da8,Form,1,0,intro,NULL,length,nein
+1621666045,4099d24640fbe160b49febba0c918da8,Form,1,0,intro,NULL,breaks,nein
+1621666045,4099d24640fbe160b49febba0c918da8,Form,1,0,intro,NULL,audioplayback,nein
+1621666045,4099d24640fbe160b49febba0c918da8,Form,1,0,intro,NULL,external_factor,nein
+1621666045,4099d24640fbe160b49febba0c918da8,Form,1,0,intro,NULL,_REACTION_TIME_,75298
+#
+# Results on Tuesday May 25 2021 09:05:37 UTC.
+# USER AGENT: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:88.0) Gecko/20100101 Firefox/88.0
+# Design number was non-random = 64
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1621933538,24cd1493f28fcb85dc75480cb6bb5255,Form,1,0,intro,NULL,fname,167
+1621933538,24cd1493f28fcb85dc75480cb6bb5255,Form,1,0,intro,NULL,group,2
+1621933538,24cd1493f28fcb85dc75480cb6bb5255,Form,1,0,intro,NULL,load_time,5
+1621933538,24cd1493f28fcb85dc75480cb6bb5255,Form,1,0,intro,NULL,audioproblem,Ab und zu hing das viedeo%2C ich weiß nicht ob das gewollt war oder an meinem pc/internet lag
+1621933538,24cd1493f28fcb85dc75480cb6bb5255,Form,1,0,intro,NULL,external_factor_description,
+1621933538,24cd1493f28fcb85dc75480cb6bb5255,Form,1,0,intro,NULL,input,
+1621933538,24cd1493f28fcb85dc75480cb6bb5255,Form,1,0,intro,NULL,display,siehe audiowiedergabe
+1621933538,24cd1493f28fcb85dc75480cb6bb5255,Form,1,0,intro,NULL,image_clarity,
+1621933538,24cd1493f28fcb85dc75480cb6bb5255,Form,1,0,intro,NULL,comment,
+1621933538,24cd1493f28fcb85dc75480cb6bb5255,Form,1,0,intro,NULL,error,nein
+1621933538,24cd1493f28fcb85dc75480cb6bb5255,Form,1,0,intro,NULL,length,nein
+1621933538,24cd1493f28fcb85dc75480cb6bb5255,Form,1,0,intro,NULL,breaks,nein
+1621933538,24cd1493f28fcb85dc75480cb6bb5255,Form,1,0,intro,NULL,audioplayback,ja
+1621933538,24cd1493f28fcb85dc75480cb6bb5255,Form,1,0,intro,NULL,external_factor,nein
+1621933538,24cd1493f28fcb85dc75480cb6bb5255,Form,1,0,intro,NULL,_REACTION_TIME_,88906
+#
+# Results on Thursday May 27 2021 12:08:27 UTC.
+# USER AGENT: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:88.0) Gecko/20100101 Firefox/88.0
+# Design number was non-random = 65
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1622117308,85e6ef2322ba7c9a0bdd10a9db817c39,Form,1,0,intro,NULL,fname,168
+1622117308,85e6ef2322ba7c9a0bdd10a9db817c39,Form,1,0,intro,NULL,group,3
+1622117308,85e6ef2322ba7c9a0bdd10a9db817c39,Form,1,0,intro,NULL,load_time,1
+1622117308,85e6ef2322ba7c9a0bdd10a9db817c39,Form,1,0,intro,NULL,audioproblem,
+1622117308,85e6ef2322ba7c9a0bdd10a9db817c39,Form,1,0,intro,NULL,external_factor_description,
+1622117308,85e6ef2322ba7c9a0bdd10a9db817c39,Form,1,0,intro,NULL,input,
+1622117308,85e6ef2322ba7c9a0bdd10a9db817c39,Form,1,0,intro,NULL,display,
+1622117308,85e6ef2322ba7c9a0bdd10a9db817c39,Form,1,0,intro,NULL,image_clarity,Der Koch sah aus wie ein Bäcker%2C ich glaub das hatte ich 1 mal falsch
+1622117308,85e6ef2322ba7c9a0bdd10a9db817c39,Form,1,0,intro,NULL,comment,* Wenn Bilder zum ersten mal kamen hab ich grundsätzlich länger gebraucht %0A* Am Anfang des Experiments hab ich länger gebraucht%2C da ich nicht wusste%2C dass wenn ich das zweite Adjektiv bereits gehört hab alle Informationen bereits hab (anfangs dachte ich%2C es hätte ja auch sein können%2C dass das zweite Nomen sich auf etwas bezieht dass nicht da ist (also bspw wenn ein Bäcker und ein Pirat gezeigt werden gesagt wird "der kluge Bäcker jagt den schnellen Esel")%2C daher sind die ersten Runden wahrscheinlich langsamer als die späteren)
+1622117308,85e6ef2322ba7c9a0bdd10a9db817c39,Form,1,0,intro,NULL,error,nein
+1622117308,85e6ef2322ba7c9a0bdd10a9db817c39,Form,1,0,intro,NULL,length,nein
+1622117308,85e6ef2322ba7c9a0bdd10a9db817c39,Form,1,0,intro,NULL,breaks,nein
+1622117308,85e6ef2322ba7c9a0bdd10a9db817c39,Form,1,0,intro,NULL,audioplayback,nein
+1622117308,85e6ef2322ba7c9a0bdd10a9db817c39,Form,1,0,intro,NULL,external_factor,nein
+1622117308,85e6ef2322ba7c9a0bdd10a9db817c39,Form,1,0,intro,NULL,_REACTION_TIME_,244706
+#
+# Results on Thursday May 27 2021 19:01:13 UTC.
+# USER AGENT: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.3 Safari/605.1.15
+# Design number was non-random = 66
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1622142074,62481a90235ea75b06056ac7e7ed30fa,Form,1,0,intro,NULL,fname,169
+1622142074,62481a90235ea75b06056ac7e7ed30fa,Form,1,0,intro,NULL,group,4
+1622142074,62481a90235ea75b06056ac7e7ed30fa,Form,1,0,intro,NULL,load_time,2
+1622142074,62481a90235ea75b06056ac7e7ed30fa,Form,1,0,intro,NULL,audioproblem,
+1622142074,62481a90235ea75b06056ac7e7ed30fa,Form,1,0,intro,NULL,external_factor_description,
+1622142074,62481a90235ea75b06056ac7e7ed30fa,Form,1,0,intro,NULL,input,
+1622142074,62481a90235ea75b06056ac7e7ed30fa,Form,1,0,intro,NULL,display,
+1622142074,62481a90235ea75b06056ac7e7ed30fa,Form,1,0,intro,NULL,image_clarity,
+1622142074,62481a90235ea75b06056ac7e7ed30fa,Form,1,0,intro,NULL,comment,Leider konnte ich meine Maus nicht benutzen%2C daher war es am Ende etwas schwer auf "ok" zu klicken. Über dem Feld wurde es wieder angezeigt%2C man musste es nur finden.
+1622142074,62481a90235ea75b06056ac7e7ed30fa,Form,1,0,intro,NULL,error,nein
+1622142074,62481a90235ea75b06056ac7e7ed30fa,Form,1,0,intro,NULL,length,nein
+1622142074,62481a90235ea75b06056ac7e7ed30fa,Form,1,0,intro,NULL,breaks,nein
+1622142074,62481a90235ea75b06056ac7e7ed30fa,Form,1,0,intro,NULL,audioplayback,nein
+1622142074,62481a90235ea75b06056ac7e7ed30fa,Form,1,0,intro,NULL,external_factor,nein
+1622142074,62481a90235ea75b06056ac7e7ed30fa,Form,1,0,intro,NULL,_REACTION_TIME_,110809
+#
+# Results on Saturday May 29 2021 14:59:34 UTC.
+# USER AGENT: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:88.0) Gecko/20100101 Firefox/88.0
+# Design number was non-random = 67
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1622300374,aadd9fbde3488e0690421c358bf65305,Form,1,0,intro,NULL,fname,170
+1622300374,aadd9fbde3488e0690421c358bf65305,Form,1,0,intro,NULL,group,0
+1622300374,aadd9fbde3488e0690421c358bf65305,Form,1,0,intro,NULL,load_time,3
+1622300374,aadd9fbde3488e0690421c358bf65305,Form,1,0,intro,NULL,audioproblem,
+1622300374,aadd9fbde3488e0690421c358bf65305,Form,1,0,intro,NULL,external_factor_description,
+1622300374,aadd9fbde3488e0690421c358bf65305,Form,1,0,intro,NULL,input,
+1622300374,aadd9fbde3488e0690421c358bf65305,Form,1,0,intro,NULL,display,
+1622300374,aadd9fbde3488e0690421c358bf65305,Form,1,0,intro,NULL,image_clarity,
+1622300374,aadd9fbde3488e0690421c358bf65305,Form,1,0,intro,NULL,comment,
+1622300374,aadd9fbde3488e0690421c358bf65305,Form,1,0,intro,NULL,error,nein
+1622300374,aadd9fbde3488e0690421c358bf65305,Form,1,0,intro,NULL,length,ja
+1622300374,aadd9fbde3488e0690421c358bf65305,Form,1,0,intro,NULL,breaks,nein
+1622300374,aadd9fbde3488e0690421c358bf65305,Form,1,0,intro,NULL,audioplayback,nein
+1622300374,aadd9fbde3488e0690421c358bf65305,Form,1,0,intro,NULL,external_factor,nein
+1622300374,aadd9fbde3488e0690421c358bf65305,Form,1,0,intro,NULL,_REACTION_TIME_,66011
+#
+# Results on Sunday May 30 2021 11:25:04 UTC.
+# USER AGENT: Mozilla/5.0 (X11; Linux x86_64; rv:88.0) Gecko/20100101 Firefox/88.0
+# Design number was non-random = 68
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1622373905,a6e3f58bc945cebfa9ceb00b3d265270,Form,1,0,intro,NULL,fname,171
+1622373905,a6e3f58bc945cebfa9ceb00b3d265270,Form,1,0,intro,NULL,group,1
+1622373905,a6e3f58bc945cebfa9ceb00b3d265270,Form,1,0,intro,NULL,load_time,1
+1622373905,a6e3f58bc945cebfa9ceb00b3d265270,Form,1,0,intro,NULL,audioproblem,
+1622373905,a6e3f58bc945cebfa9ceb00b3d265270,Form,1,0,intro,NULL,external_factor_description,
+1622373905,a6e3f58bc945cebfa9ceb00b3d265270,Form,1,0,intro,NULL,input,
+1622373905,a6e3f58bc945cebfa9ceb00b3d265270,Form,1,0,intro,NULL,display,
+1622373905,a6e3f58bc945cebfa9ceb00b3d265270,Form,1,0,intro,NULL,image_clarity,Matrose vs. Kapitän. Beide sehen wie Seemänner aus aber der Kapitän fällt mit seinem gestreiften Hemd schneller auf und kommt daher als "Matrose" zuerst in Frage. Der eigentliche Matrose ist nur zu erkennen weil hinter ihm Seile zu sehen sind%2C die nicht sofort auffallen.
+1622373905,a6e3f58bc945cebfa9ceb00b3d265270,Form,1,0,intro,NULL,comment,
+1622373905,a6e3f58bc945cebfa9ceb00b3d265270,Form,1,0,intro,NULL,error,nein
+1622373905,a6e3f58bc945cebfa9ceb00b3d265270,Form,1,0,intro,NULL,length,nein
+1622373905,a6e3f58bc945cebfa9ceb00b3d265270,Form,1,0,intro,NULL,breaks,nein
+1622373905,a6e3f58bc945cebfa9ceb00b3d265270,Form,1,0,intro,NULL,audioplayback,nein
+1622373905,a6e3f58bc945cebfa9ceb00b3d265270,Form,1,0,intro,NULL,external_factor,nein
+1622373905,a6e3f58bc945cebfa9ceb00b3d265270,Form,1,0,intro,NULL,_REACTION_TIME_,253393
