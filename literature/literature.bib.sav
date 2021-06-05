@@ -2,8 +2,12 @@
 
 @Article{Agnew2000,
   author     = {J. Agnew and J. Thornton},
+  date       = {2000},
   title      = {Just noticeable and objectionable group delays in digital hearing aids.},
+  doi        = {10.1097/00025572-200003000-00005},
+  issn       = {0745-7472},
   pages      = {330--6},
+  subtitle   = {A handy glossary},
   volume     = {11 6},
   file       = {:C\:/Users/aron/Google Drive/BA/thesis/literature/agnew2000.pdf:PDF},
   journal    = {Journal of the American Academy of Audiology},
@@ -606,6 +610,8 @@
   pages        = {737--744},
   volume       = {60},
   abstract     = {This paper presents a real-time voice activity detection (VAD) algorithm implemented in a miniature Digital Signal Processor (DSP) for in-ear listening devices such as earphones or headphones. This system allows consumers to hear external speech signals such as public announcements or oral communication while listening to music without removing their listening devices. The proposed algorithm uses two normalized energy features that compare the energy in the frequency region containing speech information with the frequency regions typically containing noise. The extraction of the normalized features represents the key of the proposed VAD since it eliminates the need for a signal-to-noise ratio (SNR) estimator. The VAD's decision is made using two threshold comparison rules computed from the normalized features and a hangover scheme triggered after a given number of observations. The algorithm parameters, namely the frequency regions' boundaries, number of observations, two decision thresholds and hangover's duration, have been optimized offline using a genetic algorithm. The performance of the proposed VAD is compared to a benchmark algorithm in four noise environments and three SNRs. Results show that the average false positive rate (FPR) of the proposed algorithm is 4.2% and the average true positive rate (TPR) is 91.4 % compared to the benchmark algorithm which has a FPR average of 29.9 % and a TPR average of 79.0 %. The proposed VAD is implemented in hardware to validate its reliability and complexity.},
+  publisher    = {Institute of Electrical and Electronics Engineers ({IEEE})},
+  year         = {2014},
 }
 
 @Article{lezzoum2016threshold,
@@ -1163,12 +1169,15 @@ The cat superior colliculus neuron is a major site for the convergence and integ
   title        = {Understanding Sound Sensitivity in Individuals with Autism Spectrum Disorders},
   doi          = {10.1177/1088357610364530},
   eprint       = {https://doi.org/10.1177/1088357610364530},
+  issn         = {1088-3576},
   number       = {2},
   pages        = {67--75},
   url          = {https://doi.org/10.1177/1088357610364530},
   volume       = {25},
   abstract     = {Literature on sound sensitivity in individuals with and without autism spectrum disorders (ASD) is reviewed in this article. Empirical evidence is examined, and physiologic and psychoemotional-behavioral perspectives are described.There is virtually no evidence of true physiological differences in auditory systems of individuals with ASD. It is evident, however, that many people with ASD (a) feel fearful and anxious about sound, and (b) may experience unpleasant physiological sensations because of autonomic and/or behavioral responses to nonpreferred sounds, but (c) can learn to react in less stigmatizing, more effectively self-regulating ways. Current assessment and intervention practices are discussed, and a case is presented. Heightened understanding of this issue among caregivers and interventionists may ultimately improve life participation for individuals with ASD.},
   file         = {:stiegler2010.pdf:PDF},
+  publisher    = {{SAGE} Publications},
+  year         = {2010},
 }
 
 @Article{stilp2020,
@@ -1361,6 +1370,8 @@ The cat superior colliculus neuron is a major site for the convergence and integ
   volume       = {405},
   abstract     = {We investigated whether changing the frame rate at which speech video clips were presented (6–30 frames per second, fps) would affect audiovisual temporal perception. Participants made unspeeded temporal order judgments (TOJs) regarding which signal (auditory or visual) was presented first for video clips presented at a range of different stimulus onset asynchronies (SOAs) using the method of constant stimuli. Temporal discrimination accuracy was unaffected by changes in frame rate, while lower frame rate speech video clips required larger visual-speech leads for the point of subjective simultaneity (PSS) to be achieved than did higher frame rate video clips. The significant effect of frame rate on temporal perception demonstrated here has not been controlled for in previous studies of audiovisual synchrony perception using video stimuli and is potentially important given the rapid increase in the use of audiovisual videos in cognitive neuroscience research in recent years.},
   keywords     = {Temporal perception, Frame rate, Video quality, Speech, Audition, Vision},
+  publisher    = {Elsevier {BV}},
+  year         = {2006},
 }
 
 @Article{Vroomen2010,
@@ -1462,7 +1473,9 @@ The cat superior colliculus neuron is a major site for the convergence and integ
   file         = {:zhou2020.pdf:PDF},
   keywords     = {Temporal binding window, Cognitive processing, Neural mechanisms, Developmental trajectories, Neurodevelopmental disorders, Perceptual and music training},
   owner        = {aron},
+  publisher    = {Elsevier {BV}},
   timestamp    = {2021-05-14},
+  year         = {2020},
 }
 
 @Comment{jabref-meta: databaseType:biblatex;}
