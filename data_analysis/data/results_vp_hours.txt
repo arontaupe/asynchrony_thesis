@@ -700,3 +700,273 @@
 1622373942,a6e3f58bc945cebfa9ceb00b3d265270,Form,0,0,intro,NULL,email,Stefan Warkentin
 1622373942,a6e3f58bc945cebfa9ceb00b3d265270,Form,0,0,intro,NULL,email,stwarkentin@uos.de
 1622373942,a6e3f58bc945cebfa9ceb00b3d265270,Form,0,0,intro,NULL,_REACTION_TIME_,29429
+#
+# Results on Wednesday June 02 2021 16:22:41 UTC.
+# USER AGENT: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36
+# Design number was non-random = 39
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1622650962,ea04513884f36ad99286ec81c40c1cc7,Form,0,0,intro,NULL,email,Hellmundt%2C Johannes
+1622650962,ea04513884f36ad99286ec81c40c1cc7,Form,0,0,intro,NULL,email,jhellmundt@uos.de
+1622650962,ea04513884f36ad99286ec81c40c1cc7,Form,0,0,intro,NULL,_REACTION_TIME_,24322
+#
+# Results on Thursday June 03 2021 12:49:58 UTC.
+# USER AGENT: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:89.0) Gecko/20100101 Firefox/89.0
+# Design number was non-random = 40
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1622724599,45ea0af8c7d834e6790c4012a3c3d4c9,Form,0,0,intro,NULL,email,Grund%2C Eosandra
+1622724599,45ea0af8c7d834e6790c4012a3c3d4c9,Form,0,0,intro,NULL,email,egrund@uni-osnabrueck.de
+1622724599,45ea0af8c7d834e6790c4012a3c3d4c9,Form,0,0,intro,NULL,_REACTION_TIME_,56816
+#
+# Results on Thursday June 03 2021 12:52:11 UTC.
+# USER AGENT: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36
+# Design number was non-random = 41
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1622724732,1bf72f77cda7d1860efd476260334111,Form,0,0,intro,NULL,email,Rehmer%2C Mara
+1622724732,1bf72f77cda7d1860efd476260334111,Form,0,0,intro,NULL,email,mrehmer@uos.de
+1622724732,1bf72f77cda7d1860efd476260334111,Form,0,0,intro,NULL,_REACTION_TIME_,44863
+#
+# Results on Friday June 04 2021 10:09:46 UTC.
+# USER AGENT: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36
+# Design number was non-random = 42
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1622801386,b442759c4f56c805b76172312aa1d28f,Form,0,0,intro,NULL,email,Wachter%2C Paul
+1622801386,b442759c4f56c805b76172312aa1d28f,Form,0,0,intro,NULL,email,pwachter@uos.de
+1622801386,b442759c4f56c805b76172312aa1d28f,Form,0,0,intro,NULL,_REACTION_TIME_,25350
+#
+# Results on Friday June 04 2021 11:40:14 UTC.
+# USER AGENT: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36
+# Design number was non-random = 43
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1622806814,8088baaf6b9089faee4e515a330dc1b5,Form,0,0,intro,NULL,email,Wölk%2C Sofia
+1622806814,8088baaf6b9089faee4e515a330dc1b5,Form,0,0,intro,NULL,email,swoelk@uos.de
+1622806814,8088baaf6b9089faee4e515a330dc1b5,Form,0,0,intro,NULL,_REACTION_TIME_,35270
+#
+# Results on Saturday June 05 2021 12:46:46 UTC.
+# USER AGENT: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:89.0) Gecko/20100101 Firefox/89.0
+# Design number was non-random = 44
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1622897206,1d449ec896ea569d943692837dc2b384,Form,0,0,intro,NULL,email,Mossner%2C Carmen
+1622897206,1d449ec896ea569d943692837dc2b384,Form,0,0,intro,NULL,email,cmossner@uni-osnabrueck.de
+1622897206,1d449ec896ea569d943692837dc2b384,Form,0,0,intro,NULL,_REACTION_TIME_,52365
+#
+# Results on Saturday June 05 2021 13:34:32 UTC.
+# USER AGENT: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36
+# Design number was non-random = 45
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1622900072,12b34a7239a9bf5cb22c7a1e550222f2,Form,0,0,intro,NULL,email,Wild%2C Cordula
+1622900072,12b34a7239a9bf5cb22c7a1e550222f2,Form,0,0,intro,NULL,email,cwild@uni-osnabrueck.de
+1622900072,12b34a7239a9bf5cb22c7a1e550222f2,Form,0,0,intro,NULL,_REACTION_TIME_,72629
+#
+# Results on Saturday June 05 2021 16:23:08 UTC.
+# USER AGENT: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36 OPR/76.0.4017.177
+# Design number was non-random = 46
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1622910189,21b1cdb31d8da18221fe283b8c30240e,Form,0,0,intro,NULL,email,Kremer%2C Hendrik
+1622910189,21b1cdb31d8da18221fe283b8c30240e,Form,0,0,intro,NULL,email,hkremer@uni-osnabrueck.de%0A%0A
+1622910189,21b1cdb31d8da18221fe283b8c30240e,Form,0,0,intro,NULL,_REACTION_TIME_,59380
+#
+# Results on Sunday June 06 2021 08:38:57 UTC.
+# USER AGENT: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:88.0) Gecko/20100101 Firefox/88.0
+# Design number was non-random = 47
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1622968737,554275e33802ffc75ce7ef7795d3f9e7,Form,0,0,intro,NULL,email,Matheis%2C Clara
+1622968737,554275e33802ffc75ce7ef7795d3f9e7,Form,0,0,intro,NULL,email,cmatheis@uos.de
+1622968737,554275e33802ffc75ce7ef7795d3f9e7,Form,0,0,intro,NULL,_REACTION_TIME_,25437
+#
+# Results on Monday June 07 2021 01:33:40 UTC.
+# USER AGENT: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36
+# Design number was non-random = 48
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1623029620,914522ded583165eba95d3b3c3103fc0,Form,0,0,intro,NULL,email,Meißner%2C Christian
+1623029620,914522ded583165eba95d3b3c3103fc0,Form,0,0,intro,NULL,email,chrmeissner@uni-osnabrueck.de
+1623029620,914522ded583165eba95d3b3c3103fc0,Form,0,0,intro,NULL,_REACTION_TIME_,81636
+#
+# Results on Monday June 07 2021 17:08:31 UTC.
+# USER AGENT: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36
+# Design number was non-random = 49
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1623085712,ae26024b79751f4460e40def3090940c,Form,0,0,intro,NULL,email,Trant%2C Katharina
+1623085712,ae26024b79751f4460e40def3090940c,Form,0,0,intro,NULL,email,ktrant@uos.de
+1623085712,ae26024b79751f4460e40def3090940c,Form,0,0,intro,NULL,_REACTION_TIME_,55802
+#
+# Results on Tuesday June 08 2021 13:05:30 UTC.
+# USER AGENT: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36
+# Design number was non-random = 50
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1623157530,9f9f59ff918cae34af2178154fe2e40a,Form,0,0,intro,NULL,email,Pfennigschmidt%2C Regina
+1623157530,9f9f59ff918cae34af2178154fe2e40a,Form,0,0,intro,NULL,email,rpfennigschm@uni-osnabrueck.de
+1623157530,9f9f59ff918cae34af2178154fe2e40a,Form,0,0,intro,NULL,_REACTION_TIME_,36348
+#
+# Results on Tuesday June 08 2021 17:38:57 UTC.
+# USER AGENT: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:89.0) Gecko/20100101 Firefox/89.0
+# Design number was non-random = 51
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1623173938,b5e305411c66e3328d4e73b5c54f847a,Form,0,0,intro,NULL,email,Kristof Engelhardt
+1623173938,b5e305411c66e3328d4e73b5c54f847a,Form,0,0,intro,NULL,email,kengelhardt@uni-osnabrueck.de
+1623173938,b5e305411c66e3328d4e73b5c54f847a,Form,0,0,intro,NULL,_REACTION_TIME_,28670
+#
+# Results on Wednesday June 09 2021 14:45:38 UTC.
+# USER AGENT: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36
+# Design number was non-random = 52
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1623249939,9bd8c7cb529b3845409794fd110842ef,Form,0,0,intro,NULL,email,Kurth%2C Vivienne
+1623249939,9bd8c7cb529b3845409794fd110842ef,Form,0,0,intro,NULL,email,vkurth@uni-osnabrueck.de
+1623249939,9bd8c7cb529b3845409794fd110842ef,Form,0,0,intro,NULL,_REACTION_TIME_,34147
+#
+# Results on Wednesday June 09 2021 20:55:02 UTC.
+# USER AGENT: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:89.0) Gecko/20100101 Firefox/89.0
+# Design number was non-random = 53
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1623272102,3a45a91a0eb609244e30b512f5c3f265,Form,0,0,intro,NULL,email,Diez%2C Paul
+1623272102,3a45a91a0eb609244e30b512f5c3f265,Form,0,0,intro,NULL,email,pdiez@uni-osnabrueck.de
+1623272102,3a45a91a0eb609244e30b512f5c3f265,Form,0,0,intro,NULL,_REACTION_TIME_,118142

@@ -1087,6 +1087,21 @@ Key:
   year   = {2021},
 }
 
+@Article{Smith2007,
+  author       = {Smith, Elizabeth G. and Bennetto, Loisa},
+  date         = {2007},
+  journaltitle = {Journal of Child Psychology and Psychiatry},
+  title        = {Audiovisual speech integration and lipreading in autism},
+  doi          = {https://doi.org/10.1111/j.1469-7610.2007.01766.x},
+  eprint       = {https://acamh.onlinelibrary.wiley.com/doi/pdf/10.1111/j.1469-7610.2007.01766.x},
+  number       = {8},
+  pages        = {813--821},
+  url          = {https://acamh.onlinelibrary.wiley.com/doi/abs/10.1111/j.1469-7610.2007.01766.x},
+  volume       = {48},
+  abstract     = {Background:  During speech perception, the ability to integrate auditory and visual information causes speech to sound louder and be more intelligible, and leads to quicker processing. This integration is important in early language development, and also continues to affect speech comprehension throughout the lifespan. Previous research shows that individuals with autism have difficulty integrating information, especially across multiple sensory domains. Methods:  In the present study, audiovisual speech integration was investigated in 18 adolescents with high-functioning autism and 19 well-matched adolescents with typical development using a speech in noise paradigm. Speech reception thresholds were calculated for auditory only and audiovisual matched speech, and lipreading ability was measured. Results:  Compared to individuals with typical development, individuals with autism showed less benefit from the addition of visual information in audiovisual speech perception. We also found that individuals with autism were significantly worse than those in the comparison group at lipreading. Hierarchical regression demonstrated that group differences in the audiovisual condition, while influenced by auditory perception and especially by lipreading, were also attributable to a unique factor, which may reflect a specific deficit in audiovisual integration. Conclusions:  Combined deficits in audiovisual speech integration and lipreading in individuals with autism are likely to contribute to ongoing difficulties in speech comprehension, and may also be related to delays in early language development.},
+  keywords     = {Speech reception threshold, speech in noise, audiovisual speech integration, autism},
+}
+
 @Article{soto2004assessing,
   author    = {Soto-Faraco, Salvador and Navarra, Jordi and Alsius, Agnes},
   journal   = {Cognition},
