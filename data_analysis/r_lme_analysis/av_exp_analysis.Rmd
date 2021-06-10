@@ -60,7 +60,7 @@ data <- filter(data, !data$participant %in% c(1:56))
 # Performance exclusion
 data <- filter(data, !data$participant %in% c( 79, 90)) 
 #Framerate exclusion
-data <- filter(data, !data$participant %in% c(167, 168, 64, 180)) 
+data <- filter(data, !data$participant %in% c(167, 168, 64, 180, 99, 167)) 
 #1-56 are pilot, the other ones had low accuracy on the task
 
 participants <- data%>%group_by(participant)%>%summarise(unique(participant))
