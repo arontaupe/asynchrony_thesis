@@ -1,0 +1,13 @@
+name: ba
+
+dependencies:
+  - python
+  - numpy
+  - matplotlib
+  - pandas
+  - seaborn
+  - jupyterlab
+  - statannot
+  - nodejs
+  - npm
+  - jupyterlab-git

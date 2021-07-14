@@ -2372,3 +2372,93 @@
 1623271974,3a45a91a0eb609244e30b512f5c3f265,Form,1,0,intro,NULL,audioplayback,nein
 1623271974,3a45a91a0eb609244e30b512f5c3f265,Form,1,0,intro,NULL,external_factor,nein
 1623271974,3a45a91a0eb609244e30b512f5c3f265,Form,1,0,intro,NULL,_REACTION_TIME_,108871
+#
+# Results on Thursday June 10 2021 16:21:39 UTC.
+# USER AGENT: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:89.0) Gecko/20100101 Firefox/89.0
+# Design number was non-random = 84
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1623342100,a9286f18cc5cb0ddad73ffd07c662226,Form,1,0,intro,NULL,fname,195
+1623342100,a9286f18cc5cb0ddad73ffd07c662226,Form,1,0,intro,NULL,group,0
+1623342100,a9286f18cc5cb0ddad73ffd07c662226,Form,1,0,intro,NULL,load_time,0.5
+1623342100,a9286f18cc5cb0ddad73ffd07c662226,Form,1,0,intro,NULL,audioproblem,(Teils doppelte Tonspur%2C aber ich vermute das ist gewollt?)
+1623342100,a9286f18cc5cb0ddad73ffd07c662226,Form,1,0,intro,NULL,external_factor_description,Spiegel ist einmal fast von der Wand gefallen.
+1623342100,a9286f18cc5cb0ddad73ffd07c662226,Form,1,0,intro,NULL,input,
+1623342100,a9286f18cc5cb0ddad73ffd07c662226,Form,1,0,intro,NULL,display,
+1623342100,a9286f18cc5cb0ddad73ffd07c662226,Form,1,0,intro,NULL,image_clarity,
+1623342100,a9286f18cc5cb0ddad73ffd07c662226,Form,1,0,intro,NULL,comment,
+1623342100,a9286f18cc5cb0ddad73ffd07c662226,Form,1,0,intro,NULL,error,nein
+1623342100,a9286f18cc5cb0ddad73ffd07c662226,Form,1,0,intro,NULL,length,nein
+1623342100,a9286f18cc5cb0ddad73ffd07c662226,Form,1,0,intro,NULL,breaks,nein
+1623342100,a9286f18cc5cb0ddad73ffd07c662226,Form,1,0,intro,NULL,audioplayback,nein
+1623342100,a9286f18cc5cb0ddad73ffd07c662226,Form,1,0,intro,NULL,external_factor,nein
+1623342100,a9286f18cc5cb0ddad73ffd07c662226,Form,1,0,intro,NULL,_REACTION_TIME_,167652
+#
+# Results on Friday June 11 2021 00:20:15 UTC.
+# USER AGENT: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:89.0) Gecko/20100101 Firefox/89.0
+# Design number was non-random = 85
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1623370816,ff5cbe76d43cc97c324467376e3defd3,Form,1,0,intro,NULL,fname,198
+1623370816,ff5cbe76d43cc97c324467376e3defd3,Form,1,0,intro,NULL,group,3
+1623370816,ff5cbe76d43cc97c324467376e3defd3,Form,1,0,intro,NULL,load_time,0%2C5
+1623370816,ff5cbe76d43cc97c324467376e3defd3,Form,1,0,intro,NULL,audioproblem,
+1623370816,ff5cbe76d43cc97c324467376e3defd3,Form,1,0,intro,NULL,external_factor_description,Stimmen auf der Straße vor dem Haus
+1623370816,ff5cbe76d43cc97c324467376e3defd3,Form,1,0,intro,NULL,input,
+1623370816,ff5cbe76d43cc97c324467376e3defd3,Form,1,0,intro,NULL,display,
+1623370816,ff5cbe76d43cc97c324467376e3defd3,Form,1,0,intro,NULL,image_clarity,Matrose und Kapitän
+1623370816,ff5cbe76d43cc97c324467376e3defd3,Form,1,0,intro,NULL,comment,
+1623370816,ff5cbe76d43cc97c324467376e3defd3,Form,1,0,intro,NULL,error,nein
+1623370816,ff5cbe76d43cc97c324467376e3defd3,Form,1,0,intro,NULL,length,ja
+1623370816,ff5cbe76d43cc97c324467376e3defd3,Form,1,0,intro,NULL,breaks,nein
+1623370816,ff5cbe76d43cc97c324467376e3defd3,Form,1,0,intro,NULL,audioplayback,nein
+1623370816,ff5cbe76d43cc97c324467376e3defd3,Form,1,0,intro,NULL,external_factor,ja
+1623370816,ff5cbe76d43cc97c324467376e3defd3,Form,1,0,intro,NULL,_REACTION_TIME_,166087
+#
+# Results on Friday June 18 2021 12:19:19 UTC.
+# USER AGENT: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36
+# Design number was non-random = 86
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1624018760,96d9c09b5f0c544e083630a9f3d5c2df,Form,1,0,intro,NULL,fname,0
+1624018760,96d9c09b5f0c544e083630a9f3d5c2df,Form,1,0,intro,NULL,group,0
+1624018760,96d9c09b5f0c544e083630a9f3d5c2df,Form,1,0,intro,NULL,load_time,1
+1624018760,96d9c09b5f0c544e083630a9f3d5c2df,Form,1,0,intro,NULL,audioproblem,
+1624018760,96d9c09b5f0c544e083630a9f3d5c2df,Form,1,0,intro,NULL,external_factor_description,
+1624018760,96d9c09b5f0c544e083630a9f3d5c2df,Form,1,0,intro,NULL,input,
+1624018760,96d9c09b5f0c544e083630a9f3d5c2df,Form,1,0,intro,NULL,display,
+1624018760,96d9c09b5f0c544e083630a9f3d5c2df,Form,1,0,intro,NULL,image_clarity,
+1624018760,96d9c09b5f0c544e083630a9f3d5c2df,Form,1,0,intro,NULL,comment,
+1624018760,96d9c09b5f0c544e083630a9f3d5c2df,Form,1,0,intro,NULL,error,nein
+1624018760,96d9c09b5f0c544e083630a9f3d5c2df,Form,1,0,intro,NULL,length,nein
+1624018760,96d9c09b5f0c544e083630a9f3d5c2df,Form,1,0,intro,NULL,breaks,nein
+1624018760,96d9c09b5f0c544e083630a9f3d5c2df,Form,1,0,intro,NULL,audioplayback,nein
+1624018760,96d9c09b5f0c544e083630a9f3d5c2df,Form,1,0,intro,NULL,external_factor,nein
+1624018760,96d9c09b5f0c544e083630a9f3d5c2df,Form,1,0,intro,NULL,_REACTION_TIME_,18917

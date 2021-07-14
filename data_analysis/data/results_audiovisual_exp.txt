@@ -6115,3 +6115,87 @@
 1623270105,3a45a91a0eb609244e30b512f5c3f265,PennController,4,0,audio_volume,NULL,Scale,answer1,Choice,Ja,1623270091283,NULL
 1623270105,3a45a91a0eb609244e30b512f5c3f265,PennController,4,0,audio_volume,NULL,Scale,answer2,Choice,Ja,1623270092533,NULL
 1623270105,3a45a91a0eb609244e30b512f5c3f265,PennController,4,0,audio_volume,NULL,PennController,3,_Trial_,End,1623270093396,NULL
+#
+# Results on Thursday June 10 2021 12:58:34 UTC.
+# USER AGENT: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:78.0) Gecko/20100101 Firefox/78.0
+# Design number was non-random = 373
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. PennElementType.
+# 9. PennElementName.
+# 10. Parameter.
+# 11. Value.
+# 12. EventTime.
+# 13. Comments.
+1623329915,acfbe9fa873b6b50f6c56047b56bec01,PennController,1,0,intro1,NULL,PennController,0,_Trial_,Start,1623329745289,NULL
+1623329915,acfbe9fa873b6b50f6c56047b56bec01,PennController,1,0,intro1,NULL,PennController,0,_Trial_,End,1623329818971,NULL
+1623329915,acfbe9fa873b6b50f6c56047b56bec01,PennController,2,0,intro2,NULL,PennController,1,_Trial_,Start,1623329818975,NULL
+1623329915,acfbe9fa873b6b50f6c56047b56bec01,PennController,2,0,intro2,NULL,Html,consent,consent,checked,1623329829384,checkbox
+1623329915,acfbe9fa873b6b50f6c56047b56bec01,PennController,2,0,intro2,NULL,PennController,1,_Trial_,End,1623329829385,NULL
+1623329915,acfbe9fa873b6b50f6c56047b56bec01,PennController,3,0,personal,NULL,PennController,2,_Trial_,Start,1623329829387,NULL
+1623329915,acfbe9fa873b6b50f6c56047b56bec01,PennController,3,0,personal,NULL,Html,questionnaire,age,33,1623329870131,text input
+1623329915,acfbe9fa873b6b50f6c56047b56bec01,PennController,3,0,personal,NULL,Html,questionnaire,psych,,1623329870131,text input
+1623329915,acfbe9fa873b6b50f6c56047b56bec01,PennController,3,0,personal,NULL,Html,questionnaire,comment,,1623329870131,text input
+1623329915,acfbe9fa873b6b50f6c56047b56bec01,PennController,3,0,personal,NULL,Html,questionnaire,gender,female,1623329870132,radio button
+1623329915,acfbe9fa873b6b50f6c56047b56bec01,PennController,3,0,personal,NULL,Html,questionnaire,handedness,right,1623329870132,radio button
+1623329915,acfbe9fa873b6b50f6c56047b56bec01,PennController,3,0,personal,NULL,Html,questionnaire,language,yes,1623329870132,radio button
+1623329915,acfbe9fa873b6b50f6c56047b56bec01,PennController,3,0,personal,NULL,Html,questionnaire,hearing,no,1623329870132,radio button
+1623329915,acfbe9fa873b6b50f6c56047b56bec01,PennController,3,0,personal,NULL,Html,questionnaire,vision,no,1623329870132,radio button
+1623329915,acfbe9fa873b6b50f6c56047b56bec01,PennController,3,0,personal,NULL,Html,questionnaire,headphones,yes,1623329870132,radio button
+1623329915,acfbe9fa873b6b50f6c56047b56bec01,PennController,3,0,personal,NULL,Html,questionnaire,environment,yes,1623329870132,radio button
+1623329915,acfbe9fa873b6b50f6c56047b56bec01,PennController,3,0,personal,NULL,Html,questionnaire,asd,no,1623329870132,radio button
+1623329915,acfbe9fa873b6b50f6c56047b56bec01,PennController,3,0,personal,NULL,Html,questionnaire,psych,no,1623329870132,radio button
+1623329915,acfbe9fa873b6b50f6c56047b56bec01,PennController,3,0,personal,NULL,PennController,2,_Trial_,End,1623329870132,NULL
+1623329915,acfbe9fa873b6b50f6c56047b56bec01,PennController,4,0,audio_volume,NULL,PennController,3,_Trial_,Start,1623329870136,NULL
+1623329915,acfbe9fa873b6b50f6c56047b56bec01,PennController,4,0,audio_volume,NULL,Scale,answer1,Choice,Ja,1623329901047,NULL
+1623329915,acfbe9fa873b6b50f6c56047b56bec01,PennController,4,0,audio_volume,NULL,Scale,answer2,Choice,Ja,1623329902423,NULL
+1623329915,acfbe9fa873b6b50f6c56047b56bec01,PennController,4,0,audio_volume,NULL,PennController,3,_Trial_,End,1623329903537,NULL
+#
+# Results on Thursday June 10 2021 23:40:51 UTC.
+# USER AGENT: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:89.0) Gecko/20100101 Firefox/89.0
+# Design number was non-random = 375
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. PennElementType.
+# 9. PennElementName.
+# 10. Parameter.
+# 11. Value.
+# 12. EventTime.
+# 13. Comments.
+1623368451,ff5cbe76d43cc97c324467376e3defd3,PennController,1,0,intro1,NULL,PennController,0,_Trial_,Start,1623367966133,NULL
+1623368451,ff5cbe76d43cc97c324467376e3defd3,PennController,1,0,intro1,NULL,PennController,0,_Trial_,End,1623368213560,NULL
+1623368451,ff5cbe76d43cc97c324467376e3defd3,PennController,2,0,intro2,NULL,PennController,1,_Trial_,Start,1623368213571,NULL
+1623368451,ff5cbe76d43cc97c324467376e3defd3,PennController,2,0,intro2,NULL,Html,consent,consent,checked,1623368314703,checkbox
+1623368451,ff5cbe76d43cc97c324467376e3defd3,PennController,2,0,intro2,NULL,PennController,1,_Trial_,End,1623368314704,NULL
+1623368451,ff5cbe76d43cc97c324467376e3defd3,PennController,3,0,personal,NULL,PennController,2,_Trial_,Start,1623368314706,NULL
+1623368451,ff5cbe76d43cc97c324467376e3defd3,PennController,3,0,personal,NULL,Html,questionnaire,age,25,1623368399759,text input
+1623368451,ff5cbe76d43cc97c324467376e3defd3,PennController,3,0,personal,NULL,Html,questionnaire,psych,,1623368399760,text input
+1623368451,ff5cbe76d43cc97c324467376e3defd3,PennController,3,0,personal,NULL,Html,questionnaire,comment,,1623368399760,text input
+1623368451,ff5cbe76d43cc97c324467376e3defd3,PennController,3,0,personal,NULL,Html,questionnaire,gender,male,1623368399760,radio button
+1623368451,ff5cbe76d43cc97c324467376e3defd3,PennController,3,0,personal,NULL,Html,questionnaire,handedness,right,1623368399760,radio button
+1623368451,ff5cbe76d43cc97c324467376e3defd3,PennController,3,0,personal,NULL,Html,questionnaire,language,yes,1623368399761,radio button
+1623368451,ff5cbe76d43cc97c324467376e3defd3,PennController,3,0,personal,NULL,Html,questionnaire,hearing,no,1623368399761,radio button
+1623368451,ff5cbe76d43cc97c324467376e3defd3,PennController,3,0,personal,NULL,Html,questionnaire,vision,no,1623368399761,radio button
+1623368451,ff5cbe76d43cc97c324467376e3defd3,PennController,3,0,personal,NULL,Html,questionnaire,headphones,yes,1623368399761,radio button
+1623368451,ff5cbe76d43cc97c324467376e3defd3,PennController,3,0,personal,NULL,Html,questionnaire,environment,yes,1623368399761,radio button
+1623368451,ff5cbe76d43cc97c324467376e3defd3,PennController,3,0,personal,NULL,Html,questionnaire,asd,no,1623368399761,radio button
+1623368451,ff5cbe76d43cc97c324467376e3defd3,PennController,3,0,personal,NULL,Html,questionnaire,psych,no,1623368399761,radio button
+1623368451,ff5cbe76d43cc97c324467376e3defd3,PennController,3,0,personal,NULL,PennController,2,_Trial_,End,1623368399761,NULL
+1623368451,ff5cbe76d43cc97c324467376e3defd3,PennController,4,0,audio_volume,NULL,PennController,3,_Trial_,Start,1623368399765,NULL
+1623368451,ff5cbe76d43cc97c324467376e3defd3,PennController,4,0,audio_volume,NULL,Scale,answer1,Choice,Ja,1623368430145,NULL
+1623368451,ff5cbe76d43cc97c324467376e3defd3,PennController,4,0,audio_volume,NULL,Scale,answer2,Choice,Ja,1623368438056,NULL
+1623368451,ff5cbe76d43cc97c324467376e3defd3,PennController,4,0,audio_volume,NULL,PennController,3,_Trial_,End,1623368441511,NULL

@@ -1,5 +1,5 @@
 ---
-title: "AV-Experiment Pilot - BA thesis Aron Petau"
+title: "AV-Experiment - BA thesis Aron Petau"
 #output: html_notebook
 ---
 
@@ -15,7 +15,7 @@ library(scales)
 library(data.table)
 library(tidyverse)
 library(MASS)
-library(lmerTest)
+#library(lmerTest)
 library(lme4)
 library(sjPlot)
 library(emmeans)
@@ -32,13 +32,9 @@ data <- read.csv("../data/corr_results.csv", header = T, comment.char = "#", str
 framerate <- data%>%group_by(participant)%>%summarise(framerate=mean(frameRate))
 #low frame rates (potentially exclude): 42,51,64,73,99
 #167 -- 12.01057
-
 #168 -- 15.07841
-
 #64 -- 19.99560
-
 #180 -- 20.24291
-
 #99 -- 24.97128
 
 #low accuracy on fillers (see further below for accuracy on fillers):
@@ -348,7 +344,7 @@ task_accuracy_plot+scale_color_manual(values = c("deeppink4","royalblue2" ))+
 #outlier removal: everything above and below 2.5 standard deviations from the mean per subject
 
 #possibly include position as grouping variable, too
-task.rt <- task.clean %>% group_by(participant) %>% filter(choice_response.rt<(mean(choice_response.rt)+2.5*sd(choice_response.rt))&choice_response.rt>(mean(choice_response.rt)-2.5*sd(choice_response.rt)))%>%ungroup()
+task.rt <- task.clean %>% group_by(participant) %>%  filter(choice_response.rt<(mean(choice_response.rt)+2.5*sd(choice_response.rt))&choice_response.rt>(mean(choice_response.rt)-2.5*sd(choice_response.rt)))%>%ungroup()
 
 
 #plot raw RT data
@@ -638,6 +634,8 @@ summary(m2.acc.expl)
 
 ## Analysis of SJ responses
 
+### Synchrony question
+
 ```{r}
 #factor coding
 sj.clean$participant <- as.factor(sj.clean$participant)
@@ -672,7 +670,7 @@ m2.sync <- glmer(response_sync.keys~contrast10ms+contrast400ms+block_counter_sj+
 summary(m2.sync)
 ```
 
-## Analysis of distortion responses (plug in same type of code as for SJ analysis)
+### Analysis of distortion responses (plug in same type of code as for SJ analysis)
 
 ```{r}
 #-------------------------contrast coding-------------------------------------

@@ -970,3 +970,39 @@
 1623272102,3a45a91a0eb609244e30b512f5c3f265,Form,0,0,intro,NULL,email,Diez%2C Paul
 1623272102,3a45a91a0eb609244e30b512f5c3f265,Form,0,0,intro,NULL,email,pdiez@uni-osnabrueck.de
 1623272102,3a45a91a0eb609244e30b512f5c3f265,Form,0,0,intro,NULL,_REACTION_TIME_,118142
+#
+# Results on Thursday June 10 2021 16:22:19 UTC.
+# USER AGENT: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:89.0) Gecko/20100101 Firefox/89.0
+# Design number was non-random = 54
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1623342139,a9286f18cc5cb0ddad73ffd07c662226,Form,0,0,intro,NULL,email,Targan%2C Kim
+1623342139,a9286f18cc5cb0ddad73ffd07c662226,Form,0,0,intro,NULL,email,ktargan@uni-osnabrueck.de
+1623342139,a9286f18cc5cb0ddad73ffd07c662226,Form,0,0,intro,NULL,_REACTION_TIME_,29969
+#
+# Results on Friday June 11 2021 00:21:41 UTC.
+# USER AGENT: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:89.0) Gecko/20100101 Firefox/89.0
+# Design number was non-random = 55
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1623370902,ff5cbe76d43cc97c324467376e3defd3,Form,0,0,intro,NULL,email,Grüter%2C Laurenz
+1623370902,ff5cbe76d43cc97c324467376e3defd3,Form,0,0,intro,NULL,email,lgrueter@uni-osnabrueck.de
+1623370902,ff5cbe76d43cc97c324467376e3defd3,Form,0,0,intro,NULL,_REACTION_TIME_,75229

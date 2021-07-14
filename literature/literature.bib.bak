@@ -74,6 +74,7 @@
   eprint        = {1406.5823},
   archiveprefix = {arXiv},
   file          = {:bates2015lme4.pdf:PDF},
+  groups        = {Materials},
   primaryclass  = {stat.CO},
   timestamp     = {2021-05-14},
   year          = {2014},
@@ -177,6 +178,7 @@
   volume       = {26},
   abstract     = {Summary In the analysis of data it is often assumed that observations y1, y2, …, yn are independently normally distributed with constant variance and with expectations specified by a model linear in a set of parameters θ. In this paper we make the less restrictive assumption that such a normal, homoscedastic, linear model is appropriate after some suitable transformation has been applied to the y's. Inferences about the transformation and about the parameters of the linear model are made by computing the likelihood function and the relevant posterior distribution. The contributions of normality, homoscedasticity and additivity to the transformation are separated. The relation of the present methods to earlier procedures for finding transformations is discussed. The methods are illustrated with examples.},
   file         = {:stevenson2012.pdf:PDF},
+  groups       = {Materials},
   journal      = {Journal of the Royal Statistical Society: Series B (Methodological)},
   month        = jul,
   publisher    = {Wiley},
@@ -264,6 +266,7 @@
   title  = {data.table: Extension of `data.frame`},
   note   = {R package version 1.14.0},
   url    = {https://CRAN.R-project.org/package=data.table},
+  groups = {Materials},
   year   = {2021},
 }
 
@@ -320,6 +323,7 @@
   title  = {emmeans: Estimated Marginal Means, aka Least-Squares Means},
   note   = {R package version 1.6.0},
   url    = {https://CRAN.R-project.org/package=emmeans},
+  groups = {Materials},
   year   = {2021},
 }
 
@@ -356,6 +360,7 @@
   isbn      = {978-3-319-24277-4},
   publisher = {Springer-Verlag New York},
   url       = {https://ggplot2.tidyverse.org},
+  groups    = {Materials},
   year      = {2016},
 }
 
@@ -417,19 +422,21 @@
 }
 
 @Article{haas1972the,
-  author  = {haas, helmut},
-  title   = {the influence of a single echo on the audibility of speech},
-  number  = {2},
-  pages   = {146--159},
-  volume  = {20},
-  journal = {journal of the audio engineering society},
-  month   = mar,
-  year    = {1972},
+  author       = {Haas, Helmut},
+  date         = {1972},
+  journaltitle = {Journal of the audio engineering society},
+  title        = {The influence of a single echo on the audibility of speech},
+  number       = {2},
+  pages        = {146--159},
+  volume       = {20},
+  journal      = {Journal of the audio engineering society},
+  month        = mar,
+  year         = {1972},
 }
 
 @Article{Hay-McCutcheon2009Asynchrony,
   author    = {Marcia J. Hay-McCutcheon and David B. Pisoni and Kristopher K. Hunt},
-  title     = {Audiovisual asynchrony detection and speech perception in hearing-impaired listeners with cochlear implants: A preliminary analysis},
+  title     = {Audiovisual asynchrony detection and speech perception in hearing-impaired listeners with cochlear implants: A preliminary analysis, TWIN},
   doi       = {10.1080/14992020802644871},
   eprint    = {https://doi.org/10.1080/14992020802644871},
   number    = {6},
@@ -448,7 +455,7 @@
   author       = {Andrea Hillock-Dunn and D. Wesley Grantham and Mark T. Wallace},
   date         = {2016},
   journaltitle = {Neuropsychologia},
-  title        = {The temporal binding window for audiovisual speech: Children are like little adults},
+  title        = {The temporal binding window for audiovisual speech: Children are like little adults, TWIN},
   doi          = {https://doi.org/10.1016/j.neuropsychologia.2016.02.017},
   issn         = {0028-3932},
   note         = {Special Issue: Synaesthesia and Multisensory Processes},
@@ -476,6 +483,8 @@
   volume       = {28},
   abstract     = {Objective/BackgroundThe purpose of this pilot study was to examine the effectiveness of standard earmuffs and noise-cancelling (NC) headphones in controlling behavioural problems related to hyper-reactivity to auditory stimuli in children with autism spectrum disorder (ASD).MethodsTwenty-one children with ASD aged 4–16 years (16 boys and 5 girls), after a 2-week nonwearing baseline period, were asked to use standard earmuffs and NC headphones for 2 weeks, in a random order. Parents or teachers rated participants’ behaviours that were related to their reaction to auditory stimuli.ResultsFour participants refused to wear either the earmuffs or the NC headphones. It was found that the T-score on the Goal Attainment Scaling was significantly higher during the earmuff period than that in the baseline period (Z = 2.726, p = .006). The behaviours of 5 children with ASD improved during the NC headphone period as compared with those in the baseline period; there were no differences in the T-scores on the Goal Attainment Scaling between the NC headphone period and the baseline period (Z = 1.689, p = .091) and between the earmuff and NC headphone periods (Z = −0.451, p = .678).ConclusionThis study demonstrated the effectiveness of standard earmuffs and NC headphones in helping children with ASD to cope with problem behaviours related to hyperreactivity to auditory stimuli, therefore, children with ASD could use earmuffs to help to deal with unpleasant sensory auditory stimuli.},
   file         = {:ikuta2016.pdf:PDF},
+  journal      = {Hong Kong Journal of Occupational Therapy},
+  year         = {2016},
 }
 
 @Article{ipser2017sight,
@@ -539,6 +548,22 @@
   timestamp = {2021-03-31},
 }
 
+@Article{Jueris2014,
+  author       = {Linda Jüris and Gerhard Andersson and Hans Christian Larsen and Lisa Ekselius},
+  date         = {2014},
+  journaltitle = {Behaviour Research and Therapy},
+  title        = {Cognitive behaviour therapy for hyperacusis: A randomized controlled trial},
+  doi          = {https://doi.org/10.1016/j.brat.2014.01.001},
+  issn         = {0005-7967},
+  pages        = {30--37},
+  url          = {https://www.sciencedirect.com/science/article/pii/S0005796714000084},
+  volume       = {54},
+  abstract     = {Hyperacusis, defined as unusual intolerance to ordinary environmental sounds, is a common problem for which there are no controlled trials on psychological treatment. Given the avoidance strategies present in hyperacusis, and similarities with problems such as tinnitus and chronic pain, cognitive behaviour therapy (CBT) is hypothesized to be helpful for patients with hyperacusis. In this randomized controlled study of 60 patients with hyperacusis, CBT was compared with a waiting list control group using the Loudness Discomfort Level test (LDL), the Hyperacusis Questionnaire, the Hospital Anxiety and Depression Scales, the Quality of Life Inventory and an adapted version of the Tampa Scale of Kinesiophobia. There were significant between-group effects in favour of the CBT group on all measures except for the HADS anxiety scale. Between-group effect sizes were moderate to high, with Cohen's d = 0.67 and 0.69 per ear, respectively, for the primary measure LDL, and ranging from d = 0.32 to 1.36 for the secondary measures. The differences between groups ceased to exist when the waiting list group was treated later with CBT, and the treatment results were largely maintained after 12 months. In conclusion, CBT is a promising treatment for hyperacusis, although more research is necessary.},
+  journal      = {Behaviour Research and Therapy},
+  keywords     = {Cognitive behaviour therapy (CBT), Hyperacusis, Randomized controlled trial (RCT)},
+  year         = {2014},
+}
+
 @Book{kavanagh1972language,
   author       = {Kavanagh, James F and Mattingly, Ignatius G and others},
   date         = {1974-12},
@@ -583,6 +608,21 @@
   file      = {:C\:/Users/aron/Google Drive/BA/thesis/literature/klockgether2016.pdf:PDF},
   timestamp = {2020-11-30},
   url       = {https://doi.org/10.1121/1.4964844},
+}
+
+@Article{kuiper2019stop,
+  author       = {Kuiper, Marieke WM and Verhoeven, Elisabeth WM and Geurts, Hilde M},
+  date         = {2019},
+  journaltitle = {Journal of Autism and Developmental Disorders},
+  title        = {Stop making noise! Auditory sensitivity in adults with an autism spectrum disorder diagnosis: Physiological habituation and subjective detection thresholds},
+  doi          = {10.1007/s10803-019-03890-9},
+  issn         = {0162-3257},
+  number       = {5},
+  pages        = {2116--2128},
+  volume       = {49},
+  journal      = {Journal of autism and developmental disorders},
+  publisher    = {Springer},
+  year         = {2019},
 }
 
 @Book{kuo2013real,
@@ -665,6 +705,7 @@
   number  = {13},
   pages   = {1--26},
   volume  = {82},
+  groups  = {Materials},
   journal = {Journal of Statistical Software},
   year    = {2017},
 }
@@ -717,6 +758,7 @@
   publisher = {Springer},
   url       = {https://www.stats.ox.ac.uk/pub/MASS4/},
   address   = {New York},
+  groups    = {Materials},
   year      = {2002},
 }
 
@@ -899,9 +941,13 @@ Key : handedness test
   journaltitle = {Frontiers in Integrative Neuroscience},
   title        = {Effectiveness of Noise-Attenuating Headphones on Physiological Responses for Children With Autism Spectrum Disorders},
   doi          = {10.3389/fnint.2019.00065},
+  issn         = {1662-5145},
   pages        = {65},
   volume       = {13},
   file         = {:pfeiffer2018.pdf:PDF},
+  journal      = {Frontiers in Integrative Neuroscience},
+  publisher    = {Frontiers Media {SA}},
+  year         = {2019},
 }
 
 @Article{pollack1954visual,
@@ -960,6 +1006,22 @@ Key : handedness test
   year      = {2007},
 }
 
+@Article{rance2017reducing,
+  author       = {Rance, Gary and Chisari, Donella and Saunders, Kerryn and Rault, Jean-Loup},
+  date         = {2017},
+  journaltitle = {Journal of Autism and Developmental Disorders},
+  title        = {Reducing listening-related stress in school-aged children with autism spectrum disorder},
+  doi          = {10.1007/s10803-017-3114-4},
+  issn         = {0162-3257},
+  number       = {7},
+  pages        = {2010--2022},
+  volume       = {47},
+  file         = {:Rance2017_Article_ReducingListening-RelatedStres.pdf:PDF},
+  journal      = {Journal of autism and developmental disorders},
+  publisher    = {Springer},
+  year         = {2017},
+}
+
 @InProceedings{ren2016asynchrony,
   author    = {Y. {Ren} and W. {Yang} and Q. {Wu} and F. {Wu} and S. {Takahashi} and E. {Yoshimichi} and J. {Wu}},
   booktitle = {2016 IEEE International Conference on Mechatronics and Automation},
@@ -971,12 +1033,16 @@ Key : handedness test
   year      = {2016},
 }
 
-@Manual{rmisc,
-  author = {Ryan M. Hope},
-  title  = {Rmisc: Rmisc: Ryan Miscellaneous},
-  note   = {R package version 1.5},
-  url    = {https://CRAN.R-project.org/package=Rmisc},
-  year   = {2013},
+@Manual{rlanguage,
+  author       = {{R Core Team}},
+  date         = {2021},
+  title        = {R: A Language and Environment for Statistical Computing},
+  organization = {R Foundation for Statistical Computing},
+  url          = {https://www.R-project.org/},
+  address      = {Vienna, Austria},
+  groups       = {Materials},
+  timestamp    = {2021-05-14},
+  year         = {2021},
 }
 
 @Manual{rmisc,
@@ -984,6 +1050,7 @@ Key : handedness test
   title  = {Rmisc: Rmisc: Ryan Miscellaneous},
   note   = {R package version 1.5},
   url    = {https://CRAN.R-project.org/package=Rmisc},
+  groups = {Materials},
   year   = {2013},
 }
 Key:
@@ -1049,18 +1116,6 @@ Key:
   timestamp = {2020-11-30},
 }
 
-@Manual{rstudio,
-  author       = {{R Core Team}},
-  date         = {2021},
-  title        = {R: A Language and Environment for Statistical Computing},
-  organization = {R Foundation for Statistical Computing},
-  url          = {https://www.R-project.org/},
-  address      = {Vienna, Austria},
-  groups       = {Materials},
-  timestamp    = {2021-05-14},
-  year         = {2021},
-}
-
 @Article{sakamoto2018,
   author    = {Shuichi Sakamoto and Zhenglie Cui and Tomori Miyashita and Masayuki Morimoto and Yôiti Suzuki and Hayato Sato},
   title     = {Effects of inter-word pauses on speech intelligibility under long-path echo conditions},
@@ -1099,6 +1154,7 @@ Key:
   title  = {scales: Scale Functions for Visualization},
   note   = {R package version 1.1.1},
   url    = {https://CRAN.R-project.org/package=scales},
+  groups = {Materials},
   year   = {2020},
 }
 
@@ -1107,6 +1163,7 @@ Key:
   title  = {sjPlot: Data Visualization for Statistics in Social Science},
   note   = {R package version 2.8.8},
   url    = {https://CRAN.R-project.org/package=sjPlot},
+  groups = {Materials},
   year   = {2021},
 }
 
@@ -1197,7 +1254,7 @@ The cat superior colliculus neuron is a major site for the convergence and integ
   author       = {Stevenson, Ryan A and Zemtsov, Raquel K and Wallace, Mark T},
   date         = {2012-12},
   journaltitle = {Journal of Experimental Psychology: Human Perception and Performance},
-  title        = {Individual differences in the multisensory temporal binding window predict susceptibility to audiovisual illusions.},
+  title        = {Individual differences in the multisensory temporal binding window predict susceptibility to audiovisual illusions., TWIN},
   doi          = {10.1037/a0027339},
   issn         = {1939-1277},
   number       = {6},
@@ -1341,6 +1398,7 @@ The cat superior colliculus neuron is a major site for the convergence and integ
   number  = {43},
   pages   = {1686},
   volume  = {4},
+  groups  = {Materials},
   journal = {Journal of Open Source Software},
   year    = {2019},
 }
@@ -1395,7 +1453,7 @@ The cat superior colliculus neuron is a major site for the convergence and integ
 
 @Article{vanwassenhove2007window,
   author    = {Virginie {van Wassenhove} and Ken W. Grant and David Poeppel},
-  title     = {Temporal window of integration in auditory-visual speech perception},
+  title     = {Temporal window of integration in auditory-visual speech perception, TWIN},
   doi       = {https://doi.org/10.1016/j.neuropsychologia.2006.01.001},
   issn      = {0028-3932},
   note      = {Advances in Multisensory Processes},
@@ -1535,11 +1593,25 @@ The cat superior colliculus neuron is a major site for the convergence and integ
   url       = {https://www.sciencedirect.com/science/article/pii/S0167876003001326},
 }
 
+@Article{zampini2003audiovisual,
+  author    = {Zampini, Massimiliano and Shore, David I and Spence, Charles},
+  date      = {2003},
+  title     = {Audiovisual temporal order judgments},
+  doi       = {10.1007/s00221-003-1536-z},
+  issn      = {0014-4819},
+  number    = {2},
+  pages     = {198--210},
+  volume    = {152},
+  journal   = {Experimental brain research},
+  publisher = {Springer},
+  year      = {2003},
+}
+
 @Article{Zhou2020,
   author       = {Han-yu Zhou and Eric F.C. Cheung and Raymond C.K. Chan},
   date         = {2020},
   journaltitle = {Neuropsychologia},
-  title        = {Audiovisual temporal integration: Cognitive processing, neural mechanisms, developmental trajectory and potential interventions},
+  title        = {Audiovisual temporal integration: Cognitive processing, neural mechanisms, developmental trajectory and potential interventions, TWIN},
   doi          = {https://doi.org/10.1016/j.neuropsychologia.2020.107396},
   issn         = {0028-3932},
   pages        = {107396},
@@ -1563,6 +1635,12 @@ The cat superior colliculus neuron is a major site for the convergence and integ
 0 AllEntriesGroup:;
 1 StaticGroup:Materials\;0\;0\;0x8a8a8aff\;\;all the tools and software used\;;
 1 StaticGroup:Multisensory Integration\;0\;1\;0x8a8a8aff\;\;\;;
+1 StaticGroup:Sensory sensitivity\;0\;1\;0x8a8a8aff\;\;\;;
+1 StaticGroup:Autism\;0\;1\;0x8a8a8aff\;\;\;;
+1 KeywordGroup:TWIN\;0\;title\;TWIN\;0\;0\;0\;0x8a8a8aff\;\;\;;
+1 StaticGroup:SJ\;0\;1\;0x8a8a8aff\;\;\;;
+1 StaticGroup:TOJ\;0\;1\;0x8a8a8aff\;\;\;;
+1 StaticGroup:Asynchrony with Speech\;0\;1\;0x8a8a8aff\;\;\;;
 }
 
 @Comment{jabref-meta: saveActions:enabled;

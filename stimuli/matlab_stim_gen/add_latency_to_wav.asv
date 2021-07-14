@@ -1,0 +1,12 @@
+latency = 0.2 % in seconds
+file = '001.wav'
+
+
+[filename, Ofilepath] = uigetfile(pwd, ...
+    'Select the outer-ear microphone recording', '*.wav');
+[OEM, pinknoise_fs] = audioread(fullfile(OEM_filepath,OEM_filename));
+
+[y,Fs] = audioread(file);
+merged = [zeros(Fs * latency, size(y, 2));y];
+
+%audiowrite('200ms_001.wav',merged,Fs);

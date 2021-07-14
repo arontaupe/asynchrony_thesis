@@ -1,6 +1,7 @@
-Greta Bramow gbramow@uos.de
-Amely Schulz <amschulz@uni-osnabrueck.de>
-Virginie Wirth <vwirth@uni-osnabrueck.de>
-Sandra Lüderwald sandra.luederwald@osnanet.de
-Jacob Dudek <jac-d@web.de>
-Lukas Möllersmann <l.moellersmann@gmail.com>
+Bramow, Greta,  gbramow@uos.de
+Schulz, Amely, amschulz@uni-osnabrueck.de
+Wirth, Virginie, vwirth@uni-osnabrueck.de
+Lüderwald ,Sandra, sandra.luederwald@osnanet.de
+Dudek, Jacob , jac-d@web.de
+Möllersmann, Lukas, l.moellersmann@gmail.com
+Rohmann, Patrick, prohmann@uni-osnabrueck.de
